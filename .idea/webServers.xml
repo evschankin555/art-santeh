@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5ebddf55-e463-439b-b662-8d9fef0d7c55" name="art-santeh.ru">
+        <fileTransfer rootFolder="/home/s/slava1983/art-santeh.ru/public_html" accessType="SFTP" host="art-santeh.ru" port="22" sshConfigId="54d5e7ee-99dc-4204-b03c-11d9ee5f62cf" sshConfig="slava1983_ssh@art-santeh.ru:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
