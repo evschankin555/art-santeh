@@ -24,13 +24,13 @@ $_SERVER['SERVER_PORT'] = 443;
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'wordpress_db_mirvann' );
+define( 'DB_NAME', 'slava1983_2023' );
 
 /** Database username */
-define( 'DB_USER', 'wordpress_user_mirvann' );
+define( 'DB_USER', 'slava1983_2023' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'dGeV4G6$g$' );
+define( 'DB_PASSWORD', 'uIqFV7R&' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
