@@ -2150,7 +2150,6 @@ abstract class WC_Abstract_Order extends WC_Abstract_Legacy_Order {
 			$subtotal = $subtotal - $this->get_total_discount();
 			$subtotal = wc_price( $subtotal, array( 'currency' => $this->get_currency() ) );
 		}
-
 		return apply_filters( 'woocommerce_order_subtotal_to_display', $subtotal, $compound, $this );
 	}
 

@@ -95,7 +95,6 @@ function custom_wc_price( $price, $args ) {
     if (is_array($args)) {
         extract( $args );
     }
-
     $return          = '';
     $num_decimals    = 0;  // Количество десятичных знаков
     $currency        = get_option( 'woocommerce_currency' );
@@ -104,7 +103,7 @@ function custom_wc_price( $price, $args ) {
     $currency_symbol = '₽';  // Символ рубля
 
     // Убрать все кроме цифр и точек, преобразовать в float
-    $price = preg_replace('/[^0-9.]/', '', $price);
+    $price = preg_replace('/[^0-9.]/', '', $args);
     $price = floatval($price);
 
     // Округление и форматирование числа
@@ -700,7 +699,6 @@ function customize_my_other_breadcrumb($breadcrumb, $args) {
     return $newBreadcrumb;
 }
 function custom_image_sizes($sizes) {
-    // Удалите размеры, которые вам не нужны
     unset($sizes['thumbnail']);
     unset($sizes['medium']);
     unset($sizes['medium_large']);
@@ -711,10 +709,41 @@ function custom_image_sizes($sizes) {
     unset($sizes['100x100']);
     //unset($sizes['115x115']);
 
-    // Добавьте только необходимые размеры превью
     $sizes['300x300'] = 'Custom Size 1';
     $sizes['600x600'] = 'Custom Size 2';
 
     return $sizes;
 }
 add_filter('intermediate_image_sizes_advanced', 'custom_image_sizes');
+
+add_filter('woocommerce_default_catalog_orderby', 'custom_default_catalog_orderby');
+
+function custom_default_catalog_orderby() {
+    return 'date'; // Устанавливаем сортировку по умолчанию на "date"
+}
+remove_filter('woocommerce_order_subtotal_to_display', 'woocommerce_price_order_subtotal_to_display', 10, 3);
+add_filter('woocommerce_order_subtotal_to_display', 'custom_woocommerce_price_order_subtotal_to_display', 1000, 3);
+function custom_woocommerce_price_order_subtotal_to_display($price_html, $item, $order) {
+    if ($price_html == "") {
+        return "";
+    }
+
+    static $customer_price_format = -1;
+    if ($customer_price_format === -1) {
+        $customer_price_format = get_option('woocs_customer_price_format', '__PRICE__');
+    }
+    if (empty($customer_price_format)) {
+        $customer_price_format = '__PRICE__';
+    }
+    if (!empty($customer_price_format)) {
+
+        $classes = "woocs_price_code";
+
+        $txt = 'swrwrwr<span class="' . $classes . '" data-currency="RUB" data-redraw-id="' . uniqid() . '" >RUB</span>';
+        $txt = str_replace('__PRICE__', $price_html, $txt);
+        $price_html = str_replace('__CODE__', '<span class="woocs_price_code">RUB</span>', $txt);
+        $price_html = apply_filters('woocs_price_html_tail', $price_html);
+    }
+
+    return $price_html;
+}
