@@ -18,7 +18,6 @@
  */
 
 defined('ABSPATH') || exit;
-
 global $product;
 if ( is_object( $product ) ) {
     $product_id = $product->get_id();

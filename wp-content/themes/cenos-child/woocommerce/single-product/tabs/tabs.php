@@ -36,6 +36,34 @@ $cenos_tabs_class = ['cenos-wc-tabs'];
 if ('vertical' == $woo_single_tabs_style) {
     $cenos_tabs_class[] = 'vertical';
 }
+function get_product_attributes($product_id) {
+    $product_attributes = array();
+
+    $product = wc_get_product($product_id);
+
+    if ($product) {
+        $attributes = $product->get_attributes();
+
+        foreach ($attributes as $attribute) {
+            $attribute_label = wc_attribute_label($attribute->get_name()); // Получаем более информативное название атрибута
+            $attribute_options = $attribute->get_terms(); // Значения атрибута
+            $attribute_values = wp_list_pluck($attribute_options, 'name');
+
+            // Фильтруем пустые значения
+            $attribute_values = array_filter($attribute_values);
+
+            if (!empty($attribute_values)) {
+                $product_attributes[] = array(
+                    'label' => $attribute_label,
+                    'value' => implode(", ", $attribute_values),
+                );
+            }
+        }
+    }
+
+    return $product_attributes;
+}
+
 
 if ( ! empty( $product_tabs ) ) : ?>
     <div class="woocommerce-tabs wc-tabs-wrapper <?php echo implode( ' ', $cenos_tabs_class ); ?>">
@@ -61,10 +89,15 @@ if ( ! empty( $product_tabs ) ) : ?>
                     }
 
                     $productDataRetriever = new ProductDataRetriever($product_id);
-                    $product_attributes = $productDataRetriever->getSelectedProductData();
+                    $product_attributes1 = $productDataRetriever->getSelectedProductData();
+                    $product_attributes2 = get_product_attributes($product_id);
+
+                    $product_attributes = array_merge($product_attributes1, $product_attributes2);
 
                     if ($product_attributes) : ?>
                         <table class="woocommerce-product-attributes shop_attributes">
+
+
                             <?php foreach ($product_attributes as $product_attribute_key => $product_attribute) : ?>
                                 <tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--<?php echo esc_attr($product_attribute_key); ?>">
                                     <th class="woocommerce-product-attributes-item__label"><?php echo wp_kses_post($product_attribute['label']); ?></th>
