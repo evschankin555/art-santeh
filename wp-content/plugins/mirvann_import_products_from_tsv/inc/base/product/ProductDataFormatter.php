@@ -90,7 +90,7 @@ class ProductDataFormatter {
         $data = [];
         foreach ($this->meta_keys as $key => $details) {
             $value = get_post_meta($this->product_id, $key, true);
-            if (isset($value)) {
+            if (isset($value) && !empty($value)) {
                 $data[$key] = $this->getFormattedData($key, $value, $this->meta_keys);
             }
         }
