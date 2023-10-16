@@ -1,0 +1,58 @@
+.fmtpl-countdown .fmtpl-banner-content {
+  display: flex;
+  flex-direction: column;
+}
+.fmtpl-countdown .fmtpl-countdown-time {
+  display: flex;
+  justify-content: flex-start;
+}
+.fmtpl-countdown .fmtpl-countdown-time.right {
+  justify-content: flex-end;
+}
+.fmtpl-countdown .fmtpl-countdown-time.center {
+  justify-content: center;
+}
+.fmtpl-countdown .fmtpl-countdown-time .box-count {
+  display: flex;
+  flex: 1 1 auto;
+  text-align: center;
+  align-items: center;
+}
+.fmtpl-countdown .fmtpl-countdown-time .box-count .num {
+  text-align: center;
+}
+.fmtpl-countdown .fmtpl-countdown-time.hide_lable .box-count .text {
+  display: none !important;
+}
+.fmtpl-countdown-label-block .fmtpl-countdown .box-count {
+  flex-direction: column;
+}
+.fmtpl-content-align-left .fmtpl-countdown .fmtpl-banner-content {
+  text-align: left;
+  align-items: flex-start;
+}
+.fmtpl-content-align-left .fmtpl-countdown .fmtpl-countdown-time {
+  justify-content: flex-start;
+}
+.fmtpl-content-align-center .fmtpl-countdown .fmtpl-banner-content {
+  text-align: center;
+  align-items: center;
+}
+.fmtpl-content-align-center .fmtpl-countdown .fmtpl-countdown-time {
+  justify-content: center;
+}
+.fmtpl-content-align-right .fmtpl-countdown .fmtpl-banner-content {
+  text-align: right;
+  align-items: flex-end;
+}
+.fmtpl-content-align-right .fmtpl-countdown .fmtpl-countdown-time {
+  justify-content: flex-end;
+}
+.fmtpl-digits-position-before .fmtpl-countdown .num {
+  order: 0;
+}
+.fmtpl-digits-position-after .fmtpl-countdown .num {
+  order: 1;
+}
+
+/*# sourceMappingURL=fmtpl-countdown.css.map */

@@ -1,0 +1,12 @@
+.fmtpl-menu{
+  .nav_menu_content{
+    &.has_item_divider{
+      .menu-item{
+        &:after{
+          content: "";
+          display: block;
+        }
+      }
+    }
+  }
+}

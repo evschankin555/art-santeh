@@ -1,0 +1,51 @@
+.fmtpl-writer-banner {
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+.fmtpl-writer-banner .fmtpl-writer-banner-box-img, .fmtpl-writer-banner .fmtpl-writer-banner-overlay, .fmtpl-writer-banner .fmtpl-writer-banner-background {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+.fmtpl-writer-banner .fmtpl-writer-banner-overlay {
+  transition: background-color 0.5s ease-in-out;
+}
+.fmtpl-writer-banner .fmtpl-writer-banner-background {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+.fmtpl-writer-banner .fmtpl-writer-banner-background.zoom {
+  transition: transform 0.5s linear 0s;
+}
+.fmtpl-writer-banner .fmtpl-writer-banner-background.gray_scale {
+  transition: filter 0.5s ease-in-out;
+}
+.fmtpl-writer-banner:hover .fmtpl-writer-banner-background.zoom {
+  transform: scale(1.05);
+}
+.fmtpl-writer-banner:hover .fmtpl-writer-banner-background.gray_scale {
+  filter: grayscale(100%);
+}
+.fmtpl-writer-banner .fmtpl-writer-banner-box-img {
+  opacity: 0;
+}
+.fmtpl-writer-banner .fmtpl-writer-banner-box-img:not(.has-link) {
+  visibility: hidden;
+}
+.fmtpl-writer-banner .fmtpl-writer-banner-box-img.has-link img {
+  width: 100%;
+  height: 100%;
+}
+.fmtpl-writer-banner .fmtpl-writer-banner-content {
+  z-index: 1;
+  height: max-content;
+}
+.fmtpl-writer-banner .txt-rotate > .wrap {
+  border-right: 0.08em solid #666;
+}
+
+/*# sourceMappingURL=fmtpl-writer-banner.css.map */

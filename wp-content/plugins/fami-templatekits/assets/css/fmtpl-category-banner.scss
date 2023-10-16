@@ -1,0 +1,104 @@
+.fmtpl-category-banner{
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  .fmtpl-category-banner-box-img,.fmtpl-category-banner-overlay,.fmtpl-category-banner-background {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+  }
+  .fmtpl-category-banner-overlay{
+    transition: background-color 0.5s ease-in-out;
+  }
+  .fmtpl-category-banner-background{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left top;
+    &.zoom{
+      transition: transform 0.5s linear 0s;
+    }
+  }
+  &:hover{
+    .fmtpl-category-banner-background.zoom{
+      transform: scale(1.05);
+    }
+
+  }
+  .fmtpl-category-banner-box-img{
+    opacity: 0;
+    &:not(.has-link) {
+      visibility: hidden;
+    }
+    &.has-link{
+      img{
+        width: 100%;
+        height: 100%;
+      }
+    }
+  }
+  .fmtpl-category-banner-content{
+    z-index: 1;
+    height: max-content;
+    .fmtpl-content-align-left &{
+      text-align: left;
+      .fmtpl-products-count{
+        justify-content: flex-start;
+      }
+    }
+    .fmtpl-content-align-right &{
+      text-align: right;
+      .fmtpl-products-count{
+        justify-content: flex-end;
+      }
+    }
+    .fmtpl-content-align-center &{
+      text-align: center;
+      .fmtpl-products-count{
+        justify-content: center;
+      }
+    }
+  }
+  .fmtpl-products-count{
+    display: flex;
+    .products-count-title{
+      margin-right: 5px;
+    }
+    &.right{
+      .products-count-title{
+        margin-left: 5px;
+        margin-right: initial;
+        order: 1;
+      }
+    }
+  }
+  .fmtpl-category-banner-title{
+    display: flex;
+    align-items: center;
+    .fmtpl-content-align-left &{
+      justify-content: flex-start;
+    }
+    .fmtpl-content-align-right &{
+      justify-content: flex-end;
+    }
+    .fmtpl-content-align-center &{
+      justify-content: center;
+    }
+    &.icon-pos-top, &.icon-pos-bottom{
+      flex-direction: column;
+      .fmtpl-content-align-left &{
+        justify-content: center;
+        align-items: flex-start;
+      }
+      .fmtpl-content-align-right &{
+        justify-content: center;
+        align-items: flex-end;
+      }
+      .fmtpl-content-align-center &{
+        justify-content: center;
+        align-items: center;
+      }
+    }
+  }
+}

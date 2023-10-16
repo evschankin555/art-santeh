@@ -1,0 +1,17 @@
+#gallery_360degree{
+  h4{
+    font-weight: bold;
+  }
+  .options_group{
+    padding: 15px;
+  }
+  .product-gallery-images{
+    li.image{
+      display: inline-block;
+      img{
+        width: 100px;
+        height: auto;
+      }
+    }
+  }
+}

@@ -1,0 +1,3920 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cenos\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-17 08:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.5.3"
+
+#: inc/theme-template-functions.php:547
+#: inc/elementor/fmtpl_template_functions.php:387
+msgid "% Comments"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:23
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#. %s: Video provider
+#: inc/woocommerce/woocommerce-template-functions.php:1863
+#, php-format
+msgid "%s Video Player"
+msgstr ""
+
+#: comments.php:39 comments.php:60
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: inc/widgets/recent_post.php:79
+msgid "(no title)"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/theme-template-functions.php:588 inc/theme-template-functions.php:596
+msgid ", "
+msgstr ""
+
+#: inc/theme-functions.php:388 inc/settings/setting_init.php:3
+msgid "-- None --"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:1470
+msgid "1"
+msgstr ""
+
+#: inc/theme-template-functions.php:547
+#: inc/elementor/fmtpl_template_functions.php:387
+msgid "1 Comment"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:1481
+msgid "2"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:1488
+#: inc/woocommerce/woocommerce-template-functions.php:1518
+msgid "3"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:1729
+msgid "360 Degree"
+msgstr ""
+
+#: 404.php:23
+msgid "404"
+msgstr ""
+
+#: inc/lib/breadcrumbs.php:222
+msgid "404 Not Found"
+msgstr ""
+
+#: woocommerce/myaccount/fm-register.php:30
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: inc/widgets/featured-box.php:11
+msgid "A widget that displays a custom box "
+msgstr ""
+
+#: template-parts/blog/author_bio.php:13
+msgid "About author"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:417
+#: inc/settings/mobile/mobile.php:72
+msgid "Accordion"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:63
+msgid "Add"
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:112
+#: inc/settings/announcement/announcement.php:306
+#: inc/settings/header/hamburger_fields.php:66
+#: inc/settings/header/mobile_fields.php:156
+#: inc/settings/header/html_fields.php:14
+#: inc/settings/header/html_fields.php:28
+#: inc/settings/header/html_fields.php:42
+#: inc/settings/header/html_fields.php:56
+#: inc/settings/header/html_fields.php:70
+#: inc/settings/header/html_fields.php:84
+#: inc/settings/header/html_fields.php:98
+#: inc/settings/header/html_fields.php:112 inc/settings/footer/footer.php:205
+#: inc/settings/footer/footer.php:224 inc/settings/footer/footer.php:243
+msgid "Add Any HTML or Shortcode here..."
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:1120
+msgid "Added to Cart Notification"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:28
+msgid "Advance Banner"
+msgstr ""
+
+#: inc/settings/header/search_fields.php:155
+msgid "Ajax Live Search"
+msgstr ""
+
+#: inc/settings/header/search_fields.php:159
+msgid "Ajax Search"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:189
+#: inc/elementor/widgets/advance_banner.php:275
+msgid "Alignment"
+msgstr ""
+
+#: inc/theme-template-functions.php:1062 inc/theme-template-functions.php:1090
+msgid "All"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:330
+msgid "all categories"
+msgstr ""
+
+#: inc/settings/header/transparent_fields.php:24
+msgid "All page"
+msgstr ""
+
+#: inc/admin/plugins.php:143
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:162
+msgid "All Products"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:41
+msgid "All products loaded"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:1581
+msgid "Already a member?"
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:240
+msgid "Announcement Background"
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:15
+msgid "Announcement Bar "
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:62
+msgid "Announcement Bar Layout"
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:219
+msgid "Announcement Typography"
+msgstr ""
+
+#: woocommerce/cart/cart.php:144
+msgid "Apply coupon"
+msgstr ""
+
+#: inc/settings/header/transparent_fields.php:20
+msgid "Apply On Page"
+msgstr ""
+
+#: inc/settings/blog/blog.php:66
+msgid "Archive/Listing"
+msgstr ""
+
+#: inc/lib/breadcrumbs.php:223
+msgid "Archives"
+msgstr ""
+
+#: inc/settings/blog/blog.php:368
+msgid "Author Bio"
+msgstr ""
+
+#: woocommerce/cart/cart.php:93
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:50
+msgid "Awaiting product image"
+msgstr ""
+
+#: inc/settings/header/hamburger_fields.php:81
+#: inc/settings/woocommerce/shop_fields.php:194
+#: inc/settings/woocommerce/shop_fields.php:655
+#: inc/settings/footer/footer.php:84
+msgid "Background"
+msgstr ""
+
+#: inc/admin/metabox_init.php:53 inc/admin/metabox_init.php:120
+#: inc/settings/general/general.php:97 inc/settings/header/header.php:130
+#: inc/settings/header/sticky_fields.php:68
+#: inc/settings/header/transparent_fields.php:74
+#: inc/settings/color_style/style.php:57
+#: inc/elementor/widgets/category_bg.php:61
+#: inc/elementor/widgets/category_bg.php:68
+#: inc/elementor/widgets/advance_banner.php:98
+#: inc/elementor/widgets/advance_banner.php:105
+#: inc/elementor/widgets/advance_banner.php:299
+#: inc/elementor/widgets/advance_banner.php:600
+#: inc/elementor/widgets/advance_banner.php:608
+msgid "Background Color"
+msgstr ""
+
+#: inc/settings/color_style/style.php:72
+msgid "Background Color Hover"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:864
+#: inc/settings/woocommerce/woo_setting.php:30
+msgid "Badges"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:783
+msgid "Banner"
+msgstr ""
+
+#: inc/settings/general/general.php:155
+msgid "Banner Image"
+msgstr ""
+
+#: inc/admin/plugins.php:140
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugins.php:139
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/settings/header/social_fields.php:22
+msgid "Behance"
+msgstr ""
+
+#: inc/settings/general/general.php:381
+msgid "Behance."
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:133
+#: inc/settings/woocommerce/shop_fields.php:497
+msgid "Best Sellers"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:26
+#: woocommerce/myaccount/my-address.php:35
+msgid "Billing address"
+msgstr ""
+
+#: inc/settings/blog/blog.php:9 inc/settings/blog/blog.php:65
+msgid "Blog"
+msgstr ""
+
+#: inc/settings/blog/blog.php:23
+msgid "Blog Archive/Listing"
+msgstr ""
+
+#: inc/settings/blog/blog.php:79
+msgid "Blog Header Block"
+msgstr ""
+
+#: inc/settings/blog/blog.php:19
+msgid "Blog Heading"
+msgstr ""
+
+#: inc/settings/blog/blog.php:169
+msgid "Blog Heading Background"
+msgstr ""
+
+#: inc/settings/blog/blog.php:60
+msgid "Blog Heading Display"
+msgstr ""
+
+#: inc/settings/blog/blog.php:255
+msgid "Blog Heading Divider"
+msgstr ""
+
+#: inc/settings/blog/blog.php:148
+msgid "Blog Heading Height"
+msgstr ""
+
+#: inc/settings/blog/blog.php:94
+msgid "Blog Heading Layout"
+msgstr ""
+
+#: inc/settings/blog/blog.php:47
+msgid "Blog Heading On Mobile"
+msgstr ""
+
+#: inc/settings/blog/blog.php:126
+msgid "Blog Heading Width"
+msgstr ""
+
+#: inc/settings/blog/blog.php:311
+msgid "Blog List Style"
+msgstr ""
+
+#: inc/settings/blog/blog.php:288
+msgid "Blog sidebar"
+msgstr ""
+
+#: inc/settings/blog/blog.php:27
+msgid "Blog Single Post"
+msgstr ""
+
+#: inc/settings/typography/typography.php:37
+msgid "Body"
+msgstr ""
+
+#: inc/settings/typography/typography.php:17
+msgid "Body "
+msgstr ""
+
+#: inc/admin/metabox_init.php:83 inc/elementor/init.php:233
+#: inc/settings/header/header.php:154
+#: inc/elementor/widgets/advance_banner.php:379
+#: inc/elementor/widgets/advance_banner.php:616
+#: inc/elementor/widgets/advance_banner.php:708
+msgid "Border"
+msgstr ""
+
+#: inc/settings/color_style/style.php:87
+#: inc/elementor/widgets/category_bg.php:128
+msgid "Border Color"
+msgstr ""
+
+#: inc/settings/color_style/style.php:100
+msgid "Border Color Hover"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:629
+#: inc/elementor/widgets/advance_banner.php:727
+msgid "Border Hover Color"
+msgstr ""
+
+#: inc/settings/color_style/style.php:160
+#: inc/elementor/widgets/advance_banner.php:384
+#: inc/elementor/widgets/advance_banner.php:621
+#: inc/elementor/widgets/advance_banner.php:716
+msgid "Border Radius"
+msgstr ""
+
+#: inc/settings/color_style/style.php:113
+#: inc/elementor/widgets/advance_banner.php:1008
+#: inc/elementor/widgets/advance_banner.php:1183
+#: inc/elementor/widgets/advance_banner.php:1310
+msgid "Border Style"
+msgstr ""
+
+#: inc/settings/color_style/style.php:138
+msgid "Border Width"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:346
+#: inc/elementor/widgets/advance_banner.php:754
+msgid "Bottom"
+msgstr ""
+
+#: inc/settings/header/header.php:405
+#: inc/settings/header/hamburger_fields.php:52
+#: inc/settings/header/mobile_fields.php:142
+msgid "Bottom Elements"
+msgstr ""
+
+#: inc/settings/header/header.php:321
+msgid "Bottom Left Control Elements"
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:50
+msgid "Bottom of the Page"
+msgstr ""
+
+#: inc/settings/header/header.php:351
+msgid "Bottom Right Control Elements"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:394
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/admin/metabox_init.php:82 inc/settings/header/header.php:153
+msgid "Box shadow"
+msgstr ""
+
+#: inc/widgets/featured-box.php:79 inc/widgets/newsletter.php:63
+msgid "Box Title:"
+msgstr ""
+
+#: inc/settings/layout/site_layout.php:31
+msgid "Boxed"
+msgstr ""
+
+#: inc/admin/metabox_init.php:352 inc/settings/blog/blog.php:115
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/lib/breadcrumbs.php:220
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/lib/breadcrumbs.php:219
+msgid "Browse:"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Built with Accessibility, performance and SEO in mind, the Cenos theme "
+"features a unique layout builder allowing you to create any kind of layout "
+"with ease."
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:853
+#: inc/elementor/widgets/advance_banner.php:1244
+msgid "Button"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:360
+msgid "Button Add To Cart Icon"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:366
+msgid "Button Add To Cart Text"
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:167
+msgid "Button link URL."
+msgstr ""
+
+#: inc/settings/color_style/style.php:47
+msgid "Button style"
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:149
+#: inc/elementor/widgets/advance_banner.php:215
+#: inc/elementor/widgets/advance_banner.php:1443
+msgid "Button Text"
+msgstr ""
+
+#: inc/settings/color_style/style.php:194
+msgid "Button Typography"
+msgstr ""
+
+#: inc/settings/color_style/style.php:17
+msgid "Buttons style "
+msgstr ""
+
+#: inc/elementor/fmtpl_template_functions.php:375
+msgid "By"
+msgstr ""
+
+#: inc/theme-template-functions.php:538
+msgid "by"
+msgstr ""
+
+#: inc/settings/header/header.php:37 inc/settings/header/header.php:99
+#: inc/settings/header/mobile_fields.php:51
+#: inc/settings/mobile/direction.php:28
+msgid "Cart"
+msgstr ""
+
+#: inc/settings/header/cart_fields.php:76
+msgid "Cart Margin"
+msgstr ""
+
+#: inc/settings/header/cart_fields.php:12
+msgid "Cart Style"
+msgstr ""
+
+#: inc/settings/header/cart_fields.php:35
+msgid "Cart Title"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:393
+#: inc/elementor/widgets/category_bg.php:279
+msgid "Categories"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:347
+msgid "Categories Carousel"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:522
+msgid "Categories Position"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:317
+msgid "Category List"
+msgstr ""
+
+#: inc/theme-template-functions.php:590 woocommerce/single-product/meta.php:37
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Name of the theme
+msgid "Cenos"
+msgstr ""
+
+#: inc/widgets/featured-box.php:15
+msgid "Cenos Featured Box"
+msgstr ""
+
+#: inc/elementor/init.php:87 inc/elementor/init.php:101
+#: inc/elementor/init.php:115 inc/elementor/init.php:137
+#: inc/elementor/init.php:149
+msgid "Cenos Layout 01"
+msgstr ""
+
+#: inc/elementor/init.php:88 inc/elementor/init.php:102
+#: inc/elementor/init.php:150
+msgid "Cenos Layout 02"
+msgstr ""
+
+#: inc/elementor/init.php:89 inc/elementor/init.php:151
+msgid "Cenos Layout 03"
+msgstr ""
+
+#: inc/elementor/init.php:152
+msgid "Cenos Layout 04"
+msgstr ""
+
+#: inc/elementor/init.php:198
+msgid "Cenos Layout 1"
+msgstr ""
+
+#: inc/elementor/init.php:199
+msgid "Cenos Layout 2"
+msgstr ""
+
+#: inc/widgets/newsletter.php:15
+msgid "Cenos Newsletter"
+msgstr ""
+
+#: inc/elementor/init.php:200
+msgid "Cenos Outside 1"
+msgstr ""
+
+#: inc/elementor/init.php:201 inc/elementor/init.php:202
+msgid "Cenos Outside 2"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:26
+msgid "Cenos Product Category Background"
+msgstr ""
+
+#: inc/widgets/recent_post.php:15
+msgid "Cenos Recent Posts"
+msgstr ""
+
+#. 1 is the required PHP version and 2 is the user's current version.
+#: inc/back-compat.php:44
+#, php-format
+msgid ""
+"Cenos requires at least PHP version %1$s. You are running version %2$s. "
+"Please upgrade and try again."
+msgstr ""
+
+#. 1 is the required WordPress version and 2 is the user's current version.
+#: inc/back-compat.php:35
+#, php-format
+msgid ""
+"Cenos requires at least WordPress version %1$s. You are running version %2$s."
+" Please upgrade and try again."
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:198
+#: inc/elementor/widgets/advance_banner.php:284
+#: inc/elementor/widgets/advance_banner.php:315
+msgid "Center"
+msgstr ""
+
+#: inc/settings/footer/footer.php:222
+msgid "Center HTML"
+msgstr ""
+
+#: inc/settings/footer/footer.php:160
+msgid "Center Items"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:73
+msgid "Change address"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:774
+msgid "Check out this site:"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:1463
+#: inc/woocommerce/woocommerce-template-functions.php:1511
+msgid "Checkout"
+msgstr ""
+
+#: inc/settings/woocommerce/checkout.php:24
+msgid "Checkout Layout"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:84
+#: inc/elementor/widgets/advance_banner.php:112
+msgid "Choose Image"
+msgstr ""
+
+#: inc/elementor/init.php:94 inc/elementor/init.php:107
+#: inc/elementor/init.php:120 inc/elementor/init.php:157
+msgid "Circle"
+msgstr ""
+
+#: inc/elementor/init.php:235
+msgid "Clean"
+msgstr ""
+
+#: inc/classes/scripts.php:73
+msgid "Clear"
+msgstr ""
+
+#: inc/classes/scripts.php:74
+msgid "Clear color"
+msgstr ""
+
+#: inc/classes/scripts.php:108
+msgid "Clear Filters"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:521
+#: inc/woocommerce/woocommerce-template-functions.php:1754
+#: inc/woocommerce/woocommerce-template-functions.php:2019
+#: template-parts/headers/header-mobile-content.php:14
+#: template-parts/headers/header-menu_canvas.php:6
+#: template-parts/headers/parts/search/search-canvas.php:7
+#: template-parts/headers/parts/search/search-modal.php:9
+#: template-parts/headers/parts/hamburger/hamburger-canvas.php:22
+#: template-parts/headers/parts/cart/cart-canvas.php:9
+#: template-parts/headers/parts/account/account-canvas.php:7
+#: template-parts/headers/parts/account/account-modal.php:6
+msgid "Close"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:162
+#: inc/elementor/widgets/category_bg.php:177
+#: inc/elementor/widgets/advance_banner.php:412
+#: inc/elementor/widgets/advance_banner.php:424
+#: inc/elementor/widgets/advance_banner.php:514
+#: inc/elementor/widgets/advance_banner.php:575
+#: inc/elementor/widgets/advance_banner.php:587
+#: inc/elementor/widgets/advance_banner.php:685
+msgid "Color"
+msgstr ""
+
+#: inc/settings/color_style/style.php:25
+msgid "Color & border"
+msgstr ""
+
+#: inc/settings/color_style/style.php:8
+msgid "Color & style"
+msgstr ""
+
+#: inc/classes/scripts.php:78
+msgid "Color value"
+msgstr ""
+
+#: inc/theme-template-functions.php:839 inc/settings/general/general.php:62
+msgid "Coming Soon"
+msgstr ""
+
+#: comments.php:38 comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37
+msgid "Comment Navigation Above"
+msgstr ""
+
+#: comments.php:58
+msgid "Comment Navigation Below"
+msgstr ""
+
+#. %s is the page number.
+#: inc/lib/breadcrumbs.php:229
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/settings/header/header.php:49
+msgid "Compare"
+msgstr ""
+
+#: inc/admin/plugins.php:90
+msgid "Contact Form by WPForms"
+msgstr ""
+
+#: inc/settings/header/header.php:53 inc/settings/header/header.php:89
+#: inc/settings/header/header.php:95 inc/settings/header/topbar_fields.php:148
+#: inc/settings/header/topbar_fields.php:196
+#: inc/settings/header/topbar_fields.php:243
+msgid "Contact Info"
+msgstr ""
+
+#: inc/settings/general/general.php:30
+msgid "Contact info"
+msgstr ""
+
+#: inc/settings/header/contact_fields.php:26
+msgid "Contact Info Elements"
+msgstr ""
+
+#: inc/settings/layout/site_layout.php:90
+msgid "Container Width"
+msgstr ""
+
+#: inc/settings/layout/site_layout.php:118
+msgid "Content Background"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:814
+#: inc/elementor/widgets/advance_banner.php:931
+msgid "Content Box"
+msgstr ""
+
+#: inc/settings/layout/site_layout.php:54
+msgid "Content Box Shadow"
+msgstr ""
+
+#. Name of the template
+msgid "Content Only"
+msgstr ""
+
+#: inc/settings/layout/site_layout.php:138
+msgid "Content Padding"
+msgstr ""
+
+#: inc/widgets/newsletter.php:67
+msgid "Content Text"
+msgstr ""
+
+#: inc/settings/header/hamburger_fields.php:42
+msgid "Content Type"
+msgstr ""
+
+#: inc/admin/theme_setup.php:2158 inc/admin/theme_setup.php:2294
+msgid "Continue"
+msgstr ""
+
+#. %s: post title
+#: template-parts/content-list-standard.php:39
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: inc/settings/footer/footer.php:23 inc/settings/footer/footer.php:190
+msgid "Copyright"
+msgstr ""
+
+#: inc/settings/footer/footer.php:192
+msgid "Copyright 2022 © Familab"
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:286
+msgid "Countdown Time"
+msgstr ""
+
+#: woocommerce/cart/cart.php:144
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:144
+msgid "Coupon:"
+msgstr ""
+
+#: inc/settings/header/header.php:109
+#: inc/settings/header/hamburger_fields.php:57
+#: inc/settings/header/mobile_fields.php:147
+#: inc/settings/header/topbar_fields.php:152
+#: inc/settings/header/topbar_fields.php:200
+#: inc/settings/header/topbar_fields.php:247
+msgid "Currency"
+msgstr ""
+
+#: inc/settings/header/transparent_fields.php:26
+msgid "Custom Page"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:246
+msgid "Custom Title"
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:220
+msgid "Customize the Announcement font"
+msgstr ""
+
+#: inc/settings/typography/typography.php:38
+msgid "Customize the body font"
+msgstr ""
+
+#: inc/settings/typography/typography.php:55
+msgid "Customize the H1 font"
+msgstr ""
+
+#: inc/settings/typography/typography.php:72
+msgid "Customize the H2 font"
+msgstr ""
+
+#: inc/settings/typography/typography.php:89
+msgid "Customize the H3 font"
+msgstr ""
+
+#: inc/settings/typography/typography.php:106
+msgid "Customize the H4 font"
+msgstr ""
+
+#: inc/settings/typography/typography.php:123
+msgid "Customize the H5 font"
+msgstr ""
+
+#: inc/settings/typography/typography.php:140
+msgid "Customize the H6 font"
+msgstr ""
+
+#: inc/lib/breadcrumbs.php:631 inc/lib/breadcrumbs.php:964
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/admin/metabox_init.php:180 inc/settings/header/topbar_fields.php:64
+#: inc/settings/woocommerce/shop_fields.php:221
+msgid "Dark"
+msgstr ""
+
+#: inc/settings/color_style/style.php:119
+msgid "dashed"
+msgstr ""
+
+#: inc/classes/scripts.php:180
+msgid "Days"
+msgstr ""
+
+#: inc/classes/scripts.php:75 inc/admin/metabox_init.php:179
+#: inc/elementor/init.php:78 inc/elementor/init.php:86
+#: inc/elementor/init.php:92 inc/elementor/init.php:100
+#: inc/elementor/init.php:105 inc/elementor/init.php:114
+#: inc/elementor/init.php:118 inc/elementor/init.php:136
+#: inc/elementor/init.php:148 inc/elementor/init.php:155
+#: inc/elementor/init.php:197 inc/elementor/init.php:241
+#: inc/elementor/init.php:248 inc/settings/woocommerce/shop_fields.php:654
+#: inc/settings/woocommerce/shop_fields.php:815
+#: inc/settings/woocommerce/woo_setting.php:416
+#: inc/settings/mobile/mobile.php:71 inc/elementor/widgets/category_bg.php:56
+#: inc/elementor/widgets/advance_banner.php:73
+msgid "Default"
+msgstr ""
+
+#: inc/elementor/init.php:163
+msgid "Default Style"
+msgstr ""
+
+#: inc/settings/general/general.php:222
+msgid "Delay Time"
+msgstr ""
+
+#: inc/settings/header/sticky_fields.php:20
+#: inc/elementor/widgets/advance_banner.php:182
+#: inc/elementor/widgets/advance_banner.php:1217
+msgid "Description"
+msgstr ""
+
+#: inc/settings/mobile/direction.php:16
+msgid "Direction Bar "
+msgstr ""
+
+#: inc/settings/mobile/direction.php:46
+msgid "Direction Component"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:143
+msgid "Disable"
+msgstr ""
+
+#: inc/settings/header/topbar_fields.php:15
+msgid "Display a bar on the top"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:1121
+msgid "Display a message when a product was added to cart."
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:78
+msgid "Display next & previous links on top of product page"
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:45
+msgid "Display Position"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:1155
+msgid "Display product image on Notification."
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:1141
+msgid "Display product title on Notification."
+msgstr ""
+
+#: inc/settings/header/logo_fields.php:10
+msgid "Display Tagline below Logo"
+msgstr ""
+
+#: inc/settings/header/compare_fields.php:25
+#: inc/settings/header/account_fields.php:36
+msgid "Display this title for non logged in users."
+msgstr ""
+
+#: inc/settings/header/account_fields.php:50
+msgid "Display username after logged in."
+msgstr ""
+
+#: inc/widgets/newsletter.php:11
+msgid "Displays your Mailchimp for WordPress sign-up form"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:1146
+msgid "Divider"
+msgstr ""
+
+#: inc/admin/metabox_init.php:90 inc/admin/metabox_init.php:194
+#: inc/settings/blog/blog.php:268 inc/settings/header/header.php:159
+#: inc/settings/header/topbar_fields.php:84
+#: inc/settings/woocommerce/shop_fields.php:318
+msgid "Divider Color"
+msgstr ""
+
+#: inc/settings/general/general.php:187
+msgid ""
+"Do NOT show the popup to the same visitor again until this much day has "
+"passed."
+msgstr ""
+
+#: template-parts/popup/popup.php:35
+msgid "Don't show this pop-up again!"
+msgstr ""
+
+#: inc/settings/color_style/style.php:118
+msgid "dotted"
+msgstr ""
+
+#: inc/settings/color_style/style.php:121
+msgid "double"
+msgstr ""
+
+#: inc/settings/header/social_fields.php:21
+msgid "Dribbble"
+msgstr ""
+
+#: inc/settings/general/general.php:371
+msgid "Dribbble."
+msgstr ""
+
+#: inc/settings/header/cart_fields.php:16
+#: inc/settings/header/search_fields.php:28
+#: inc/settings/woocommerce/shop_fields.php:574
+msgid "Dropdown"
+msgstr ""
+
+#: inc/theme-template-functions.php:438 woocommerce/myaccount/my-address.php:63
+msgid "Edit"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:132
+msgid "Effect"
+msgstr ""
+
+#: inc/admin/plugins.php:53
+msgid "Elementor"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:744
+#: inc/settings/general/general.php:277
+#: inc/settings/woocommerce/woo_setting.php:395
+msgid "Email"
+msgstr ""
+
+#: woocommerce/myaccount/fm-register.php:17
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/fm-login.php:9
+msgid "Email address *"
+msgstr ""
+
+#: inc/settings/header/contact_fields.php:35
+msgid "Email Info"
+msgstr ""
+
+#: inc/settings/general/general.php:271
+msgid "Email label"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:142
+msgid "Enable"
+msgstr ""
+
+#: inc/settings/blog/blog.php:327
+msgid "Enable Action Bar"
+msgstr ""
+
+#: inc/settings/blog/blog.php:40
+msgid "Enable Blog Heading"
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:91
+msgid "Enable Dismissing"
+msgstr ""
+
+#: inc/settings/header/cart_fields.php:63
+msgid "Enable Empty Cart Box"
+msgstr ""
+
+#: inc/settings/header/logo_fields.php:103
+msgid "Enable Logo Alignment"
+msgstr ""
+
+#: inc/settings/general/general.php:49
+msgid "Enable Maintenance Mode"
+msgstr ""
+
+#: inc/settings/header/mobile_fields.php:65
+msgid "Enable Mobile Logo"
+msgstr ""
+
+#: inc/admin/metabox_init.php:30
+msgid "Enable Own Page Header"
+msgstr ""
+
+#: inc/admin/metabox_init.php:112
+msgid "Enable Own Settings"
+msgstr ""
+
+#: inc/settings/general/general.php:114
+msgid "Enable Popup"
+msgstr ""
+
+#: inc/settings/general/general.php:90
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:564
+msgid "Enable Products Filter"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:375
+msgid "Enable Products Tabs"
+msgstr ""
+
+#: inc/settings/blog/blog.php:375
+msgid "Enable share button in single post."
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:15
+msgid "Enable Shop Heading"
+msgstr ""
+
+#: inc/settings/blog/blog.php:328
+msgid "Enable the Action Bar before Blog list."
+msgstr ""
+
+#: inc/settings/blog/blog.php:41
+msgid "Enable the blog heading on blog pages."
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:16
+msgid "Enable the heading on Product Catalog."
+msgstr ""
+
+#: inc/admin/plugins.php:105
+msgid "Enjoy Instagram"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:59
+msgid "Enter a different address"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:412
+msgid ""
+"Enter category names, separate by commas. Leave empty to get all categories. "
+"Enter a number to get limit number of top categories."
+msgstr ""
+
+#: inc/settings/general/general.php:174
+msgid "Enter popup content. HTML and shortcodes are allowed."
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:442
+msgid ""
+"Enter tag names, separate by commas. Leave empty to get all tags. Enter a "
+"number to get limit number of top tags."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:52
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:120
+#: inc/elementor/widgets/advance_banner.php:162
+msgid "Enter your Highlight title"
+msgstr ""
+
+#: inc/admin/theme_setup.php:743
+msgid "Error"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:317
+msgid "everything"
+msgstr ""
+
+#: inc/admin/theme_setup.php:334
+msgid "Exit to Cenos Panel"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:707
+#: inc/settings/header/social_fields.php:14
+#: inc/settings/woocommerce/woo_setting.php:388
+msgid "Facebook"
+msgstr ""
+
+#: inc/settings/general/general.php:301
+msgid "Facebook."
+msgstr ""
+
+#. Author of the theme
+msgid "Familab Team"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:1028
+msgid "Featured Badge Text"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:833
+msgid "Featured Products"
+msgstr ""
+
+#: inc/theme-template-functions.php:1166
+msgid "Filter"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:588
+msgid "Filter Content Position"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:1171
+msgid "Filter Pagination Type"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:611
+msgid "Filter Title"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:518
+msgid "Filters"
+msgstr ""
+
+#: inc/settings/footer/footer.php:13
+msgid "Footer"
+msgstr ""
+
+#: inc/settings/footer/footer.php:36
+msgid "Footer Background"
+msgstr ""
+
+#: inc/settings/footer/footer.php:29
+msgid "Footer Block"
+msgstr ""
+
+#: inc/settings/footer/footer.php:72
+msgid "Footer Main"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:343
+msgid "for"
+msgstr ""
+
+#: inc/settings/color_style/style.php:220
+msgid "Form Fields Style"
+msgstr ""
+
+#: inc/settings/color_style/style.php:21
+msgid "Forms style"
+msgstr ""
+
+#: inc/settings/layout/site_layout.php:32
+msgid "Framed"
+msgstr ""
+
+#: inc/settings/layout/site_layout.php:67
+msgid "Framed Margin"
+msgstr ""
+
+#: inc/settings/general/general.php:186
+msgid "Frequency"
+msgstr ""
+
+#. Name of the template
+msgid "Full Page Scroll"
+msgstr ""
+
+#. Name of the template
+msgid "Full Page Without Footer"
+msgstr ""
+
+#: inc/classes/svgsupport.php:110
+msgid "Full Size"
+msgstr ""
+
+#: inc/settings/layout/site_layout.php:30 inc/settings/blog/blog.php:130
+#: inc/settings/woocommerce/shop_fields.php:92
+#: inc/settings/woocommerce/shop_fields.php:656
+msgid "Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:117
+msgid "Gallery"
+msgstr ""
+
+#: inc/settings/general/general.php:9
+msgid "General"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:192
+msgid "Get back to: "
+msgstr ""
+
+#: inc/theme-template-functions.php:1144
+msgid "Go to top"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:717
+#: inc/settings/woocommerce/woo_setting.php:390
+msgid "Google Plus"
+msgstr ""
+
+#: inc/settings/header/social_fields.php:16
+msgid "Google Plus info"
+msgstr ""
+
+#: inc/settings/general/general.php:321
+msgid "Google Plus."
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:392
+msgid "Groups"
+msgstr ""
+
+#: inc/settings/header/hamburger_fields.php:24
+msgid "Hamburger Canvas Style"
+msgstr ""
+
+#: inc/classes/theme.php:187 inc/settings/header/header.php:61
+#: inc/settings/header/header.php:91 inc/settings/header/topbar_fields.php:150
+#: inc/settings/header/topbar_fields.php:198
+#: inc/settings/header/topbar_fields.php:245
+msgid "Hamburger Menu"
+msgstr ""
+
+#: inc/classes/theme.php:294
+msgid "Hamburger Sidebar"
+msgstr ""
+
+#: inc/settings/header/header.php:8
+msgid "Header"
+msgstr ""
+
+#: inc/settings/header/mobile_fields.php:28
+msgid "Header  Layout"
+msgstr ""
+
+#: inc/admin/metabox_init.php:45 inc/settings/header/header.php:121
+msgid "Header container width"
+msgstr ""
+
+#: inc/admin/metabox_init.php:77 inc/settings/header/header.php:148
+msgid "Header Divider"
+msgstr ""
+
+#: inc/settings/header/header.php:17
+msgid "Header General"
+msgstr ""
+
+#: inc/settings/header/header.php:203
+msgid "Header Layout"
+msgstr ""
+
+#: inc/settings/header/header.php:25
+msgid "Header Main"
+msgstr ""
+
+#: inc/settings/header/header.php:180
+msgid "Header Vertical"
+msgstr ""
+
+#: inc/settings/typography/typography.php:54
+msgid "Heading 1"
+msgstr ""
+
+#: inc/settings/typography/typography.php:71
+msgid "Heading 2"
+msgstr ""
+
+#: inc/settings/typography/typography.php:88
+msgid "Heading 3"
+msgstr ""
+
+#: inc/settings/typography/typography.php:105
+msgid "Heading 4"
+msgstr ""
+
+#: inc/settings/typography/typography.php:122
+msgid "Heading 5"
+msgstr ""
+
+#: inc/settings/typography/typography.php:139
+msgid "Heading 6"
+msgstr ""
+
+#: inc/admin/metabox_init.php:307 inc/settings/woocommerce/shop_fields.php:136
+msgid "Heading Background"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:28
+msgid "Heading Block"
+msgstr ""
+
+#: inc/admin/metabox_init.php:317
+msgid "Heading Color"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:110
+#: inc/settings/woocommerce/shop_fields.php:166
+msgid "Heading Height"
+msgstr ""
+
+#: inc/admin/metabox_init.php:290 inc/settings/woocommerce/shop_fields.php:43
+msgid "Heading Layout"
+msgstr ""
+
+#: inc/settings/header/search_fields.php:125
+msgid "Heading Text in Search Form "
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:88
+msgid "Heading Width"
+msgstr ""
+
+#: inc/settings/typography/typography.php:21
+msgid "Headline"
+msgstr ""
+
+#: inc/settings/header/header.php:186 inc/settings/header/sticky_fields.php:46
+#: inc/settings/header/topbar_fields.php:22
+#: inc/elementor/widgets/advance_banner.php:78
+#: inc/elementor/widgets/advance_banner.php:260
+#: inc/elementor/widgets/advance_banner.php:555
+#: inc/elementor/widgets/advance_banner.php:663
+msgid "Height"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:249
+#: inc/elementor/widgets/advance_banner.php:178
+msgid "Hide"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:472
+msgid "Hide Filters"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:119
+#: inc/elementor/widgets/advance_banner.php:161
+msgid "Highlight"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:197
+#: inc/elementor/widgets/category_bg.php:212
+#: inc/elementor/widgets/advance_banner.php:441
+#: inc/elementor/widgets/advance_banner.php:453
+msgid "Highlight Color"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:1055
+msgid "HighLight Title"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:114
+#: inc/elementor/widgets/advance_banner.php:156
+msgid "Highlight Title"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:227
+msgid "Highlight Typography"
+msgstr ""
+
+#: inc/lib/breadcrumbs.php:221 inc/settings/header/transparent_fields.php:43
+msgid "Home"
+msgstr ""
+
+#: inc/settings/header/transparent_fields.php:25
+msgid "Home Page"
+msgstr ""
+
+#: inc/elementor/init.php:242 inc/elementor/widgets/advance_banner.php:306
+msgid "Horizontal"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:931
+#: inc/settings/woocommerce/shop_fields.php:1029
+msgid "Hot"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:868
+msgid "Hot (Featured Products)"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:1054
+msgid "Hot Badge Background"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:1041
+msgid "Hot Badge Text Color"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:134
+#: inc/settings/woocommerce/shop_fields.php:498
+msgid "Hot Products"
+msgstr ""
+
+#: inc/lib/breadcrumbs.php:616
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/classes/scripts.php:179
+msgid "Hours"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:368
+#: inc/elementor/widgets/category_bg.php:429
+#: inc/elementor/widgets/advance_banner.php:917
+#: inc/elementor/widgets/advance_banner.php:1093
+#: inc/elementor/widgets/advance_banner.php:1289
+msgid "Hover"
+msgstr ""
+
+#: inc/settings/header/hamburger_fields.php:59
+#: inc/settings/header/mobile_fields.php:149
+msgid "HTML"
+msgstr ""
+
+#: inc/settings/header/header.php:65 inc/settings/header/header.php:276
+#: inc/settings/header/header.php:302 inc/settings/header/header.php:347
+#: inc/settings/header/header.php:364 inc/settings/header/header.php:418
+#: inc/settings/header/topbar_fields.php:153
+#: inc/settings/header/topbar_fields.php:201
+#: inc/settings/header/topbar_fields.php:248 inc/settings/footer/footer.php:24
+msgid "Html"
+msgstr ""
+
+#: inc/settings/header/html_fields.php:110
+msgid "HTML in Bottom Control"
+msgstr ""
+
+#: inc/settings/header/html_fields.php:82
+msgid "HTML in Bottom Left Control"
+msgstr ""
+
+#: inc/settings/header/html_fields.php:96
+msgid "HTML in Bottom Right Control"
+msgstr ""
+
+#: inc/settings/header/html_fields.php:12
+msgid "HTML in Left Control"
+msgstr ""
+
+#: inc/settings/header/html_fields.php:26
+msgid "HTML in Right Control"
+msgstr ""
+
+#: inc/settings/header/html_fields.php:54
+msgid "HTML in Topbar Center Control"
+msgstr ""
+
+#: inc/settings/header/html_fields.php:40
+msgid "HTML in Topbar Left Control"
+msgstr ""
+
+#: inc/settings/header/html_fields.php:68
+msgid "HTML in Topbar Right Control"
+msgstr ""
+
+#: inc/settings/header/hamburger_fields.php:64
+msgid "HTML On Hamburger Menu"
+msgstr ""
+
+#: inc/settings/header/mobile_fields.php:154
+msgid "HTML On Mobile Header"
+msgstr ""
+
+#. URI of the theme
+msgid "https://cenos.familab.net"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://familab.net/"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:226
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/classes/theme.php:244
+msgid "Huge"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:341
+msgid "I'm interested in"
+msgstr ""
+
+#: inc/settings/header/hamburger_fields.php:106
+#: inc/settings/header/mobile_fields.php:90
+#: inc/elementor/widgets/advance_banner.php:233
+msgid "Icon"
+msgstr ""
+
+#: inc/widgets/featured-box.php:82
+msgid "Icon ID:"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:1341
+msgid "Icon Options"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:1415
+msgid "Icon Position"
+msgstr ""
+
+#: inc/settings/general/general.php:57
+#, php-format
+msgid ""
+"If you are putting your site into maintenance mode for a longer perior of "
+"time, you should set this to \"Coming Soon\". Maintenance will return HTTP "
+"503, Comming Soon will set HTTP to 200. <a href=\"%s\" target=\"_blank\">"
+"Learn more</a>"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:305
+msgid "Image Lightbox"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:263
+msgid "Image Zoom"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:282
+msgid "Image Zoom On Mobile"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:313
+msgid "Images 360 Degree"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:1177
+msgid "Infinite Scroll"
+msgstr ""
+
+#: inc/settings/color_style/style.php:123
+msgid "inset"
+msgstr ""
+
+#: inc/settings/header/social_fields.php:17
+msgid "Instagram"
+msgstr ""
+
+#: inc/settings/general/general.php:331
+msgid "Instagram."
+msgstr ""
+
+#: inc/admin/plugins.php:128
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/admin/plugins.php:127
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/admin/plugins.php:129
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/admin/theme_setup.php:329
+msgid "It looks like you already have setup Cenos."
+msgstr ""
+
+#: template-parts/content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:92
+msgid "It’s possible to dismiss Announcement Bar"
+msgstr ""
+
+#: inc/admin/plugins.php:37
+msgid "Kirki Customizer Framework"
+msgstr ""
+
+#: inc/settings/header/header.php:113
+#: inc/settings/header/hamburger_fields.php:56
+#: inc/settings/header/mobile_fields.php:146
+#: inc/settings/header/topbar_fields.php:151
+#: inc/settings/header/topbar_fields.php:199
+#: inc/settings/header/topbar_fields.php:246
+msgid "Language"
+msgstr ""
+
+#: inc/classes/theme.php:239 inc/classes/svgsupport.php:113
+#: inc/settings/woocommerce/shop_fields.php:172
+#: inc/settings/woocommerce/woo_setting.php:163
+msgid "Large"
+msgstr ""
+
+#: template-parts/page-heading/page-heading-blog.php:72
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:52
+#: inc/elementor/widgets/category_bg.php:260
+#: inc/elementor/widgets/category_bg.php:327
+#: inc/elementor/widgets/advance_banner.php:69
+#: inc/elementor/widgets/advance_banner.php:771
+#: inc/elementor/widgets/advance_banner.php:881
+msgid "Layout"
+msgstr ""
+
+#: inc/elementor/init.php:68 inc/elementor/init.php:218
+#: inc/elementor/init.php:226
+msgid "Layout 1"
+msgstr ""
+
+#: inc/elementor/init.php:69 inc/elementor/init.php:219
+#: inc/elementor/init.php:227
+msgid "Layout 2"
+msgstr ""
+
+#: inc/elementor/init.php:70 inc/elementor/init.php:220
+#: inc/elementor/init.php:228
+msgid "Layout 3"
+msgstr ""
+
+#: inc/elementor/init.php:229
+msgid "Layout 4"
+msgstr ""
+
+#: inc/elementor/init.php:230
+msgid "Layout 5"
+msgstr ""
+
+#: inc/elementor/init.php:231
+msgid "Layout 6"
+msgstr ""
+
+#: inc/elementor/init.php:232
+msgid "Layout 7"
+msgstr ""
+
+#: inc/settings/header/mobile_fields.php:24
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/theme-template-functions.php:547
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:194
+#: inc/elementor/widgets/advance_banner.php:280
+#: inc/elementor/widgets/advance_banner.php:311
+#: inc/elementor/widgets/advance_banner.php:742
+#: inc/elementor/widgets/advance_banner.php:1420
+msgid "Left"
+msgstr ""
+
+#: inc/settings/header/header.php:251
+msgid "Left Control Elements"
+msgstr ""
+
+#: inc/settings/footer/footer.php:203
+msgid "Left HTML"
+msgstr ""
+
+#: inc/settings/footer/footer.php:144
+msgid "Left Items"
+msgstr ""
+
+#: inc/admin/metabox_init.php:181 inc/settings/header/topbar_fields.php:65
+#: inc/settings/woocommerce/shop_fields.php:222
+msgid "Light"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:429
+msgid "Lightbox"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:224
+msgid "Link"
+msgstr ""
+
+#: inc/settings/color_style/style.php:239
+msgid "Link Color"
+msgstr ""
+
+#: inc/settings/color_style/style.php:245
+msgid "Link Color Hover"
+msgstr ""
+
+#: inc/settings/header/cart_fields.php:18
+msgid "Link Only"
+msgstr ""
+
+#: inc/settings/header/account_fields.php:18
+msgid "Link only"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:730
+#: inc/settings/header/social_fields.php:20
+#: inc/settings/woocommerce/woo_setting.php:392
+msgid "Linkedin"
+msgstr ""
+
+#: inc/settings/general/general.php:361
+msgid "Linkedin."
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:760
+msgid "List Style"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:1176
+msgid "Load More"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:40
+msgid "Load more"
+msgstr ""
+
+#: inc/settings/general/general.php:289
+msgid "Location"
+msgstr ""
+
+#: inc/settings/header/contact_fields.php:36
+msgid "Location Info"
+msgstr ""
+
+#: inc/settings/general/general.php:283
+msgid "Location label"
+msgstr ""
+
+#: woocommerce/myaccount/fm-login.php:25
+msgid "Log in"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:1583
+#: woocommerce/myaccount/fm-login.php:1
+#: template-parts/headers/parts/account/account-form_content.php:9
+msgid "Login"
+msgstr ""
+
+#: inc/settings/header/account_fields.php:12
+msgid "Login Form Style"
+msgstr ""
+
+#: inc/admin/metabox_init.php:37 inc/settings/header/logo_fields.php:54
+#: inc/settings/header/mobile_fields.php:71
+msgid "Logo"
+msgstr ""
+
+#: inc/settings/header/header.php:29
+msgid "Logo & Site Identity"
+msgstr ""
+
+#: inc/settings/header/logo_fields.php:109
+msgid "Logo - Horizontal Align"
+msgstr ""
+
+#: inc/settings/header/logo_fields.php:127
+msgid "Logo - Vertical Align"
+msgstr ""
+
+#: inc/settings/header/logo_fields.php:80
+msgid "Logo box Padding"
+msgstr ""
+
+#: inc/settings/header/logo_fields.php:68
+msgid "Logo box Width"
+msgstr ""
+
+#: inc/settings/header/logo_fields.php:29
+msgid "Logo Font"
+msgstr ""
+
+#: inc/settings/header/transparent_fields.php:93
+msgid "Logo on Transparent Header"
+msgstr ""
+
+#: inc/settings/header/logo_fields.php:16
+msgid "Logo text"
+msgstr ""
+
+#: inc/settings/header/logo_fields.php:91
+msgid "Logo Width"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:453
+msgid "Loop"
+msgstr ""
+
+#: woocommerce/myaccount/fm-login.php:21
+msgid "Lost your password?"
+msgstr ""
+
+#: inc/admin/plugins.php:95
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: inc/settings/color_style/style.php:232
+msgid "Main Color"
+msgstr ""
+
+#: inc/settings/general/general.php:18 inc/settings/general/general.php:61
+msgid "Maintenance"
+msgstr ""
+
+#: inc/settings/general/general.php:56
+msgid "Maintenance Mode"
+msgstr ""
+
+#: inc/settings/general/general.php:74
+msgid "Maintenance Page"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:361
+#: inc/elementor/widgets/advance_banner.php:696
+msgid "Margin"
+msgstr ""
+
+#: inc/settings/layout/site_layout.php:77
+#: inc/settings/header/cart_fields.php:90
+#: inc/settings/header/wishlist_fields.php:53
+#: inc/settings/header/compare_fields.php:51
+#: inc/settings/header/search_fields.php:101
+#: inc/settings/header/account_fields.php:77
+msgid "Margin Bottom"
+msgstr ""
+
+#: inc/settings/header/cart_fields.php:91
+#: inc/settings/header/wishlist_fields.php:54
+#: inc/settings/header/compare_fields.php:52
+#: inc/settings/header/search_fields.php:102
+#: inc/settings/header/account_fields.php:78
+msgid "Margin Left"
+msgstr ""
+
+#: inc/settings/header/cart_fields.php:89
+#: inc/settings/header/wishlist_fields.php:52
+#: inc/settings/header/compare_fields.php:50
+#: inc/settings/header/search_fields.php:100
+#: inc/settings/header/account_fields.php:76
+msgid "Margin Right"
+msgstr ""
+
+#: inc/settings/layout/site_layout.php:76
+#: inc/settings/header/cart_fields.php:88
+#: inc/settings/header/wishlist_fields.php:51
+#: inc/settings/header/compare_fields.php:49
+#: inc/settings/header/search_fields.php:99
+#: inc/settings/header/account_fields.php:75
+msgid "Margin Top"
+msgstr ""
+
+#: inc/classes/theme.php:234 inc/classes/svgsupport.php:112
+#: inc/settings/woocommerce/shop_fields.php:171
+#: inc/settings/woocommerce/woo_setting.php:164
+msgid "Medium"
+msgstr ""
+
+#: inc/settings/header/header.php:172
+msgid "Mega Menu Speedup"
+msgstr ""
+
+#: template-parts/headers/header-mobile-content.php:11
+#: template-parts/headers/header-vertical.php:17
+#: inc/settings/header/hamburger_fields.php:46
+#: inc/settings/typography/typography.php:25
+#: inc/settings/mobile/direction.php:35
+msgid "Menu"
+msgstr ""
+
+#: inc/settings/header/mobile_fields.php:131
+msgid "Menu Canvas Style"
+msgstr ""
+
+#: inc/settings/header/mobile_fields.php:127
+msgid "Menu Contents"
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:110
+#: inc/settings/woocommerce/shop_fields.php:1127
+msgid "Message"
+msgstr ""
+
+#: inc/admin/plugins.php:42
+msgid "Meta Box"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:342
+msgid "Middle"
+msgstr ""
+
+#: inc/classes/scripts.php:178
+msgid "Mins"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/lib/breadcrumbs.php:231
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/lib/breadcrumbs.php:588
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/lib/breadcrumbs.php:602
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/settings/mobile/mobile.php:14
+msgid "Mobile"
+msgstr ""
+
+#: inc/settings/header/mobile_fields.php:180
+msgid "Mobile (<768px)"
+msgstr ""
+
+#: inc/settings/header/mobile_fields.php:172
+msgid "Mobile Breakpoint"
+msgstr ""
+
+#: inc/settings/header/header.php:77
+msgid "Mobile header"
+msgstr ""
+
+#: inc/settings/header/mobile_fields.php:40
+msgid "Mobile Header Sticky"
+msgstr ""
+
+#: inc/classes/theme.php:188
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/settings/mobile/mobile.php:61
+msgid "Mobile Owner Tabs Style"
+msgstr ""
+
+#: inc/settings/general/general.php:259
+msgid "Mobile Phone Label"
+msgstr ""
+
+#: inc/settings/general/general.php:265
+msgid "Mobile Phone Number"
+msgstr ""
+
+#: inc/settings/mobile/mobile.php:99
+msgid "Mobile Product Items Style"
+msgstr ""
+
+#: inc/settings/mobile/mobile.php:93
+msgid "Mobile Product Items Template"
+msgstr ""
+
+#: inc/settings/mobile/mobile.php:45
+msgid "Mobile Single Product Layout"
+msgstr ""
+
+#: inc/settings/mobile/mobile.php:39
+msgid "Mobile Single Template"
+msgstr ""
+
+#: inc/settings/header/search_fields.php:29
+#: inc/settings/header/account_fields.php:16
+msgid "Modal"
+msgstr ""
+
+#: inc/lib/breadcrumbs.php:630 inc/lib/breadcrumbs.php:674
+#: inc/lib/breadcrumbs.php:961
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:459
+msgid "Mute"
+msgstr ""
+
+#: inc/settings/header/header.php:41 inc/settings/header/header.php:100
+#: inc/settings/header/mobile_fields.php:52
+#: inc/settings/header/topbar_fields.php:147
+#: inc/settings/header/topbar_fields.php:195
+#: inc/settings/header/topbar_fields.php:242
+#: inc/settings/mobile/direction.php:27
+msgid "My Account"
+msgstr ""
+
+#: template-parts/headers/parts/account.php:44
+msgid "My account"
+msgstr ""
+
+#: inc/settings/header/account_fields.php:63
+msgid "My Account Align"
+msgstr ""
+
+#: inc/settings/header/account_fields.php:35
+msgid "My Account Title"
+msgstr ""
+
+#: inc/settings/header/compare_fields.php:24
+msgid "My account title"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:33
+msgid "N/A"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:83
+msgid "Navigate to products in the same category"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:936
+#: inc/settings/woocommerce/shop_fields.php:869
+#: inc/settings/woocommerce/shop_fields.php:965
+msgid "New"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:1002
+msgid "New Badge Background"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:963
+msgid "New Badge Text"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:989
+msgid "New Badge Text Color"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:853
+msgid "New In Store"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:135
+#: inc/settings/woocommerce/shop_fields.php:499
+msgid "New Products"
+msgstr ""
+
+#: comments.php:40 comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: inc/elementor/fmtpl_template_functions.php:108
+#: inc/elementor/fmtpl_template_functions.php:291
+#: inc/elementor/fmtpl_template_functions.php:517
+msgid "Next"
+msgstr ""
+
+#: inc/theme-template-functions.php:631
+msgid "Next post"
+msgstr ""
+
+#: inc/theme-template-functions.php:617
+msgctxt "Next post"
+msgid "Next"
+msgstr ""
+
+#: inc/admin/theme_setup.php:684
+msgid "No content Found"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:92
+msgid "No products in the cart."
+msgstr ""
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:58
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr ""
+
+#: inc/admin/theme_setup.php:483
+msgid "No Slug Found"
+msgstr ""
+
+#: inc/admin/metabox_init.php:81 inc/settings/header/header.php:152
+#: inc/settings/color_style/style.php:117
+msgid "None"
+msgstr ""
+
+#: inc/classes/theme.php:229 inc/elementor/widgets/category_bg.php:357
+#: inc/elementor/widgets/category_bg.php:409
+#: inc/elementor/widgets/advance_banner.php:906
+#: inc/elementor/widgets/advance_banner.php:1073
+#: inc/elementor/widgets/advance_banner.php:1270
+msgid "Normal"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:1568
+msgid "Not a member?"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: 404.php:27
+msgid ""
+"Nothing was found at this location. Try searching, or check out the links "
+"below."
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:35
+msgid "Notice"
+msgstr ""
+
+#: comments.php:82
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:976
+msgid "Number of days for which the product is considered 'new'"
+msgstr ""
+
+#: inc/widgets/recent_post.php:155
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:688
+msgid "Number of products per page"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:177
+msgid "Number Thumbs on Desktop"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:220
+msgid "Number Thumbs on Tablet"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:1175
+msgid "Numeric"
+msgstr ""
+
+#: inc/settings/header/cart_fields.php:17
+#: inc/settings/woocommerce/shop_fields.php:575
+msgid "Off Canvas"
+msgstr ""
+
+#: inc/settings/header/search_fields.php:30
+#: inc/settings/header/account_fields.php:17
+msgid "Off canvas"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:760
+msgid "on"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:719
+msgid "on Google+"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:843
+msgid "On Sale Now"
+msgstr ""
+
+#: inc/settings/typography/typography.php:172
+msgid "Only Main Nav"
+msgstr ""
+
+#: 404.php:24
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/settings/general/general.php:295
+msgid "Open hours"
+msgstr ""
+
+#: inc/settings/header/contact_fields.php:37
+msgid "Open hours Info"
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:189
+msgid "Open Link on New Tab"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:1489
+#: inc/woocommerce/woocommerce-template-functions.php:1524
+msgid "Order Complete"
+msgstr ""
+
+#: inc/theme-template-functions.php:841
+msgid ""
+"Our website is currently undergoing scheduled maintenance. Please check back "
+"soon."
+msgstr ""
+
+#: inc/theme-template-functions.php:839
+msgid ""
+"Our website is under construction. We will be here soon with our new awesome "
+"site."
+msgstr ""
+
+#: inc/settings/color_style/style.php:124
+msgid "outset"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:348
+#: inc/elementor/widgets/advance_banner.php:897
+msgid "Overlay"
+msgstr ""
+
+#: inc/settings/general/general.php:138
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/admin/metabox_init.php:345
+msgid "Own Breadcrumb Settings"
+msgstr ""
+
+#: inc/admin/metabox_init.php:262
+msgid "Own Page Heading Settings"
+msgstr ""
+
+#: inc/admin/metabox_init.php:206
+msgid "Own Page Layout Settings"
+msgstr ""
+
+#: inc/admin/metabox_init.php:187
+msgid "Own Topbar Divider"
+msgstr ""
+
+#: inc/admin/metabox_init.php:158
+msgid "Own Topbar Setting"
+msgstr ""
+
+#: inc/admin/metabox_init.php:105
+msgid "Own Transparent Header Settings"
+msgstr ""
+
+#: inc/settings/blog/blog.php:223 inc/settings/woocommerce/shop_fields.php:268
+#: inc/settings/footer/footer.php:117 inc/elementor/widgets/category_bg.php:75
+#: inc/elementor/widgets/advance_banner.php:369
+msgid "Padding"
+msgstr ""
+
+#: inc/settings/layout/site_layout.php:148 inc/settings/blog/blog.php:237
+#: inc/settings/woocommerce/shop_fields.php:282
+#: inc/settings/footer/footer.php:131
+msgid "Padding Bottom"
+msgstr ""
+
+#: inc/settings/blog/blog.php:234 inc/settings/woocommerce/shop_fields.php:279
+#: inc/settings/footer/footer.php:128
+msgid "Padding Left"
+msgstr ""
+
+#: inc/settings/blog/blog.php:235 inc/settings/woocommerce/shop_fields.php:280
+#: inc/settings/footer/footer.php:129
+msgid "Padding Right"
+msgstr ""
+
+#: inc/settings/layout/site_layout.php:147 inc/settings/blog/blog.php:236
+#: inc/settings/woocommerce/shop_fields.php:281
+#: inc/settings/footer/footer.php:130
+msgid "Padding Top"
+msgstr ""
+
+#. %s is the page number.
+#: inc/lib/breadcrumbs.php:227
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/settings/blog/blog.php:321
+msgid "Page Background"
+msgstr ""
+
+#: inc/theme-template-functions.php:473 template-parts/content-page.php:18
+msgid "Pages:"
+msgstr ""
+
+#: inc/settings/color_style/style.php:262
+msgid "Pagination Align"
+msgstr ""
+
+#: inc/settings/color_style/style.php:29
+msgid "Pagination Style"
+msgstr ""
+
+#: inc/elementor/init.php:166
+msgid "Parallax Style"
+msgstr ""
+
+#: woocommerce/myaccount/fm-register.php:24
+#: woocommerce/myaccount/fm-login.php:12
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/fm-login.php:13
+msgid "Password *"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:892
+msgid "Percentage"
+msgstr ""
+
+#: inc/settings/header/contact_fields.php:33
+msgid "Phone Info"
+msgstr ""
+
+#: inc/settings/general/general.php:247
+msgid "Phone Label"
+msgstr ""
+
+#: inc/settings/general/general.php:253
+msgid "Phone Number"
+msgstr ""
+
+#: inc/settings/general/general.php:139
+msgid "Pickup the background color for popup overlay"
+msgstr ""
+
+#: template-parts/blog/share.php:13
+#, php-format
+msgid "Pin \"%s\" on Pinterest"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:723
+#: inc/settings/header/social_fields.php:24
+#: inc/settings/woocommerce/woo_setting.php:391
+msgid "Pinterest"
+msgstr ""
+
+#: inc/settings/general/general.php:401
+msgid "Pinterest."
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:1997
+msgid "Play Video"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:447
+msgid "Player Controls"
+msgstr ""
+
+#: inc/admin/plugins.php:142
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: 404.php:42 404.php:44
+msgid "Popular Products"
+msgstr ""
+
+#: inc/settings/general/general.php:26
+msgid "Popup"
+msgstr ""
+
+#: inc/settings/general/general.php:173
+msgid "Popup Content"
+msgstr ""
+
+#: inc/settings/general/general.php:121
+msgid "Popup Layout"
+msgstr ""
+
+#: inc/settings/general/general.php:204
+msgid "Popup Visible"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:737
+#: inc/elementor/widgets/advance_banner.php:965
+msgid "Position"
+msgstr ""
+
+#: comments.php:21
+msgid "Post Comments"
+msgstr ""
+
+#: inc/settings/blog/blog.php:362
+msgid "Post Navigation"
+msgstr ""
+
+#: inc/settings/blog/blog.php:374
+msgid "Post Shares"
+msgstr ""
+
+#: template-parts/blog/share.php:7
+#, php-format
+msgid "Post status \"%s\" on Twitter"
+msgstr ""
+
+#: inc/settings/blog/blog.php:353
+msgid "Post Style"
+msgstr ""
+
+#. %s: post date
+#: inc/theme-template-functions.php:515
+#, php-format
+msgid "Posted on %s"
+msgstr ""
+
+#: template-parts/preloader/preloader.php:29
+#: inc/settings/general/general.php:22
+msgid "Preloader"
+msgstr ""
+
+#: inc/elementor/fmtpl_template_functions.php:104
+#: inc/elementor/fmtpl_template_functions.php:287
+#: inc/elementor/fmtpl_template_functions.php:513
+msgid "Previous"
+msgstr ""
+
+#: inc/theme-template-functions.php:632
+msgid "Previous post"
+msgstr ""
+
+#: inc/theme-template-functions.php:618
+msgctxt "Previous post"
+msgid "Prev"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:98
+msgid "Price"
+msgstr ""
+
+#: inc/settings/color_style/style.php:43
+msgid "Primary button"
+msgstr ""
+
+#: inc/classes/theme.php:186 inc/settings/typography/typography.php:157
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/settings/header/header.php:228
+msgid "Primary Nav Align"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:78
+#: woocommerce/checkout/review-order.php:23
+msgid "Product"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:96
+msgid "Product Background"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:234
+msgid "Product Categories"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:411
+msgid "Product categories"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:810
+msgid "Product Image Hover"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:121
+#: inc/settings/woocommerce/woo_setting.php:141
+msgid "Product Image Style"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:159
+msgid "Product Image Width"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:773
+msgid "Product Item"
+msgstr ""
+
+#: inc/settings/mobile/mobile.php:28
+msgid "Product Items"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:50
+msgid "Product Layout"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:76
+msgid "Product Navigation"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:378
+msgid "Product Sharing"
+msgstr ""
+
+#: inc/classes/theme.php:278
+msgid "Product Sidebar"
+msgstr ""
+
+#: inc/classes/theme.php:286
+msgid "Product Sidebar Full Height"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:412
+#: inc/settings/mobile/mobile.php:67
+msgid "Product Tabs Style"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:441
+msgid "Product Tags"
+msgstr ""
+
+#: inc/elementor/fmtpl_template_functions.php:716
+msgid "Products "
+msgstr ""
+
+#: inc/classes/theme.php:270
+msgid "Products Filter"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:570
+msgid "Products Filter Style"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:686
+msgid "Products per page"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:700
+msgid "Products per row"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:738
+msgid "Products per row on Mobile"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:719
+msgid "Products per row on Tablet"
+msgstr ""
+
+#: inc/settings/general/general.php:50
+msgid "Put your site into maintenance mode"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28 woocommerce/cart/cart.php:32
+#: woocommerce/cart/cart.php:104
+msgid "Quantity"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:545
+msgid "Quick search"
+msgstr ""
+
+#. 1: URL
+#: template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/widgets/recent_post.php:23
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/elementor/init.php:93 inc/elementor/init.php:106
+#: inc/elementor/init.php:119 inc/elementor/init.php:156
+msgid "Rectangle"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:1570
+#: woocommerce/myaccount/fm-register.php:1
+#: woocommerce/myaccount/fm-register.php:38
+#: woocommerce/myaccount/fm-register.php:38
+#: template-parts/headers/parts/account/account-form_content.php:13
+msgid "Register"
+msgstr ""
+
+#: woocommerce/single-product/related.php:24
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/myaccount/fm-login.php:19
+msgid "Remember me"
+msgstr ""
+
+#: inc/admin/theme_setup.php:1856
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: inc/admin/theme_setup.php:1860 inc/admin/theme_setup.php:1861
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/admin/theme_setup.php:1842
+msgid "Remote server did not respond"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:47 woocommerce/cart/cart.php:56
+msgid "Remove this item"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:465
+msgid "Replace by sub-categories"
+msgstr ""
+
+#: inc/settings/header/search_fields.php:165
+msgid "Results Ajax Search (Limit Products)"
+msgstr ""
+
+#: inc/admin/plugins.php:141
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/settings/color_style/style.php:122
+msgid "ridge"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:202
+#: inc/elementor/widgets/advance_banner.php:288
+#: inc/elementor/widgets/advance_banner.php:319
+#: inc/elementor/widgets/advance_banner.php:750
+#: inc/elementor/widgets/advance_banner.php:1424
+msgid "Right"
+msgstr ""
+
+#: inc/settings/general/general.php:209
+msgid "Right after page loads"
+msgstr ""
+
+#: inc/settings/header/header.php:289 inc/settings/header/mobile_fields.php:46
+msgid "Right Control Elements"
+msgstr ""
+
+#: inc/settings/footer/footer.php:241
+msgid "Right HTML"
+msgstr ""
+
+#: inc/settings/footer/footer.php:174
+msgid "Right Items"
+msgstr ""
+
+#: inc/settings/header/social_fields.php:25
+msgid "RSS"
+msgstr ""
+
+#: inc/settings/general/general.php:411
+msgid "RSS."
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:870
+msgid "Sale"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:937
+msgid "Sale Badge Background"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:906
+msgid "Sale Badge Text"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:924
+msgid "Sale Badge Text Color"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:888
+msgid "Sale Badge Type"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:136
+#: inc/settings/woocommerce/shop_fields.php:500
+msgid "Sale Products"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:908
+msgid "Sale!"
+msgstr ""
+
+#: inc/settings/scrollbar/scrollbar.php:20
+msgid "Scroll Bar"
+msgstr ""
+
+#: inc/settings/scrollbar/scrollbar.php:39
+msgid "Scroll Cart"
+msgstr ""
+
+#: inc/settings/scrollbar/scrollbar.php:31
+msgid "Scroll To Top"
+msgstr ""
+
+#: inc/settings/scrollbar/scrollbar.php:46
+msgid "Scroll Wishlist"
+msgstr ""
+
+#: 404.php:30 inc/settings/header/header.php:33
+#: inc/settings/header/header.php:88 inc/settings/header/mobile_fields.php:50
+msgid "Search"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:348
+msgid "search"
+msgstr ""
+
+#: inc/settings/header/search_fields.php:87
+msgid "Search Align"
+msgstr ""
+
+#: inc/settings/header/search_fields.php:18
+msgid "Search Button"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:238
+msgid "Search Category"
+msgstr ""
+
+#: inc/settings/header/search_fields.php:19
+msgid "Search Form"
+msgstr ""
+
+#: inc/settings/header/search_fields.php:24
+msgid "Search Form Display Type"
+msgstr ""
+
+#: inc/settings/header/search_fields.php:43
+msgid "Search form setting"
+msgstr ""
+
+#: inc/settings/header/search_fields.php:47
+msgid "Search Form Style"
+msgstr ""
+
+#: inc/settings/header/search_fields.php:143
+msgid "Search Form Width"
+msgstr ""
+
+#: inc/settings/header/search_fields.php:109
+msgid "Search Modal Setting"
+msgstr ""
+
+#. %s: search term
+#: search.php:32
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. %s is the search query.
+#: inc/lib/breadcrumbs.php:225
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/settings/header/search_fields.php:14
+msgid "Search Type"
+msgstr ""
+
+#: inc/elementor/init.php:249 inc/settings/woocommerce/shop_fields.php:816
+#: inc/elementor/widgets/advance_banner.php:122
+msgid "Second Image"
+msgstr ""
+
+#: inc/settings/header/contact_fields.php:34
+msgid "Second phone Info"
+msgstr ""
+
+#: inc/classes/scripts.php:177
+msgid "Secs"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:419
+#: inc/settings/mobile/mobile.php:74
+msgid "Sections"
+msgstr ""
+
+#: inc/admin/metabox_init.php:277
+msgid "Select Block"
+msgstr ""
+
+#: inc/classes/scripts.php:77
+msgid "Select Color"
+msgstr ""
+
+#: inc/classes/scripts.php:76
+msgid "Select default color"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:676
+#: inc/woocommerce/woocommerce-template-functions.php:1644
+msgid "Select options"
+msgstr ""
+
+#: inc/settings/blog/blog.php:61
+msgid "Select pages you want to display blog heading"
+msgstr ""
+
+#: inc/settings/header/transparent_fields.php:39
+msgid "Select pages you want to display Transparent Header"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:384
+msgid "Select social media for sharing product"
+msgstr ""
+
+#: inc/settings/general/general.php:122
+msgid "Select the popup layout"
+msgstr ""
+
+#: inc/settings/general/general.php:205
+msgid "Select when the popup appear"
+msgstr ""
+
+#: inc/settings/general/general.php:223
+msgid ""
+"Set how many seconds after the page loads before the popup is displayed."
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:754
+msgid "Share"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:778
+#, php-format
+msgid "Share \"%s\" \"%s\""
+msgstr ""
+
+#: template-parts/blog/share.php:4
+#, php-format
+msgid "Share \"%s\" on Facebook"
+msgstr ""
+
+#: template-parts/blog/share.php:10
+#, php-format
+msgid "Share \"%s\" on Google Plus"
+msgstr ""
+
+#: template-parts/blog/share.php:16
+#, php-format
+msgid "Share \"%s\" on LinkedIn"
+msgstr ""
+
+#: template-parts/blog/share.php:2
+msgid "Share:"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:27
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:50
+msgid "Shipping costs are calculated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:75
+msgid "Shipping options will be updated during checkout."
+msgstr ""
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:72
+#, php-format
+msgid "Shipping to %s."
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:268
+#: inc/settings/mobile/direction.php:26
+#: template-parts/headers/parts/direction/shop.php:18
+#: template-parts/headers/parts/mobile/header-mobile-single-product.php:6
+#: template-parts/headers/parts/mobile/header-mobile-shop.php:8
+msgid "Shop"
+msgstr ""
+
+#: inc/classes/customizer.php:166
+msgid "Shop (WooCommerce)"
+msgstr ""
+
+#: inc/settings/header/transparent_fields.php:44
+msgid "Shop / Product Category"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:357
+#: inc/settings/woocommerce/shop_fields.php:526
+#: inc/settings/woocommerce/woo_setting.php:20
+msgid "Shop Control"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:338
+msgid "Shop Control Layout"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:358
+#: inc/settings/woocommerce/shop_fields.php:527
+msgid "Shop Heading"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:305
+msgid "Shop Heading Divider"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:22
+msgid "Shop Heading On Mobile"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:649
+msgid "Shop layout"
+msgstr ""
+
+#: inc/elementor/fmtpl_template_functions.php:720
+msgid "Shop now"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:15
+msgid "Shop Page Heading"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:625
+msgid "Shop Settings"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:1462
+#: inc/woocommerce/woocommerce-template-functions.php:1507
+msgid "Shopping Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:24
+#: template-parts/headers/parts/cart/cart-canvas.php:6
+msgid "Shopping cart"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:248
+#: inc/elementor/widgets/advance_banner.php:177
+msgid "Show"
+msgstr ""
+
+#: inc/settings/general/general.php:115
+msgid "Show a popup after website loaded."
+msgstr ""
+
+#: inc/settings/general/general.php:91
+msgid "Show a waiting screen when page is loading"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:265
+msgid "Show a zoomed version of image when hovering gallery"
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:26
+msgid "Show Announcement Bar"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:348
+msgid "Show Categories"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:65
+msgid "Show Categories Description"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:353
+msgid "Show Categories On"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:834
+msgid "Show Category"
+msgstr ""
+
+#: inc/settings/header/search_fields.php:81
+msgid "Show Clear Button"
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:136
+msgid "Show Clickable Button"
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:78
+msgid "Show Close Button"
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:273
+msgid "Show Countdown"
+msgstr ""
+
+#: inc/settings/header/cart_fields.php:48
+#: inc/settings/header/wishlist_fields.php:32
+msgid "Show Counter"
+msgstr ""
+
+#: inc/settings/mobile/direction.php:40
+msgid "Show Direction Bar"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:175
+msgid "Show Divider"
+msgstr ""
+
+#: inc/settings/header/cart_fields.php:23
+#: inc/settings/header/contact_fields.php:14
+#: inc/settings/header/wishlist_fields.php:14
+#: inc/settings/header/hamburger_fields.php:100
+#: inc/settings/header/mobile_fields.php:84
+#: inc/settings/header/account_fields.php:23
+msgid "Show Icon"
+msgstr ""
+
+#: inc/settings/header/social_fields.php:30
+#: inc/settings/header/compare_fields.php:12
+msgid "Show icon"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:307
+msgid "Show images in a lightbox when clicking on image in gallery."
+msgstr ""
+
+#: inc/settings/header/hamburger_fields.php:35
+msgid "Show Logo"
+msgstr ""
+
+#: inc/settings/header/cart_fields.php:49
+msgid "Show number of items in the cart."
+msgstr ""
+
+#: inc/settings/header/wishlist_fields.php:33
+msgid "Show number of items in the wishlist."
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:32
+msgid "Show On Mobile"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:1154
+msgid "Show product image"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:1140
+msgid "Show product title"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:372
+msgid "Show Quantity"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:336
+msgid "Show Short Description"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:342
+msgid "Show SKU"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:848
+msgid "Show Stars Rating"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:354
+msgid "Show Tags"
+msgstr ""
+
+#: inc/settings/header/search_fields.php:62
+msgid "Show Text in Search Button "
+msgstr ""
+
+#: inc/settings/header/cart_fields.php:57
+msgid "Show the sub total (after calculation)."
+msgstr ""
+
+#: inc/settings/header/cart_fields.php:29
+#: inc/settings/header/contact_fields.php:20
+#: inc/settings/header/wishlist_fields.php:20
+#: inc/settings/header/hamburger_fields.php:123
+#: inc/settings/header/mobile_fields.php:107
+#: inc/settings/header/account_fields.php:29
+msgid "Show Title"
+msgstr ""
+
+#: inc/settings/header/social_fields.php:36
+#: inc/settings/header/compare_fields.php:18
+msgid "Show title"
+msgstr ""
+
+#: inc/settings/header/cart_fields.php:56
+msgid "Show Total"
+msgstr ""
+
+#: inc/settings/header/account_fields.php:49
+msgid "Show Username"
+msgstr ""
+
+#: inc/classes/theme.php:261 inc/settings/woocommerce/shop_fields.php:576
+msgid "Sidebar"
+msgstr ""
+
+#: inc/admin/metabox_init.php:226
+msgid "Sidebar for page layout"
+msgstr ""
+
+#: inc/admin/metabox_init.php:213
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/elementor/init.php:164
+msgid "Simple Style 01"
+msgstr ""
+
+#: inc/elementor/init.php:165
+msgid "Simple Style 02"
+msgstr ""
+
+#: inc/settings/blog/blog.php:67
+msgid "Single post"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:25
+#: inc/settings/mobile/mobile.php:24
+msgid "Single Product"
+msgstr ""
+
+#: inc/settings/blog/blog.php:342
+msgid "Singular sidebar"
+msgstr ""
+
+#: inc/settings/layout/site_layout.php:112
+msgid "Site Advance Style"
+msgstr ""
+
+#: inc/settings/layout/site_layout.php:99
+msgid "Site Background"
+msgstr ""
+
+#: inc/settings/layout/site_layout.php:38
+msgid "Site Boxed/Framed Width"
+msgstr ""
+
+#: inc/settings/blog/blog.php:131 inc/settings/woocommerce/shop_fields.php:93
+msgid "Site container"
+msgstr ""
+
+#: inc/settings/layout/site_layout.php:15
+#: inc/settings/layout/site_layout.php:26
+msgid "Site Layout"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:1389
+msgid "Size"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:33
+msgid "SKU:"
+msgstr ""
+
+#: inc/elementor/init.php:234
+msgid "Slider"
+msgstr ""
+
+#: inc/classes/theme.php:224 inc/settings/woocommerce/shop_fields.php:170
+#: inc/settings/woocommerce/woo_setting.php:165
+msgid "Small"
+msgstr ""
+
+#: inc/settings/header/hamburger_fields.php:58
+#: inc/settings/header/mobile_fields.php:148
+msgid "Social"
+msgstr ""
+
+#: inc/settings/header/social_fields.php:42
+msgid "Social elements"
+msgstr ""
+
+#: inc/settings/general/general.php:34
+msgid "Social Follow"
+msgstr ""
+
+#: inc/settings/header/header.php:57 inc/settings/header/header.php:90
+#: inc/settings/header/header.php:96 inc/settings/header/topbar_fields.php:149
+#: inc/settings/header/topbar_fields.php:197
+#: inc/settings/header/topbar_fields.php:244
+msgid "Social Icon"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:2059
+msgid "Sold By:"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:954
+#: inc/settings/woocommerce/shop_fields.php:871
+#: inc/settings/woocommerce/shop_fields.php:1081
+msgid "Sold Out"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:1106
+msgid "Sold Out Badge Background"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:1080
+msgid "Sold Out Badge Text"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:1093
+msgid "Sold Out Badge Text Color"
+msgstr ""
+
+#: inc/settings/color_style/style.php:120
+msgid "solid"
+msgstr ""
+
+#. %s = plugin name.
+#: inc/admin/plugins.php:130
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/admin/plugins.php:136
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugins.php:133
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugins.php:138
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce/woocommerce-functions.php:186
+msgid "Sort by"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:399
+#: inc/elementor/widgets/advance_banner.php:488
+#: inc/elementor/widgets/advance_banner.php:501
+#: inc/elementor/widgets/advance_banner.php:1359
+msgid "Spacing"
+msgstr ""
+
+#: inc/settings/header/sticky_fields.php:12
+msgid "Sticky"
+msgstr ""
+
+#: inc/settings/mobile/mobile.php:87
+msgid "Sticky Add To Cart"
+msgstr ""
+
+#: inc/settings/header/sticky_fields.php:33
+msgid "Sticky Advance Style"
+msgstr ""
+
+#: inc/settings/header/header.php:69
+msgid "Sticky header"
+msgstr ""
+
+#: inc/settings/header/sticky_fields.php:19
+msgid "Sticky Logo"
+msgstr ""
+
+#: inc/theme-template-functions.php:561
+msgid "Sticky post"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:147
+msgid "Stroke Color"
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:140
+msgid "Stroke Text"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:784
+#: inc/settings/color_style/style.php:252
+#: inc/elementor/widgets/advance_banner.php:59
+msgid "Style"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:166
+#: inc/elementor/widgets/advance_banner.php:1117
+msgid "Sub Title"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:471
+msgid "Sub Title Color"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:126
+#: woocommerce/checkout/review-order.php:24
+#: woocommerce/checkout/review-order.php:64
+msgid "Subtotal"
+msgstr ""
+
+#: inc/admin/theme_setup.php:539
+msgid "Success"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:321
+msgid "Summary"
+msgstr ""
+
+#: inc/settings/header/mobile_fields.php:179
+msgid "Tablet (<1025px)"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:388
+#: inc/settings/woocommerce/woo_setting.php:408
+msgid "Tabs"
+msgstr ""
+
+#: inc/theme-template-functions.php:598 woocommerce/single-product/meta.php:42
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/settings/woocommerce/shop_fields.php:394
+msgid "Tags"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:740
+#: inc/settings/woocommerce/woo_setting.php:394
+msgid "Telegram"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:893
+#: inc/elementor/widgets/advance_banner.php:213
+msgid "Text"
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:304
+msgid "Text after time"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:325
+msgid "Text Align"
+msgstr ""
+
+#: inc/settings/blog/blog.php:194 inc/settings/woocommerce/shop_fields.php:240
+msgid "Text align"
+msgstr ""
+
+#: inc/settings/color_style/style.php:181
+msgid "Text Button Setting"
+msgstr ""
+
+#: inc/admin/metabox_init.php:61 inc/admin/metabox_init.php:131
+#: inc/settings/blog/blog.php:217 inc/settings/header/header.php:136
+#: inc/settings/header/sticky_fields.php:86
+#: inc/settings/header/hamburger_fields.php:94
+#: inc/settings/header/transparent_fields.php:111
+#: inc/settings/header/topbar_fields.php:60
+#: inc/settings/woocommerce/shop_fields.php:217
+#: inc/settings/color_style/style.php:66 inc/settings/footer/footer.php:56
+#: inc/settings/footer/footer.php:104
+msgid "Text Color"
+msgstr ""
+
+#: inc/settings/color_style/style.php:81
+msgid "Text Color Hover"
+msgstr ""
+
+#: inc/admin/metabox_init.php:68 inc/admin/metabox_init.php:142
+#: inc/settings/header/header.php:142 inc/settings/header/sticky_fields.php:104
+#: inc/settings/header/transparent_fields.php:129
+msgid "Text Hover Color"
+msgstr ""
+
+#: inc/settings/header/search_fields.php:68
+msgid "Text in Search Button"
+msgstr ""
+
+#: inc/settings/header/search_fields.php:56
+msgid "Text Placeholder"
+msgstr ""
+
+#: inc/settings/color_style/style.php:139
+msgid ""
+"The border-width property sets the width of an element's four borders. This "
+"property can have from one to four values."
+msgstr ""
+
+#: inc/settings/header/cart_fields.php:77
+msgid "The distance between the Cart and other elements on the Header of page."
+msgstr ""
+
+#: inc/settings/header/account_fields.php:64
+msgid ""
+"The distance between the My Account and other elements on the Header of page."
+msgstr ""
+
+#: inc/settings/header/search_fields.php:88
+msgid ""
+"The distance between the My Search and other elements on the Header of page."
+msgstr ""
+
+#: inc/settings/header/wishlist_fields.php:40
+msgid ""
+"The distance between the Wishlist and other elements on the Header of page."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:46
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: inc/admin/plugins.php:137
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugins.php:135
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugins.php:134
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/cart/cart-shipping.php:55
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: inc/elementor/widgets/category_bg.php:106
+#: inc/elementor/widgets/category_bg.php:107
+#: inc/elementor/widgets/advance_banner.php:150
+#: inc/elementor/widgets/advance_banner.php:151
+msgid "This is the %highlight% title"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:184
+msgid ""
+"This is the description. Lorem ipsum dolor\n"
+"sit amet consectetur adipiscing"
+msgstr ""
+
+#: inc/admin/plugins.php:132
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/plugins.php:131
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/svgsupport.php:111
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:199
+msgid "Thumbnails Height on Desktop"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:242
+msgid "Thumbnails Height on Tablet"
+msgstr ""
+
+#: inc/admin/plugins.php:100
+msgid "TI WooCommerce Wishlist"
+msgstr ""
+
+#: inc/settings/header/hamburger_fields.php:129
+#: inc/settings/header/mobile_fields.php:113
+#: inc/elementor/widgets/category_bg.php:101
+#: inc/elementor/widgets/category_bg.php:384
+#: inc/elementor/widgets/advance_banner.php:145
+#: inc/elementor/widgets/advance_banner.php:1035
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/recent_post.php:150
+msgid "Title:"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:338
+#: inc/elementor/widgets/advance_banner.php:746
+msgid "Top"
+msgstr ""
+
+#: inc/settings/header/header.php:21
+msgid "Top Bar"
+msgstr ""
+
+#: inc/settings/header/header.php:380
+msgid "Top Control Elements"
+msgstr ""
+
+#: inc/settings/announcement/announcement.php:49
+msgid "Top of the Page"
+msgstr ""
+
+#: inc/settings/header/topbar_fields.php:14
+msgid "Topbar"
+msgstr ""
+
+#: inc/admin/metabox_init.php:166
+msgid "Topbar Background"
+msgstr ""
+
+#: inc/settings/header/topbar_fields.php:39
+msgid "Topbar background"
+msgstr ""
+
+#: inc/settings/header/topbar_fields.php:178
+msgid "Topbar Center Elements"
+msgstr ""
+
+#: inc/admin/metabox_init.php:175
+msgid "Topbar Color"
+msgstr ""
+
+#: inc/settings/header/topbar_fields.php:70
+msgid "Topbar Divider"
+msgstr ""
+
+#: inc/settings/header/topbar_fields.php:120
+msgid "Topbar Elements"
+msgstr ""
+
+#: inc/settings/header/topbar_fields.php:102
+msgid "Topbar layout"
+msgstr ""
+
+#: inc/settings/header/topbar_fields.php:131
+msgid "Topbar left Elements"
+msgstr ""
+
+#: inc/settings/header/topbar_fields.php:226
+msgid "Topbar Right Elements"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:110
+msgid "Total"
+msgstr ""
+
+#: inc/settings/header/transparent_fields.php:61
+msgid "Transparent Background"
+msgstr ""
+
+#: inc/settings/header/transparent_fields.php:14
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/settings/header/header.php:73
+msgid "Transparent header"
+msgstr ""
+
+#: inc/settings/header/transparent_fields.php:38
+msgid "Transparent Header Display"
+msgstr ""
+
+#: inc/settings/header/transparent_fields.php:92
+msgid "Transparent Logo"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:735
+#: inc/settings/header/social_fields.php:23
+#: inc/settings/woocommerce/woo_setting.php:393
+msgid "Tumblr"
+msgstr ""
+
+#: inc/settings/general/general.php:391
+msgid "Tumblr."
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:712
+#: inc/settings/header/social_fields.php:15
+#: inc/settings/woocommerce/woo_setting.php:389
+msgid "Twitter"
+msgstr ""
+
+#: inc/settings/general/general.php:311
+msgid "Twitter."
+msgstr ""
+
+#: inc/settings/woocommerce/checkout.php:28
+msgid "Two Column"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:216
+msgid "Type button text here"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:186
+msgid "Type your description here"
+msgstr ""
+
+#: inc/settings/typography/typography.php:8
+msgid "Typography"
+msgstr ""
+
+#: inc/classes/scripts.php:197
+msgid "unable to find any products that match the current query"
+msgstr ""
+
+#: woocommerce/cart/cart.php:149
+msgid "Update cart"
+msgstr ""
+
+#. %s: post date
+#: inc/theme-template-functions.php:529
+#, php-format
+msgid "Updated on %s"
+msgstr ""
+
+#: inc/settings/general/general.php:156
+msgid "Upload popup banner image"
+msgstr ""
+
+#: inc/admin/metabox_init.php:269
+msgid "Use Page Heading"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:907
+msgid "Use {%} to display discount percentages"
+msgstr ""
+
+#: woocommerce/myaccount/fm-register.php:10
+msgid "Username"
+msgstr ""
+
+#: inc/theme-functions.php:925
+msgid "Username is required."
+msgstr ""
+
+#: woocommerce/myaccount/fm-login.php:8
+msgid "Username or email address"
+msgstr ""
+
+#: inc/admin/plugins.php:65
+msgid "Variation Swatches for WooCommerce"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:418
+#: inc/settings/mobile/mobile.php:73
+#: inc/elementor/widgets/advance_banner.php:333
+msgid "Vertical"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:745
+msgid "Via Email"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-template-functions.php:1957
+msgid "video"
+msgstr ""
+
+#: inc/settings/woocommerce/woo_setting.php:425
+msgid "Video Options"
+msgstr ""
+
+#: template-parts/headers/parts/cart.php:30
+#: template-parts/headers/parts/direction/cart.php:20
+#: template-parts/headers/parts/mobile/cart.php:18
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/settings/header/social_fields.php:19
+msgid "Vimeo"
+msgstr ""
+
+#: inc/settings/general/general.php:351
+msgid "Vimeo."
+msgstr ""
+
+#: inc/settings/general/general.php:210
+msgid "Wait for seconds"
+msgstr ""
+
+#: inc/classes/scripts.php:115 inc/settings/woocommerce/shop_fields.php:1128
+msgid "was added to cart successfully"
+msgstr ""
+
+#: inc/theme-template-functions.php:841
+msgid "Website Under Maintenance"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/lib/breadcrumbs.php:233
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/lib/breadcrumbs.php:653
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/classes/scripts.php:176
+msgid "Weeks"
+msgstr ""
+
+#: inc/settings/header/hamburger_fields.php:47
+msgid "Widget"
+msgstr ""
+
+#: inc/elementor/widgets/advance_banner.php:239
+#: inc/elementor/widgets/advance_banner.php:532
+#: inc/elementor/widgets/advance_banner.php:637
+msgid "Width"
+msgstr ""
+
+#: inc/settings/header/header.php:45 inc/settings/header/header.php:105
+#: inc/settings/header/mobile_fields.php:53
+#: inc/settings/mobile/direction.php:32
+msgid "Wishlist"
+msgstr ""
+
+#: inc/settings/header/wishlist_fields.php:39
+msgid "Wishlist Align"
+msgstr ""
+
+#: inc/settings/header/compare_fields.php:38
+msgid "Wishlist box margin"
+msgstr ""
+
+#: inc/settings/header/wishlist_fields.php:26
+msgid "Wishlist Title"
+msgstr ""
+
+#: inc/admin/plugins.php:47
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:630
+#: inc/settings/woocommerce/woo_setting.php:65
+msgid "WooCommerce Breadcrumb"
+msgstr ""
+
+#: inc/admin/plugins.php:85
+msgid "WooCommerce Currency Switcher"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:557
+msgid "WooCommerce Result Count"
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:551
+msgid "WooCommerce Sort"
+msgstr ""
+
+#: inc/lib/breadcrumbs.php:629 inc/lib/breadcrumbs.php:652
+#: inc/lib/breadcrumbs.php:673 inc/lib/breadcrumbs.php:694
+#: inc/lib/breadcrumbs.php:958
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/admin/metabox_init.php:278 inc/settings/blog/blog.php:80
+msgid ""
+"You can replace the Page Heading with a Custom Block that you can edit in "
+"the Page Builder."
+msgstr ""
+
+#: inc/settings/woocommerce/shop_fields.php:29
+msgid ""
+"You can replace the Shop Heading with a Custom Block that you can edit in "
+"the Page Builder."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:67
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:24
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: template-parts/blog/related.php:52
+msgid "You might also like"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: inc/theme-template-functions.php:419
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr ""
+
+#: inc/widgets/recent_post.php:11
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: inc/settings/header/social_fields.php:18
+msgid "Youtube"
+msgstr ""
+
+#: inc/settings/general/general.php:341
+msgid "Youtube."
+msgstr ""
+
+#: inc/admin/theme_setup.php:1850
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/elementor/init.php:250 inc/settings/woocommerce/shop_fields.php:817
+msgid "Zoom"
+msgstr ""

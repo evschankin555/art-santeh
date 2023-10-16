@@ -1,0 +1,544 @@
+# Translation of Plugins - Variation Swatches for WooCommerce - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Variation Swatches for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-30 19:24:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Variation Swatches for WooCommerce - Stable (latest release)\n"
+
+#: includes/class-woo-variation-swatches-cache.php:205
+msgid "Your object cache implementation does not support flushing individual groups."
+msgstr "Ваша реализация кеша объектов не поддерживает сброс отдельных групп."
+
+#: includes/getwooplugins/html/deactive-feedback-dialog.php:50
+msgid "Send feedback &amp; Deactivate"
+msgstr "Отправить отзыв и деактивировать"
+
+#: includes/class-woo-variation-swatches-settings.php:606
+msgid "Variation label separator. Default: %s."
+msgstr "Разделитель этикеток вариаций. По умолчанию: %s."
+
+#: includes/class-woo-variation-swatches-settings.php:605
+msgid "Variation label separator"
+msgstr "Разделитель этикеток вариаций"
+
+#: includes/class-woo-variation-swatches-settings.php:596
+msgid "Show selected attribute"
+msgstr "Показать выбранный атрибут"
+
+#: includes/class-woo-variation-swatches-settings.php:358
+msgid "Enable tooltip on each product attribute."
+msgstr "Включить подсказку для каждого атрибута продукта."
+
+#: includes/getwooplugins/html/deactive-feedback-dialog.php:18
+#: includes/getwooplugins/html/dialog.php:20
+msgid "Close modal panel"
+msgstr "Закрыть модальную панель"
+
+#: includes/getwooplugins/html/deactive-feedback-dialog.php:16
+msgid "QUICK FEEDBACK"
+msgstr "БЫСТРАЯ ОБРАТНАЯ СВЯЗЬ"
+
+#. Plugin Name of the plugin
+#: includes/html-settings-sidebar.php:30
+msgid "Variation Swatches for WooCommerce"
+msgstr "Variation Swatches for WooCommerce"
+
+#: woo-variation-swatches.php:48
+msgid "<strong>Variation Swatches for WooCommerce</strong> is an add-on of "
+msgstr "<strong>Variation Swatches for WooCommerce</strong> - это дополнение к "
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:76
+msgid "Your email address."
+msgstr "Введите ваш email."
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:75
+msgid "I need someone to <strong>setup this plugin.</strong>"
+msgstr "Мне нужен кто-то для <strong>установки этого плагина.</strong>."
+
+#: includes/html-settings-tutorial.php:107
+#: includes/html-settings-tutorial.php:145
+#: includes/html-settings-tutorial.php:154
+#: includes/html-settings-tutorial.php:191
+#: includes/html-settings-tutorial.php:200
+#: includes/html-settings-tutorial.php:237
+#: includes/html-settings-tutorial.php:246
+#: includes/html-settings-tutorial.php:283
+#: includes/html-settings-tutorial.php:292
+#: includes/html-settings-tutorial.php:329
+#: includes/html-settings-tutorial.php:338
+#: includes/html-settings-tutorial.php:376
+#: includes/html-settings-tutorial.php:385
+#: includes/html-settings-tutorial.php:450
+msgid "PRO"
+msgstr "PRO"
+
+#: includes/getwooplugins/html/deactive-feedback-dialog.php:24
+msgid "May we have a little info about why you are deactivating?"
+msgstr "Можно немного информации о том, почему вы деактивируете?"
+
+#: includes/getwooplugins/html/deactive-feedback-dialog.php:50
+msgid "Deactivating..."
+msgstr "Деактивация..."
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:48
+msgid "It's a temporary deactivation."
+msgstr "Это временная деактивация."
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:53
+msgid "I couldn't understand how to make it work."
+msgstr "Я не мог понять, как заставить это работать."
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:89
+msgid "Please share with us."
+msgstr "Пожалуйста, поделитесь с нами."
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:94
+msgid "Other"
+msgstr "Другой"
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:95
+msgid "Please share the reason"
+msgstr "Причина ошибки"
+
+#: includes/html-settings-tutorial.php:6
+msgid "How to tutorials"
+msgstr "Как пользоваться учебниками"
+
+#: includes/getwooplugins/html/deactive-feedback-dialog.php:54
+msgid "Skip &amp; Deactivate"
+msgstr "Пропустить и деактивировать"
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:69
+msgid "The plugin <strong>broke my layout</strong> or some functionality."
+msgstr "Плагин <strong>сломал мой макет</strong> или какую-то функциональность."
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:82
+msgid "The plugin is <strong>too complicated to configure.</strong>"
+msgstr "Плагин <strong>слишком сложен в настройке.</strong>"
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:84
+msgid "<a target=\"_blank\" href=\"https://getwooplugins.com/documentation/woocommerce-variation-swatches/\">Have you checked our documentation?</a>."
+msgstr "<a target=\"_blank\" href=\"https://getwooplugins.com/documentation/woocommerce-variation-swatches/\">Вы ознакомились с нашей документацией? </a>."
+
+#: includes/class-woo-variation-swatches-deactivate-feedback.php:71
+msgid "<a target=\"_blank\" href=\"https://getwooplugins.com/tickets/\">Please open a support ticket</a>, we will fix it immediately."
+msgstr "<a target=\"_blank\" href=\"https://getwooplugins.com/tickets/\">Откройте тикет поддержки</a>, мы немедленно устраним проблему."
+
+#: includes/class-woo-variation-swatches-settings.php:675
+msgid "Advanced change some visual styles on shop / archive page"
+msgstr "Расширенное изменение некоторых визуальных стилей на странице магазина / архива"
+
+#: includes/class-woo-variation-swatches-settings.php:774
+msgid "Catalog mode"
+msgstr "Режим каталога"
+
+#: includes/class-woo-variation-swatches-settings.php:454
+msgid "Blur with cross"
+msgstr "Размытие с пересечением"
+
+#: includes/class-woo-variation-swatches-settings.php:455
+msgid "Blur without cross"
+msgstr "Размытие без пересечения"
+
+#: includes/class-woo-variation-swatches-settings.php:301
+msgid "Archive / Shop"
+msgstr "Архив / Магазин"
+
+#: includes/class-woo-variation-swatches-settings.php:562
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: includes/class-woo-variation-swatches-settings.php:532
+msgid "Width"
+msgstr "Ширина"
+
+#: includes/class-woo-variation-swatches-settings.php:547
+msgid "Height"
+msgstr "Высота"
+
+#: includes/class-woo-variation-swatches-backend.php:105
+msgid "Go Pro"
+msgstr "Перейти на платную версию"
+
+#: includes/class-woo-variation-swatches-settings.php:456
+msgid "Hide"
+msgstr "Скрыть"
+
+#: includes/html-settings-sidebar.php:18
+msgid "Facing issue?"
+msgstr "Столкнулись с проблемой?"
+
+#: includes/class-woo-variation-swatches-settings.php:298
+msgid "Advanced"
+msgstr "Дополнительно"
+
+#: includes/class-woo-variation-swatches-settings.php:674
+msgid "Visual Section"
+msgstr "Визуальный раздел"
+
+#: includes/class-woo-variation-swatches-settings.php:421
+msgid "Clear on Reselect"
+msgstr "Очистить при повторном выборе"
+
+#: includes/class-woo-variation-swatches-settings.php:465
+msgid "Attribute image size"
+msgstr "Размер изображения атрибута"
+
+#: includes/class-woo-variation-swatches-backend.php:178
+msgid "Add Attribute"
+msgstr "Добавить атрибут"
+
+#: includes/class-woo-variation-swatches-backend.php:179
+msgid "Add"
+msgstr "Добавить"
+
+#: includes/class-woo-variation-swatches-backend.php:180
+msgid "Cancel"
+msgstr "Отмена"
+
+#: includes/class-woo-variation-swatches-settings.php:357
+msgid "Enable Tooltip"
+msgstr "Включить всплывающую подсказку"
+
+#: includes/class-woo-variation-swatches-settings.php:349
+msgid "Enable Stylesheet"
+msgstr "Включить таблицу стилей"
+
+#: includes/class-woo-variation-swatches-product-edit-panel.php:31
+#: includes/class-woo-variation-swatches-settings.php:29
+msgid "Swatches Settings"
+msgstr "Настройки Swatches"
+
+#: includes/class-woo-variation-swatches-backend.php:100
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/class-woo-variation-swatches-settings.php:374
+msgid "Rounded Shape"
+msgstr "Округлая форма"
+
+#: includes/class-woo-variation-swatches-settings.php:375
+msgid "Squared Shape"
+msgstr "Квадратная форма"
+
+#: includes/class-woo-variation-swatches-term-meta.php:312
+msgid "Upload / Add image"
+msgstr "Загрузить/Добавить изображение"
+
+#: includes/class-woo-variation-swatches-term-meta.php:315
+msgid "Remove image"
+msgstr "Удалить изображение"
+
+#: includes/class-woo-variation-swatches-backend.php:195
+#: includes/class-woo-variation-swatches-backend.php:254
+msgid "Color"
+msgstr "Цвет"
+
+#: includes/class-woo-variation-swatches-backend.php:197
+msgid "Button"
+msgstr "Кнопка"
+
+#: includes/class-woo-variation-swatches-backend.php:255
+msgid "Choose a color"
+msgstr "Выберите цвет"
+
+#: includes/class-woo-variation-swatches-backend.php:177
+#: includes/class-woo-variation-swatches-backend.php:264
+msgid "Choose an Image"
+msgstr "Выберите изображение"
+
+#: includes/class-woo-variation-swatches-backend.php:139
+#: includes/getwooplugins/class-getwooplugins-admin-settings.php:733
+msgid "Select none"
+msgstr "Отменить выбор"
+
+#: includes/class-woo-variation-swatches-product-page.php:804
+#: includes/class-woo-variation-swatches-product-page.php:830
+msgid "Choose an option"
+msgstr "Выбрать опцию"
+
+#: includes/class-woo-variation-swatches-backend.php:181
+msgid "Use Image"
+msgstr "Использовать изображения"
+
+#: woo-variation-swatches.php:37
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#. Author URI of the plugin
+msgid "https://getwooplugins.com/"
+msgstr "https://getwooplugins.com/"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/woo-variation-swatches/"
+msgstr "https://wordpress.org/plugins/woo-variation-swatches/"
+
+#. Author of the plugin
+msgid "Emran Ahmed"
+msgstr "Emran Ahmed"
+
+#. translators: 1: page name 2: page ID
+#: includes/getwooplugins/class-getwooplugins-admin-settings.php:647
+msgid "%1$s (ID: %2$s)"
+msgstr "%1$s (ID: %2$s)"
+
+#: includes/class-woo-variation-swatches-product-page.php:128
+msgid "%s left"
+msgstr "%s слева"
+
+#: includes/class-woo-variation-swatches-settings.php:727
+msgid "After add to cart button"
+msgstr "После кнопки добавить в корзину"
+
+#: includes/class-woo-variation-swatches-backend.php:140
+msgid "Add new"
+msgstr "Добавить"
+
+#: includes/class-woo-variation-swatches-settings.php:414
+msgid "Advanced options"
+msgstr "Дополнительные настройки"
+
+#: includes/class-woo-variation-swatches-settings.php:743
+msgid "Center"
+msgstr "По центру"
+
+#: includes/getwooplugins/class-getwooplugins-admin-settings.php:699
+msgid "Choose a country / region&hellip;"
+msgstr "Выберите страну/регион&hellip;"
+
+#: includes/getwooplugins/class-getwooplugins-admin-settings.php:725
+msgid "Choose countries / regions&hellip;"
+msgstr "Выберите страны/регионы&hellip;"
+
+#: includes/getwooplugins/class-getwooplugins-admin-settings.php:699
+#: includes/getwooplugins/class-getwooplugins-admin-settings.php:725
+msgid "Country / Region"
+msgstr "Страна/регион"
+
+#: includes/getwooplugins/class-getwooplugins-admin-settings.php:742
+msgid "Day(s)"
+msgstr "Дни"
+
+#: includes/class-woo-variation-swatches-backend.php:90
+#: includes/html-settings-sidebar.php:8
+msgid "Documentation"
+msgstr "Документация"
+
+#: includes/class-woo-variation-swatches-settings.php:342
+msgid "General options"
+msgstr "Основные настройки"
+
+#: includes/class-woo-variation-swatches-settings.php:303
+#: includes/class-woo-variation-swatches-term-meta.php:103
+msgid "Group"
+msgstr "Группа"
+
+#: includes/class-woo-variation-swatches-settings.php:89
+#: includes/class-woo-variation-swatches-settings.php:220
+msgid "Help &amp; Support"
+msgstr "Помощь и поддержка"
+
+#: includes/class-woo-variation-swatches-settings.php:742
+msgid "Left"
+msgstr "Слева"
+
+#: includes/getwooplugins/class-getwooplugins-admin-settings.php:744
+msgid "Month(s)"
+msgstr "Месяцы"
+
+#. translators: %s: image URL
+#: includes/class-woo-variation-swatches-export-import.php:254
+msgid "Not able to attach \"%s\"."
+msgstr "Не возможно вложить «%s»."
+
+#: includes/class-woo-variation-swatches-settings.php:744
+msgid "Right"
+msgstr "Справа"
+
+#: includes/getwooplugins/html/settings-page.php:97
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: includes/getwooplugins/class-getwooplugins-admin-settings.php:665
+msgid "Search for a page&hellip;"
+msgstr "Искать страницу&hellip;"
+
+#: includes/getwooplugins/class-getwooplugins-admin-settings.php:633
+msgid "Select a page&hellip;"
+msgstr "Выберите страницу&hellip;"
+
+#: includes/class-woo-variation-swatches-backend.php:121
+msgid "Select terms"
+msgstr "Выберите значения"
+
+#. translators: %s: image URL
+#: includes/class-woo-variation-swatches-export-import.php:263
+msgid "Unable to use image \"%s\"."
+msgstr "Невозможно использовать изображение «%s»."
+
+#: includes/getwooplugins/class-getwooplugins-admin-settings.php:743
+msgid "Week(s)"
+msgstr "Недели"
+
+#: includes/getwooplugins/class-getwooplugins-admin-settings.php:745
+msgid "Year(s)"
+msgstr "Годы"
+
+#: includes/getwooplugins/class-getwooplugins-admin-settings.php:65
+msgid "Your settings have been saved."
+msgstr "Ваши настройки сохранены."
+
+#: includes/class-woo-variation-swatches-backend.php:182
+msgid "Add Media"
+msgstr "Добавить медиафайл"
+
+#: includes/class-woo-variation-swatches-settings.php:297
+#: includes/getwooplugins/class-getwooplugins-settings-page.php:128
+msgid "General"
+msgstr "Общие"
+
+#: includes/getwooplugins/class-getwooplugins-admin-menus.php:189
+msgid "Home"
+msgstr "Главная"
+
+#: includes/class-woo-variation-swatches-backend.php:196
+#: includes/class-woo-variation-swatches-backend.php:263
+msgid "Image"
+msgstr "Изображение"
+
+#: includes/html-product-settings-panel.php:152
+#: includes/html-product-settings-panel.php:167
+msgid "Live Preview"
+msgstr "Просмотреть"
+
+#: includes/class-woo-variation-swatches-backend.php:206
+msgid "Mixed"
+msgstr "Смешанный"
+
+#: includes/getwooplugins/html/settings-page.php:98
+msgid "Reset all"
+msgstr "Сбросить всё"
+
+#: includes/class-woo-variation-swatches-backend.php:194
+msgid "Select"
+msgstr "Выбрать"
+
+#: includes/class-woo-variation-swatches-backend.php:138
+#: includes/getwooplugins/class-getwooplugins-admin-settings.php:733
+msgid "Select all"
+msgstr "Выделить всё"
+
+#: includes/getwooplugins/class-getwooplugins-admin-menus.php:132
+#: includes/getwooplugins/class-getwooplugins-plugin-deactivate-feedback.php:60
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "Сделанные вами изменения будут отменены, если вы уйдёте с этой страницы."
+
+#: includes/class-woo-variation-swatches-settings.php:103
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: includes/class-woo-variation-swatches-settings.php:721
+msgid "Display position"
+msgstr "Позиция отображения"
+
+#: includes/html-settings-sidebar.php:11
+msgid "documentation"
+msgstr "документация"
+
+#: includes/class-woo-variation-swatches-settings.php:305
+msgid "License"
+msgstr "Лицензия"
+
+#: includes/html-product-settings-panel.php:65
+#: includes/html-product-settings-panel.php:73
+#: includes/html-product-settings-panel.php:88
+#: includes/html-product-settings-panel.php:96
+#: includes/html-product-settings-panel.php:104
+#: includes/html-product-settings-panel.php:112
+#: includes/html-product-settings-panel.php:120
+#: includes/html-product-settings-panel.php:128
+#: includes/html-product-settings-panel.php:136
+#: includes/html-product-settings-panel.php:144
+#: includes/html-product-settings-panel.php:159
+#: includes/html-product-settings-panel.php:174
+msgid "Live Demo"
+msgstr "Демо в реальном времени"
+
+#: includes/class-woo-variation-swatches-settings.php:300
+msgid "Product Page"
+msgstr "Страница товара"
+
+#: includes/class-woo-variation-swatches-backend.php:198
+msgid "Radio"
+msgstr "Переключатель"
+
+#: includes/class-woo-variation-swatches-settings.php:87
+#: includes/class-woo-variation-swatches-settings.php:106
+msgid "See Documentation"
+msgstr "Смотрите документацию"
+
+#: includes/class-woo-variation-swatches-settings.php:299
+msgid "Styling"
+msgstr "Стилизация"
+
+#: includes/html-product-settings-panel.php:66
+#: includes/html-product-settings-panel.php:74
+#: includes/html-product-settings-panel.php:81
+#: includes/html-product-settings-panel.php:89
+#: includes/html-product-settings-panel.php:97
+#: includes/html-product-settings-panel.php:105
+#: includes/html-product-settings-panel.php:113
+#: includes/html-product-settings-panel.php:121
+#: includes/html-product-settings-panel.php:129
+#: includes/html-product-settings-panel.php:137
+#: includes/html-product-settings-panel.php:145
+#: includes/html-product-settings-panel.php:160
+#: includes/html-product-settings-panel.php:175
+msgid "Video Tutorial"
+msgstr "Видеоурок"
+
+#: includes/class-woo-variation-swatches-backend.php:91
+msgid "Video Tutorials"
+msgstr "Видеоуроки"
+
+#: includes/class-woo-variation-swatches-backend.php:90
+msgid "View documentation"
+msgstr "Посмотреть документацию"
+
+#: includes/class-woo-variation-swatches-settings.php:308
+msgid "Tutorial"
+msgstr "Учебное пособие"
+
+#: includes/class-woo-variation-swatches-settings.php:736
+msgid "Swatches align"
+msgstr "Образцы выравниваются"
+
+#: includes/class-woo-variation-swatches-settings.php:737
+msgid "Swatches align on archive page"
+msgstr "Образцы выравниваются на странице архива"
+
+#: includes/class-woo-variation-swatches-settings.php:752
+msgid "Show on filter widget"
+msgstr "Показать на виджете фильтра"
+
+#: includes/class-woo-variation-swatches-settings.php:753
+msgid "Show variation swatches on filter widget."
+msgstr "Показать образцы вариаций в виджете фильтра."
+
+#: includes/html-product-settings-panel.php:208
+msgid "Ok, I need this feature!"
+msgstr "Хорошо, мне нужна эта функция!"
+
+#: includes/html-settings-group.php:5
+msgid "Swatches Group"
+msgstr "Группа Swatches"
+
+#: includes/html-settings-group.php:11
+msgid "Show your swatches individually or in groups. Split variation swatches into group to make it much more user friendly."
+msgstr "Покажите свои образцы отдельно или в группах. Разделите варианты образцов на группы, чтобы сделать их более удобными для пользователей."

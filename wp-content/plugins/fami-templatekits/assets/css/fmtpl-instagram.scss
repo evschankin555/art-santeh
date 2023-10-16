@@ -1,0 +1,15 @@
+.elementor-widget-fmtpl-instagram{
+  .fmtpl-instagram{
+    .instagram-feed-content{
+      display: grid;
+    }
+  }
+  @media (min-width: 1200px) {
+    @for $i from 1 through 15 {
+      &.fmtpl-desktop-items-limit-#{$i} .instagram-feed-content .fmins-item:nth-child(n + #{($i+1)}) {
+        display: none;
+      }
+    }
+  }
+}
+

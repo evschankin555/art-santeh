@@ -1,0 +1,52 @@
+.fmtpl-banner{
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  .fmtpl-banner-box-img,.fmtpl-banner-overlay,.fmtpl-banner-background {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+  }
+  .fmtpl-banner-overlay{
+    transition: background-color 0.5s ease-in-out;
+  }
+  .fmtpl-banner-background{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    &.zoom{
+      transition: transform 0.5s linear 0s;
+    }
+    &.gray_scale{
+      transition: filter 0.5s ease-in-out;
+    }
+  }
+  &:hover{
+    .fmtpl-banner-background{
+      &.zoom{
+        transform: scale(1.05);
+      }
+      &.gray_scale{
+        filter: grayscale(100%);
+      }
+    }
+  }
+  .fmtpl-banner-box-img{
+    opacity: 0;
+    &:not(.has-link) {
+      visibility: hidden;
+    }
+    &.has-link{
+      img{
+        width: 100%;
+        height: 100%;
+      }
+    }
+  }
+  .fmtpl-banner-content{
+    z-index: 1;
+    height: max-content;
+  }
+}

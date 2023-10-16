@@ -1,0 +1,48 @@
+.fmtpl-banner {
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+.fmtpl-banner .fmtpl-banner-box-img, .fmtpl-banner .fmtpl-banner-overlay, .fmtpl-banner .fmtpl-banner-background {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+.fmtpl-banner .fmtpl-banner-overlay {
+  transition: background-color 0.5s ease-in-out;
+}
+.fmtpl-banner .fmtpl-banner-background {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.fmtpl-banner .fmtpl-banner-background.zoom {
+  transition: transform 0.5s linear 0s;
+}
+.fmtpl-banner .fmtpl-banner-background.gray_scale {
+  transition: filter 0.5s ease-in-out;
+}
+.fmtpl-banner:hover .fmtpl-banner-background.zoom {
+  transform: scale(1.05);
+}
+.fmtpl-banner:hover .fmtpl-banner-background.gray_scale {
+  filter: grayscale(100%);
+}
+.fmtpl-banner .fmtpl-banner-box-img {
+  opacity: 0;
+}
+.fmtpl-banner .fmtpl-banner-box-img:not(.has-link) {
+  visibility: hidden;
+}
+.fmtpl-banner .fmtpl-banner-box-img.has-link img {
+  width: 100%;
+  height: 100%;
+}
+.fmtpl-banner .fmtpl-banner-content {
+  z-index: 1;
+  height: max-content;
+}
+
+/*# sourceMappingURL=fmtpl-banner.css.map */

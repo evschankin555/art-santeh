@@ -1,0 +1,74 @@
+.fmtpl-countdown{
+  .fmtpl-banner-content{
+    display: flex;
+    flex-direction: column;
+  }
+  .fmtpl-countdown-time{
+    display: flex;
+    justify-content: flex-start;
+    &.right{
+      justify-content: flex-end;
+    }
+    &.center{
+      justify-content: center;
+    }
+    .box-count{
+      display: flex;
+      flex: 1 1 auto;
+      text-align: center;
+      align-items: center;
+      .num{
+        text-align: center;
+      }
+    }
+    &.hide_lable{
+      .box-count{
+        .text{
+          display: none!important;
+        }
+      }
+    }
+  }
+  .fmtpl-countdown-label-block &{
+    .box-count{
+      flex-direction: column;
+    }
+  }
+  .fmtpl-content-align-left &{
+    .fmtpl-banner-content{
+      text-align: left;
+      align-items: flex-start;
+    }
+    .fmtpl-countdown-time{
+      justify-content: flex-start;
+    }
+  }
+  .fmtpl-content-align-center &{
+    .fmtpl-banner-content{
+      text-align: center;
+      align-items: center;
+    }
+    .fmtpl-countdown-time{
+      justify-content: center;
+    }
+  }
+  .fmtpl-content-align-right &{
+    .fmtpl-banner-content{
+      text-align: right;
+      align-items: flex-end;
+    }
+    .fmtpl-countdown-time{
+      justify-content: flex-end;
+    }
+  }
+  .fmtpl-digits-position-before &{
+    .num{
+      order: 0;
+    }
+  }
+  .fmtpl-digits-position-after &{
+    .num{
+      order: 1;
+    }
+  }
+}

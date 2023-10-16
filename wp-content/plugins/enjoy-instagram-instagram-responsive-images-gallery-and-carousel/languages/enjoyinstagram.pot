@@ -1,0 +1,1724 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Enjoy Instagram Premium\n"
+"POT-Creation-Date: 2018-04-22 23:38+0200\n"
+"PO-Revision-Date: 2015-06-23 09:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.13\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-KeywordsList: __ ;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/gutenberg/block/badge.js:76
+msgid "User Badge"
+msgstr ""
+
+#: includes/gutenberg/block/badge.js:87
+msgid "Show Profile Pictures"
+msgstr ""
+
+#: includes/gutenberg/block/badge.js:97
+msgid "Show Username"
+msgstr ""
+
+#: includes/gutenberg/block/badge.js:107
+msgid "Show Bio"
+msgstr ""
+
+#: includes/gutenberg/block/badge.js:117
+msgid "Show Website"
+msgstr ""
+
+#: includes/gutenberg/block/badge.js:127
+msgid "Show Full Name"
+msgstr ""
+
+#: includes/gutenberg/block/badge.js:137
+msgid "Show Media"
+msgstr ""
+
+#: includes/gutenberg/block/badge.js:147
+msgid "Show Fallowed By"
+msgstr ""
+
+#: includes/gutenberg/block/badge.js:157
+msgid "Show Follows"
+msgstr ""
+
+#: includes/gutenberg/block/badge.js:167
+msgid "Show Images"
+msgstr ""
+
+#: includes/gutenberg/block/badge.js:177
+msgid "Style View Images"
+msgstr ""
+
+#: includes/gutenberg/block/badge.js:183
+#: includes/tinymce/shortcode-tinymce-window.php:1785
+#: includes/widgets/widgets_badge.php:175
+msgid "Grid"
+msgstr ""
+
+#: includes/gutenberg/block/badge.js:184
+#: includes/tinymce/shortcode-tinymce-window.php:1786
+#: includes/widgets/widgets_badge.php:176
+msgid "Carousel"
+msgstr ""
+
+#: includes/gutenberg/block/badge.js:191
+msgid "Number of Images"
+msgstr ""
+
+#: includes/gutenberg/block/badge.js:208
+msgid "Enjoyinstagram shortcode Badge"
+msgstr ""
+
+#: includes/class.enjoyinstagram-admin.php:80
+#: includes/tinymce/shortcode-tinymce-window.php:1517
+msgid "Users"
+msgstr ""
+
+#: includes/class.enjoyinstagram-admin.php:81
+msgid "Appearance Settings"
+msgstr ""
+
+#: includes/class.enjoyinstagram-admin.php:82
+msgid "Moderation Panel"
+msgstr ""
+
+#: includes/class.enjoyinstagram-admin.php:143
+#: includes/class.enjoyinstagram-admin.php:144
+msgid "Enjoy Instagram"
+msgstr ""
+
+#: includes/class.enjoyinstagram-admin.php:158
+msgid "Settings"
+msgstr ""
+
+#: includes/class.enjoyinstagram-admin.php:159
+msgid "Widgets"
+msgstr ""
+
+#: includes/class.enjoyinstagram-admin.php:160
+msgid "Premium Version"
+msgstr ""
+
+#: includes/functions.enjoyinstagram.php:74 includes/widgets/widgets.php:255
+#: includes/widgets/widgets_album.php:225
+#: includes/widgets/widgets_grid.php:228
+msgid "LightBox Effect"
+msgstr ""
+
+#: includes/functions.enjoyinstagram.php:75 includes/widgets/widgets.php:257
+#: includes/widgets/widgets_album.php:227
+#: includes/widgets/widgets_grid.php:230
+msgid "Instagram"
+msgstr ""
+
+#: includes/functions.enjoyinstagram.php:76 includes/widgets/widgets.php:259
+#: includes/widgets/widgets_album.php:229
+#: includes/widgets/widgets_grid.php:232
+msgid "No Link"
+msgstr ""
+
+#: includes/functions.enjoyinstagram.php:77
+#: includes/widgets/widgets_grid.php:234
+msgid "Custom"
+msgstr ""
+
+#: includes/gutenberg/enjoyinstagram-blocks.php:53
+msgid "Choose a User"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:19
+msgctxt "shortcode tinyMCE window title"
+msgid "EnjoyInstagram Premium"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:421
+msgctxt "plugin shortcode window title"
+msgid "Insert Enjoy Instagram Shortcode"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:430
+msgctxt "shortcode tab carousel options"
+msgid "Carousel View"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:434
+msgctxt "shortcode tab grid options"
+msgid "Grid View"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:438
+msgctxt "shortcode tab polaroid options"
+msgid "Polaroid View"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:442
+msgctxt "shortcode tab album options"
+msgid "Album View"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:446
+msgctxt "shortcode tab badge options"
+msgid "User Badge"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:463
+#: includes/tinymce/shortcode-tinymce-window.php:855
+#: includes/tinymce/shortcode-tinymce-window.php:1271
+#: includes/tinymce/shortcode-tinymce-window.php:1540
+#: includes/widgets/widgets_grid.php:145
+msgid "Moderate"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:466
+#: includes/tinymce/shortcode-tinymce-window.php:681
+#: includes/tinymce/shortcode-tinymce-window.php:710
+#: includes/tinymce/shortcode-tinymce-window.php:719
+#: includes/tinymce/shortcode-tinymce-window.php:731
+#: includes/tinymce/shortcode-tinymce-window.php:740
+#: includes/tinymce/shortcode-tinymce-window.php:773
+#: includes/tinymce/shortcode-tinymce-window.php:782
+#: includes/tinymce/shortcode-tinymce-window.php:791
+#: includes/tinymce/shortcode-tinymce-window.php:804
+#: includes/tinymce/shortcode-tinymce-window.php:858
+#: includes/tinymce/shortcode-tinymce-window.php:1126
+#: includes/tinymce/shortcode-tinymce-window.php:1178
+#: includes/tinymce/shortcode-tinymce-window.php:1189
+#: includes/tinymce/shortcode-tinymce-window.php:1200
+#: includes/tinymce/shortcode-tinymce-window.php:1214
+#: includes/tinymce/shortcode-tinymce-window.php:1274
+#: includes/tinymce/shortcode-tinymce-window.php:1359
+#: includes/tinymce/shortcode-tinymce-window.php:1401
+#: includes/tinymce/shortcode-tinymce-window.php:1410
+#: includes/tinymce/shortcode-tinymce-window.php:1419
+#: includes/tinymce/shortcode-tinymce-window.php:1432
+#: includes/tinymce/shortcode-tinymce-window.php:1589
+#: includes/tinymce/shortcode-tinymce-window.php:1639
+#: includes/tinymce/shortcode-tinymce-window.php:1648
+#: includes/tinymce/shortcode-tinymce-window.php:1657
+#: includes/widgets/widgets.php:170 includes/widgets/widgets.php:269
+#: includes/widgets/widgets.php:288 includes/widgets/widgets.php:295
+#: includes/widgets/widgets.php:304 includes/widgets/widgets.php:311
+#: includes/widgets/widgets.php:333 includes/widgets/widgets.php:340
+#: includes/widgets/widgets.php:347 includes/widgets/widgets.php:356
+#: includes/widgets/widgets_album.php:212
+#: includes/widgets/widgets_album.php:244
+#: includes/widgets/widgets_album.php:251
+#: includes/widgets/widgets_album.php:258
+#: includes/widgets/widgets_grid.php:147
+#: includes/widgets/widgets_grid.php:257
+#: includes/widgets/widgets_grid.php:285
+#: includes/widgets/widgets_grid.php:292
+#: includes/widgets/widgets_grid.php:299
+#: includes/widgets/widgets_grid.php:308
+#: templates/admin/appearance-settings.php:169
+#: templates/admin/appearance-settings.php:194
+#: templates/admin/appearance-settings.php:215
+#: templates/admin/appearance-settings.php:237
+#: templates/admin/appearance-settings.php:255
+#: templates/admin/appearance-settings.php:426
+#: templates/admin/appearance-settings.php:577
+#: templates/admin/appearance-settings.php:588
+#: templates/admin/appearance-settings.php:697
+#: templates/admin/appearance-settings.php:706
+#: templates/admin/appearance-settings.php:715
+#: templates/admin/appearance-settings.php:738
+#: templates/admin/appearance-settings.php:795
+#: templates/admin/appearance-settings.php:804
+#: templates/admin/appearance-settings.php:813
+#: templates/admin/appearance-settings.php:837
+#: templates/admin/moderation-settings.php:54
+msgid "Yes"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:467
+#: includes/tinymce/shortcode-tinymce-window.php:682
+#: includes/tinymce/shortcode-tinymce-window.php:711
+#: includes/tinymce/shortcode-tinymce-window.php:720
+#: includes/tinymce/shortcode-tinymce-window.php:732
+#: includes/tinymce/shortcode-tinymce-window.php:741
+#: includes/tinymce/shortcode-tinymce-window.php:774
+#: includes/tinymce/shortcode-tinymce-window.php:783
+#: includes/tinymce/shortcode-tinymce-window.php:792
+#: includes/tinymce/shortcode-tinymce-window.php:805
+#: includes/tinymce/shortcode-tinymce-window.php:859
+#: includes/tinymce/shortcode-tinymce-window.php:1127
+#: includes/tinymce/shortcode-tinymce-window.php:1179
+#: includes/tinymce/shortcode-tinymce-window.php:1190
+#: includes/tinymce/shortcode-tinymce-window.php:1201
+#: includes/tinymce/shortcode-tinymce-window.php:1215
+#: includes/tinymce/shortcode-tinymce-window.php:1275
+#: includes/tinymce/shortcode-tinymce-window.php:1360
+#: includes/tinymce/shortcode-tinymce-window.php:1402
+#: includes/tinymce/shortcode-tinymce-window.php:1411
+#: includes/tinymce/shortcode-tinymce-window.php:1420
+#: includes/tinymce/shortcode-tinymce-window.php:1433
+#: includes/tinymce/shortcode-tinymce-window.php:1590
+#: includes/tinymce/shortcode-tinymce-window.php:1640
+#: includes/tinymce/shortcode-tinymce-window.php:1649
+#: includes/tinymce/shortcode-tinymce-window.php:1658
+#: includes/widgets/widgets.php:171 includes/widgets/widgets.php:270
+#: includes/widgets/widgets.php:289 includes/widgets/widgets.php:296
+#: includes/widgets/widgets.php:305 includes/widgets/widgets.php:312
+#: includes/widgets/widgets.php:334 includes/widgets/widgets.php:341
+#: includes/widgets/widgets.php:348 includes/widgets/widgets.php:357
+#: includes/widgets/widgets_album.php:213
+#: includes/widgets/widgets_album.php:245
+#: includes/widgets/widgets_album.php:252
+#: includes/widgets/widgets_album.php:259
+#: includes/widgets/widgets_grid.php:148
+#: includes/widgets/widgets_grid.php:258
+#: includes/widgets/widgets_grid.php:286
+#: includes/widgets/widgets_grid.php:293
+#: includes/widgets/widgets_grid.php:300
+#: includes/widgets/widgets_grid.php:309
+#: templates/admin/appearance-settings.php:170
+#: templates/admin/appearance-settings.php:195
+#: templates/admin/appearance-settings.php:216
+#: templates/admin/appearance-settings.php:238
+#: templates/admin/appearance-settings.php:256
+#: templates/admin/appearance-settings.php:427
+#: templates/admin/appearance-settings.php:578
+#: templates/admin/appearance-settings.php:589
+#: templates/admin/appearance-settings.php:698
+#: templates/admin/appearance-settings.php:707
+#: templates/admin/appearance-settings.php:716
+#: templates/admin/appearance-settings.php:739
+#: templates/admin/appearance-settings.php:796
+#: templates/admin/appearance-settings.php:805
+#: templates/admin/appearance-settings.php:814
+#: templates/admin/appearance-settings.php:838
+#: templates/admin/moderation-settings.php:55
+msgid "No"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:478
+#: includes/tinymce/shortcode-tinymce-window.php:868
+#: includes/tinymce/shortcode-tinymce-window.php:1284
+#: includes/tinymce/shortcode-tinymce-window.php:1506
+msgid "Inclusion Mode"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:481
+#: includes/tinymce/shortcode-tinymce-window.php:871
+#: includes/tinymce/shortcode-tinymce-window.php:1287
+#: includes/widgets/widgets_grid.php:152
+msgctxt "option label"
+msgid "Show Pics"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:485
+#: includes/tinymce/shortcode-tinymce-window.php:875
+#: includes/tinymce/shortcode-tinymce-window.php:1291
+#: includes/widgets/widgets.php:176 includes/widgets/widgets_grid.php:153
+msgctxt "option label"
+msgid "of Your Profile"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:487
+#: includes/tinymce/shortcode-tinymce-window.php:877
+#: includes/tinymce/shortcode-tinymce-window.php:1293
+#: includes/widgets/widgets.php:177 includes/widgets/widgets_grid.php:154
+msgctxt "option label"
+msgid "by Hashtag"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:489
+#: includes/tinymce/shortcode-tinymce-window.php:879
+#: includes/tinymce/shortcode-tinymce-window.php:1295
+#: includes/widgets/widgets.php:178 includes/widgets/widgets_grid.php:155
+msgctxt "option label"
+msgid "Favourites"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:502
+#: includes/tinymce/shortcode-tinymce-window.php:892
+#: includes/tinymce/shortcode-tinymce-window.php:1308
+#: includes/tinymce/shortcode-tinymce-window.php:1525
+msgid "Restrict by the following hashtags (without # and separated by comma)"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:509
+#: includes/tinymce/shortcode-tinymce-window.php:899
+#: includes/tinymce/shortcode-tinymce-window.php:1315
+#: includes/tinymce/shortcode-tinymce-window.php:1550
+#: includes/tinymce/shortcode-tinymce-window.php:1561
+#: includes/widgets/widgets.php:197 includes/widgets/widgets_album.php:187
+#: includes/widgets/widgets_album.php:196
+#: includes/widgets/widgets_grid.php:174
+msgctxt "label for moterated user"
+msgid "moderated"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:514
+#: includes/tinymce/shortcode-tinymce-window.php:904
+#: includes/tinymce/shortcode-tinymce-window.php:1320
+#, php-format
+msgctxt "widget option description"
+msgid ""
+"You can add others moderated user going to <a target=\"_blank\" href=\"%s"
+"\">setting moderate page</a>"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:520
+#: includes/tinymce/shortcode-tinymce-window.php:910
+#: includes/tinymce/shortcode-tinymce-window.php:1326
+#: includes/tinymce/shortcode-tinymce-window.php:1533
+msgid "Insert hashtags without '#' separated by comma"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:527
+#: includes/tinymce/shortcode-tinymce-window.php:917
+#: includes/tinymce/shortcode-tinymce-window.php:1333
+#: includes/widgets/widgets.php:214 includes/widgets/widgets_grid.php:191
+msgctxt "label for moterated hashtag"
+msgid "moderated"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:531
+#: includes/tinymce/shortcode-tinymce-window.php:921
+#: includes/tinymce/shortcode-tinymce-window.php:1337
+#, php-format
+msgctxt "widget option description"
+msgid ""
+"You can add others moderated hashtag going to <a target=\"_blank\" href="
+"\"%s\">setting moderate page</a>"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:541
+msgid "Carousel Settings"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:544
+#: includes/tinymce/shortcode-tinymce-window.php:933
+#: includes/tinymce/shortcode-tinymce-window.php:1349
+#: includes/tinymce/shortcode-tinymce-window.php:1574
+#: includes/tinymce/shortcode-tinymce-window.php:1780
+#: includes/widgets/widgets.php:224 includes/widgets/widgets_album.php:201
+#: includes/widgets/widgets_badge.php:171
+#: includes/widgets/widgets_grid.php:201
+msgctxt "option section title"
+msgid "GENERAL OPTIONS"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:549
+msgctxt "widget option label"
+msgid "Images displayed at a time:"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:564
+#: templates/admin/appearance-settings.php:121
+msgctxt "option label"
+msgid "Animate In"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:574
+#: templates/admin/appearance-settings.php:131
+msgctxt "option label"
+msgid "Animate Out"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:586
+#: includes/tinymce/shortcode-tinymce-window.php:967
+msgctxt "option label"
+msgid "Show different number of images for different screen resolution ?"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:595
+#: includes/tinymce/shortcode-tinymce-window.php:976
+msgctxt "option seciton title"
+msgid "Select number of image for screen resolution"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:599
+msgid "Screen resolution ≤ 480px"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:600
+#: includes/tinymce/shortcode-tinymce-window.php:613
+#: includes/tinymce/shortcode-tinymce-window.php:626
+#: includes/tinymce/shortcode-tinymce-window.php:639
+#: templates/admin/appearance-settings.php:109
+msgctxt "option label"
+msgid "Images displayed at a time"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:612
+msgid "Screen resolution ≤ 600px"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:625
+msgid "Screen resolution ≤ 768px"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:638
+msgid "Screen resolution ≤ 1024x"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:652
+#: includes/tinymce/shortcode-tinymce-window.php:1071
+#: includes/tinymce/shortcode-tinymce-window.php:1366
+#: includes/tinymce/shortcode-tinymce-window.php:1602
+#: includes/widgets/widgets.php:251 includes/widgets/widgets_album.php:221
+#: includes/widgets/widgets_grid.php:224
+msgctxt "option section title"
+msgid "WHEN YOU CLICK ON AN IMAGE"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:656
+#: includes/widgets/widgets_album.php:223
+#: templates/admin/appearance-settings.php:147
+#: templates/admin/appearance-settings.php:353
+#: templates/admin/appearance-settings.php:622
+#: templates/admin/appearance-settings.php:668
+msgctxt "option label"
+msgid "Link Image to"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:662
+#: includes/tinymce/shortcode-tinymce-window.php:1081
+#: includes/tinymce/shortcode-tinymce-window.php:1375
+#: includes/tinymce/shortcode-tinymce-window.php:1611
+msgctxt "option label"
+msgid "LightBox Effect"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:664
+#: includes/tinymce/shortcode-tinymce-window.php:1083
+#: includes/tinymce/shortcode-tinymce-window.php:1377
+#: includes/tinymce/shortcode-tinymce-window.php:1613
+msgctxt "option label"
+msgid "Instagram"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:666
+#: includes/tinymce/shortcode-tinymce-window.php:1085
+#: includes/tinymce/shortcode-tinymce-window.php:1379
+#: includes/tinymce/shortcode-tinymce-window.php:1615
+msgctxt "option label"
+msgid "No Link"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:668
+#: includes/tinymce/shortcode-tinymce-window.php:1087
+#: includes/tinymce/shortcode-tinymce-window.php:1381
+#: includes/tinymce/shortcode-tinymce-window.php:1617
+msgctxt "option label"
+msgid "Custom"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:676
+#: includes/widgets/widgets.php:265
+msgctxt "option section title"
+msgid "CAROUSEL NAVIGATION"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:679
+#: templates/admin/appearance-settings.php:166
+msgctxt "option label"
+msgid "Navigation buttons"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:688
+#: templates/admin/appearance-settings.php:176
+msgctxt "option label"
+msgid "Prev Button Text"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:694
+#: templates/admin/appearance-settings.php:183
+msgctxt "option label"
+msgid "Next Button Text"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:702
+msgctxt "option label"
+msgid "Slide Speed (milliseconds)"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:708
+#: templates/admin/appearance-settings.php:191
+msgctxt "option label"
+msgid "Dots"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:717
+#: templates/admin/appearance-settings.php:252
+msgctxt "option label"
+msgid "Loop"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:726
+#: includes/widgets/widgets.php:300
+msgctxt "option section title"
+msgid "AUTOPLAY"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:729
+#: templates/admin/appearance-settings.php:212
+msgctxt "option label"
+msgid "AutoPlay"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:738
+#: templates/admin/appearance-settings.php:234
+msgctxt "option label"
+msgid "Stop on Hover"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:747
+#: templates/admin/appearance-settings.php:222
+msgctxt "option label"
+msgid "Timeout Autoplay"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:753
+#: templates/admin/appearance-settings.php:228
+msgctxt "option label"
+msgid "Speed Autoplay"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:761
+#: includes/tinymce/shortcode-tinymce-window.php:1160
+#: includes/tinymce/shortcode-tinymce-window.php:1388
+#: includes/tinymce/shortcode-tinymce-window.php:1426
+#: includes/tinymce/shortcode-tinymce-window.php:1624
+#: includes/widgets/widgets.php:324 includes/widgets/widgets_album.php:235
+#: includes/widgets/widgets_grid.php:276
+msgctxt "option section title"
+msgid "LIGHTBOX OPTIONS"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:764
+#: includes/tinymce/shortcode-tinymce-window.php:1391
+#: includes/tinymce/shortcode-tinymce-window.php:1627
+#: includes/widgets/widgets_album.php:237
+msgctxt "option label"
+msgid "Hide Bars Delay"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:766
+#: includes/tinymce/shortcode-tinymce-window.php:1169
+#: includes/tinymce/shortcode-tinymce-window.php:1393
+#: includes/tinymce/shortcode-tinymce-window.php:1630
+#: includes/widgets/widgets.php:328 includes/widgets/widgets_album.php:239
+#: includes/widgets/widgets_grid.php:280
+msgid "value in ms ( 0 to always show caption and action bar )"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:771
+#: includes/tinymce/shortcode-tinymce-window.php:1175
+#: includes/tinymce/shortcode-tinymce-window.php:1399
+#: includes/tinymce/shortcode-tinymce-window.php:1636
+#: includes/widgets/widgets_album.php:242
+#: includes/widgets/widgets_grid.php:283
+#: templates/admin/appearance-settings.php:792
+msgctxt "option label"
+msgid "Hide Bars On Mobile"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:780
+#: includes/tinymce/shortcode-tinymce-window.php:1186
+#: includes/tinymce/shortcode-tinymce-window.php:1408
+#: includes/widgets/widgets_album.php:249
+#: includes/widgets/widgets_grid.php:290
+#: templates/admin/appearance-settings.php:703
+#: templates/admin/appearance-settings.php:801
+msgctxt "option label"
+msgid "Show Likes Count"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:789
+#: includes/tinymce/shortcode-tinymce-window.php:1197
+#: includes/tinymce/shortcode-tinymce-window.php:1417
+#: includes/tinymce/shortcode-tinymce-window.php:1655
+#: includes/widgets/widgets_album.php:256
+#: includes/widgets/widgets_grid.php:297
+#: templates/admin/appearance-settings.php:712
+msgctxt "option label"
+msgid "Show Author"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:799
+#: includes/tinymce/shortcode-tinymce-window.php:1207
+#: includes/widgets/widgets.php:352 includes/widgets/widgets_grid.php:304
+msgctxt "option section title"
+msgid "AUTORELOAD"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:802
+#: includes/tinymce/shortcode-tinymce-window.php:1211
+msgctxt "option label"
+msgid "Autoreload"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:811
+#: includes/tinymce/shortcode-tinymce-window.php:1222
+#: includes/tinymce/shortcode-tinymce-window.php:1440
+#: includes/widgets/widgets_grid.php:313
+msgctxt "option label"
+msgid "Time to Reload (milliseconds)"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:817
+#: includes/tinymce/shortcode-tinymce-window.php:1231
+#: includes/tinymce/shortcode-tinymce-window.php:1446
+#: includes/tinymce/shortcode-tinymce-window.php:1683
+#: includes/widgets/widgets.php:365 includes/widgets/widgets_album.php:275
+msgctxt "option section title"
+msgid "STYLE"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:820
+#: includes/tinymce/shortcode-tinymce-window.php:1235
+#: includes/tinymce/shortcode-tinymce-window.php:1687
+#: includes/widgets/widgets_album.php:277
+msgctxt "option label"
+msgid "Margin of each Image"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:832
+#: includes/tinymce/shortcode-tinymce-window.php:1248
+#: includes/tinymce/shortcode-tinymce-window.php:1486
+#: includes/tinymce/shortcode-tinymce-window.php:1704
+#: includes/tinymce/shortcode-tinymce-window.php:1809
+msgid "Insert"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:835
+#: includes/tinymce/shortcode-tinymce-window.php:1251
+#: includes/tinymce/shortcode-tinymce-window.php:1490
+#: includes/tinymce/shortcode-tinymce-window.php:1709
+#: includes/tinymce/shortcode-tinymce-window.php:1814
+msgid "Cancel"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:930
+msgctxt "option section title"
+msgid "Grid settings"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:936
+#: includes/widgets/widgets_grid.php:202
+msgid "Number of Images ( COLS x ROWS )"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:941
+#: includes/widgets/widgets_grid.php:204
+msgctxt "option label"
+msgid "Number of Columns:"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:953
+#: includes/widgets/widgets_grid.php:212
+msgctxt "option label"
+msgid "Number of Rows:"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:981
+#: includes/tinymce/shortcode-tinymce-window.php:1003
+#: includes/tinymce/shortcode-tinymce-window.php:1025
+#: includes/tinymce/shortcode-tinymce-window.php:1048
+#: templates/admin/appearance-settings.php:315
+#: templates/admin/appearance-settings.php:442
+#: templates/admin/appearance-settings.php:467
+#: templates/admin/appearance-settings.php:499
+#: templates/admin/appearance-settings.php:524
+msgctxt "option label"
+msgid "Number of Columns"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:990
+#: includes/tinymce/shortcode-tinymce-window.php:1012
+#: includes/tinymce/shortcode-tinymce-window.php:1034
+#: includes/tinymce/shortcode-tinymce-window.php:1057
+#: templates/admin/appearance-settings.php:327
+#: templates/admin/appearance-settings.php:454
+#: templates/admin/appearance-settings.php:479
+#: templates/admin/appearance-settings.php:511
+#: templates/admin/appearance-settings.php:536
+msgctxt "option label"
+msgid "Number of Rows"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1075
+#: includes/tinymce/shortcode-tinymce-window.php:1369
+#: includes/tinymce/shortcode-tinymce-window.php:1605
+#: includes/widgets/widgets.php:253 includes/widgets/widgets_grid.php:226
+msgctxt "option label"
+msgid "Link Image to:"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1094
+#: includes/widgets/widgets_grid.php:238
+msgctxt "option section title"
+msgid "GRID OPTIONS"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1098
+#: includes/widgets/widgets_grid.php:240
+#: templates/admin/appearance-settings.php:371
+msgctxt "option label"
+msgid "Number of items that are replaced at the same time"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1102
+#: includes/widgets/widgets_grid.php:242
+#: templates/admin/appearance-settings.php:374
+msgid "Random"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1115
+#: includes/widgets/widgets_grid.php:251
+msgctxt "option label"
+msgid "Interval the images will be replaced (milliseconds):"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1123
+#: includes/widgets/widgets_grid.php:255
+msgctxt "option label"
+msgid "Images will switch when mouse on hover:"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1133
+#: includes/tinymce/shortcode-tinymce-window.php:1664
+#: includes/widgets/widgets_album.php:263
+#: includes/widgets/widgets_grid.php:262
+msgctxt "option section title"
+msgid "ANIMATION"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1137
+#: includes/widgets/widgets_grid.php:272
+msgctxt "option label"
+msgid "Animation Speed (milliseconds)"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1147
+#: includes/widgets/widgets_grid.php:264
+msgctxt "option label"
+msgid "Animate Type"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1164
+#: includes/widgets/widgets_grid.php:278
+msgctxt "option label"
+msgid "Hide Bars Delay (milliseconds)"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1346
+msgctxt "option section title"
+msgid "Polaroid Settings"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1352
+msgctxt "option label"
+msgid "Show Info on Back"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1353
+msgctxt "option label"
+msgid "(Instagram Photo Description Content)"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1430
+#: templates/admin/appearance-settings.php:834
+msgctxt "option label"
+msgid "AutoReload"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1450
+msgctxt "option label"
+msgid "Background"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1460
+msgctxt "option label"
+msgid "Border Width"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1471
+msgctxt "option label"
+msgid "Border Color"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1509
+#: includes/widgets/widgets_album.php:154
+msgctxt "option section title"
+msgid "SELECT USERS / HASHTAGS"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1512
+msgid "Not Moderate"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1531
+msgid "Hashtag"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1545
+msgctxt "option label"
+msgid "Users - Moderated"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1558
+msgctxt "option label"
+msgid "Hashtag (Moderated)"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1571
+msgctxt "option section title"
+msgid "Album Settings"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1577
+#: includes/widgets/widgets_album.php:203
+msgctxt "option label"
+msgid "On Hover show Likes Count or Caption exceprt"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1580
+#: includes/widgets/widgets_album.php:205
+#: templates/admin/appearance-settings.php:655
+msgid "Likes Count"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1581
+#: includes/widgets/widgets_album.php:206
+#: templates/admin/appearance-settings.php:656
+msgid "Caption Exceprt"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1587
+#: includes/widgets/widgets_album.php:210
+#: templates/admin/appearance-settings.php:735
+msgctxt "option label"
+msgid "Random Angle"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1596
+msgctxt "widget option label"
+msgid "Image Delay (milliseconds)"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1646
+msgctxt "widget option label"
+msgid "Show Likes Count"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1667
+#: includes/widgets/widgets_album.php:265
+msgctxt "option label"
+msgid "Speed Animation In"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1670
+#: includes/tinymce/shortcode-tinymce-window.php:1678
+#: includes/widgets/widgets_album.php:267
+#: includes/widgets/widgets_album.php:272
+msgid "value in ms"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1675
+#: includes/widgets/widgets_album.php:270
+#: templates/admin/appearance-settings.php:762
+msgctxt "option label"
+msgid "Speed Animation Out"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1692
+#: includes/widgets/widgets.php:369 includes/widgets/widgets_album.php:279
+msgid "value in px"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1726
+msgctxt "option label"
+msgid "Select User"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1730
+msgctxt "option label"
+msgid "USER"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1745
+#, php-format
+msgid ""
+" To add other user go to <a target=\"_blank\" href=\"%s\">Users settings "
+"page</a>"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1751
+#: includes/widgets/widgets_badge.php:149
+msgctxt "option section title"
+msgid "WHAT DO YOU WANNA SHOW IN YOUR BADGE"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1755
+#: includes/widgets/widgets_badge.php:152
+msgctxt "option label"
+msgid "Profile Picture"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1757
+#: includes/widgets/widgets_badge.php:154
+msgctxt "option label"
+msgid "Username"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1759
+#: includes/widgets/widgets_badge.php:156
+msgctxt "option label"
+msgid "Bio"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1761
+#: includes/widgets/widgets_badge.php:158
+msgctxt "option label"
+msgid "Website"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1763
+msgctxt "option label"
+msgid "Full Name"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1769
+#: includes/widgets/widgets_badge.php:162
+msgctxt "option label"
+msgid "Media"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1771
+msgctxt "option label"
+msgid "Followed by"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1773
+#: includes/widgets/widgets_badge.php:166
+msgctxt "option label"
+msgid "Follows"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1775
+#: includes/widgets/widgets_badge.php:168
+msgctxt "option label"
+msgid "Posts"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1783
+#: includes/widgets/widgets_badge.php:173
+msgctxt "option label"
+msgid "Style View Images"
+msgstr ""
+
+#: includes/tinymce/shortcode-tinymce-window.php:1792
+#: includes/widgets/widgets_badge.php:180
+msgctxt "option label"
+msgid "Number of Images"
+msgstr ""
+
+#: includes/tinymce/tinymce.php:93
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: includes/widgets/widgets.php:21
+msgid "EnjoyInstagram - Carousel"
+msgstr ""
+
+#: includes/widgets/widgets.php:22
+msgid "EnjoyInstagram Widget for Carousel View"
+msgstr ""
+
+#: includes/widgets/widgets.php:121 includes/widgets/widgets_album.php:120
+#: includes/widgets/widgets_badge.php:107
+#: includes/widgets/widgets_grid.php:102
+msgid "EnjoyInstagram"
+msgstr ""
+
+#: includes/widgets/widgets.php:164 includes/widgets/widgets_album.php:151
+#: includes/widgets/widgets_badge.php:135
+msgctxt "option title"
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/widgets.php:168
+msgid "Moderate:"
+msgstr ""
+
+#: includes/widgets/widgets.php:175
+msgctxt "option label"
+msgid "Show Pics:"
+msgstr ""
+
+#: includes/widgets/widgets.php:181 includes/widgets/widgets_badge.php:138
+#: includes/widgets/widgets_grid.php:158
+msgid "User:"
+msgstr ""
+
+#: includes/widgets/widgets.php:189 includes/widgets/widgets_grid.php:166
+msgctxt "option label"
+msgid "Restrict by the following hashtags (without # and separated by comma)"
+msgstr ""
+
+#: includes/widgets/widgets.php:193 includes/widgets/widgets_grid.php:170
+msgctxt "option label"
+msgid "User Moderate"
+msgstr ""
+
+#: includes/widgets/widgets.php:203 includes/widgets/widgets_grid.php:180
+#, php-format
+msgctxt "option description"
+msgid ""
+"You can add others moderated user going to <a target=\"_blank\" href=\"%s"
+"\">setting moderate page</a>"
+msgstr ""
+
+#: includes/widgets/widgets.php:208
+msgid "insert a hashtag without '#'"
+msgstr ""
+
+#: includes/widgets/widgets.php:220 includes/widgets/widgets_grid.php:197
+#, php-format
+msgctxt "option description"
+msgid ""
+"You can add others moderated hashtag going to <a target=\"_blank\" href="
+"\"%s\">setting moderate page</a>"
+msgstr ""
+
+#: includes/widgets/widgets.php:226
+msgctxt "option label"
+msgid "Images displayed at a time:"
+msgstr ""
+
+#: includes/widgets/widgets.php:235
+msgctxt "option label"
+msgid "Animate In:"
+msgstr ""
+
+#: includes/widgets/widgets.php:243
+msgctxt "option label"
+msgid "Animate Out:"
+msgstr ""
+
+#: includes/widgets/widgets.php:261 includes/widgets/widgets_album.php:231
+msgid "Other"
+msgstr ""
+
+#: includes/widgets/widgets.php:267
+msgctxt "option label"
+msgid "Navigation buttons:"
+msgstr ""
+
+#: includes/widgets/widgets.php:274
+msgctxt "option label"
+msgid "Prev Button Text:"
+msgstr ""
+
+#: includes/widgets/widgets.php:278
+msgctxt "option label"
+msgid "Prev Button Next:"
+msgstr ""
+
+#: includes/widgets/widgets.php:282
+msgctxt "option label"
+msgid "Slide Speed (milliseconds):"
+msgstr ""
+
+#: includes/widgets/widgets.php:286
+msgctxt "option label"
+msgid "Dots:"
+msgstr ""
+
+#: includes/widgets/widgets.php:293
+msgctxt "option label"
+msgid "Loop:"
+msgstr ""
+
+#: includes/widgets/widgets.php:302
+msgctxt "option label"
+msgid "AutoPlay:"
+msgstr ""
+
+#: includes/widgets/widgets.php:309
+msgctxt "option label"
+msgid "Stop on Hover:"
+msgstr ""
+
+#: includes/widgets/widgets.php:316
+msgctxt "option label"
+msgid "Timeout Autoplay (milliseconds):"
+msgstr ""
+
+#: includes/widgets/widgets.php:320
+msgctxt "option label"
+msgid "Speed Autoplay (milliseconds):"
+msgstr ""
+
+#: includes/widgets/widgets.php:326
+msgctxt "option label"
+msgid "Hide Bars Delay (milliseconds):"
+msgstr ""
+
+#: includes/widgets/widgets.php:331
+#: templates/admin/appearance-settings.php:694
+msgctxt "option label"
+msgid "Hide Bars On Mobile:"
+msgstr ""
+
+#: includes/widgets/widgets.php:338
+msgctxt "option label"
+msgid "Show Likes Count:"
+msgstr ""
+
+#: includes/widgets/widgets.php:345
+msgctxt "option label"
+msgid "Show Author:"
+msgstr ""
+
+#: includes/widgets/widgets.php:354 includes/widgets/widgets_grid.php:306
+msgctxt "option label"
+msgid "Do you wanna reload content?"
+msgstr ""
+
+#: includes/widgets/widgets.php:361
+msgctxt "option label"
+msgid "Time to Reload (milliseconds):"
+msgstr ""
+
+#: includes/widgets/widgets.php:367
+msgctxt "option label"
+msgid "Margin of each Image:"
+msgstr ""
+
+#: includes/widgets/widgets_album.php:21
+msgid "EnjoyInstagram - Album"
+msgstr ""
+
+#: includes/widgets/widgets_album.php:22
+msgid "EnjoyInstagram Widget for Album View"
+msgstr ""
+
+#: includes/widgets/widgets_album.php:155
+msgctxt "option section title"
+msgid "NOT MODERATE"
+msgstr ""
+
+#: includes/widgets/widgets_album.php:157
+msgctxt "option user"
+msgid "Users:"
+msgstr ""
+
+#: includes/widgets/widgets_album.php:170
+msgctxt "option hashtag"
+msgid "Hashtag:"
+msgstr ""
+
+#: includes/widgets/widgets_album.php:172
+msgctxt "hashtag option description"
+msgid "insert hashtags (without '#') separated by comma"
+msgstr ""
+
+#: includes/widgets/widgets_album.php:174
+msgctxt "option hashtag restricted"
+msgid "Restrict by the following hashtags (without # and separated by comma)"
+msgstr ""
+
+#: includes/widgets/widgets_album.php:178
+msgctxt "option section title"
+msgid "MODERATE"
+msgstr ""
+
+#: includes/widgets/widgets_album.php:180
+msgctxt "option user"
+msgid "Users (Moderate):"
+msgstr ""
+
+#: includes/widgets/widgets_album.php:192
+msgctxt "option hashtag"
+msgid "Hashtags (Moderate):"
+msgstr ""
+
+#: includes/widgets/widgets_album.php:217
+msgctxt "option label"
+msgid "Image Delay (milliseconds)"
+msgstr ""
+
+#: includes/widgets/widgets_badge.php:21
+msgid "EnjoyInstagram - Badge"
+msgstr ""
+
+#: includes/widgets/widgets_badge.php:22
+msgid "EnjoyInstagram Widget for Badge View"
+msgstr ""
+
+#: includes/widgets/widgets_badge.php:160
+msgctxt "option label"
+msgid "Full name"
+msgstr ""
+
+#: includes/widgets/widgets_badge.php:164
+msgctxt "option label"
+msgid "Followed By"
+msgstr ""
+
+#: includes/widgets/widgets_grid.php:22
+msgid "EnjoyInstagram - Grid"
+msgstr ""
+
+#: includes/widgets/widgets_grid.php:23
+msgid "EnjoyInstagram Widget for Grid View"
+msgstr ""
+
+#: includes/widgets/widgets_grid.php:141
+msgctxt "widget option title"
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/widgets_grid.php:220
+msgctxt "option label"
+msgid "Margin (px):"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:33
+msgid "Set default appareance setting"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:36
+#: templates/admin/appearance-settings.php:852
+msgid "Save Settings"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:44
+msgid "JS and CSS defer"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:50
+msgid "JS and CSS defer toggle"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:52
+msgid ""
+"The plugin is configured to optimize page loading by deferring CSS and JS "
+"files."
+msgstr ""
+
+#: templates/admin/appearance-settings.php:53
+msgid ""
+"However, this may cause issues with thirdy party plugins or themes. If "
+"this happens, please disable this option."
+msgstr ""
+
+#: templates/admin/appearance-settings.php:56
+msgctxt "option label"
+msgid "Defer JS and CSS loading"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:68
+msgid "Instagram API settings"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:78
+#: templates/admin/moderation-settings.php:40
+msgctxt "option label"
+msgid "Images Captured from Instagram"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:82
+#: templates/admin/moderation-settings.php:45
+msgid "BE CAREFUL"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:83
+#: templates/admin/moderation-settings.php:46
+msgid ""
+"If you choose too many, may cause degraded performance.<br>It is "
+"recommended not to exceed."
+msgstr ""
+
+#: templates/admin/appearance-settings.php:87
+#: templates/admin/moderation-settings.php:43
+msgctxt "Images Captured from Instagram option label"
+msgid "images"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:99
+msgid "Carousel settings"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:106
+msgid "General options"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:145
+msgctxt "Label for option carousel link default"
+msgid "When you click on an image"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:163
+msgctxt "Label for navigation options block"
+msgid "Navigation"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:209
+msgctxt "Label for autoplay option block"
+msgid "Autoplay"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:249
+msgctxt "Label for common options block"
+msgid "Other settings"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:261
+msgctxt "option label"
+msgid "Slide Speed (ms)"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:267
+#: templates/admin/appearance-settings.php:339
+msgctxt "option label"
+msgid "Margin (px)"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:278
+msgid "Responsive settings"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:279
+msgid "Number of images showed"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:305
+msgid "Grid view settings"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:312
+msgctxt "Label for grid general settings"
+msgid "General settings"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:349
+msgctxt "Label for option grid link default"
+msgid "When you click on an image"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:368
+msgid "Images alternance"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:384
+msgctxt "option label"
+msgid "Animation Type"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:405
+msgctxt "Label for grid animation settings"
+msgid "Animation"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:408
+msgctxt "option label"
+msgid "Animation Speed (ms)"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:414
+msgctxt "option label"
+msgid "Time between image replace(ms)"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:422
+msgctxt "option label"
+msgid "Switch Images on mouse hover"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:438
+msgid "Responsive settings 1/2"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:495
+msgid "Responsive settings 2/2"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:556
+msgid "Polaroid view settings:"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:564
+msgctxt "Label for appearance polaroid settings"
+msgid "Appearance"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:567
+msgctxt "option label"
+msgid "Background #"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:573
+msgctxt "option label"
+msgid "Show \"View Gallery\" Start Button"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:584
+msgctxt "option label"
+msgid "Show Info on Back ( Instagram Photo Description Content )"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:600
+msgid "Polaroid border"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:603
+msgctxt "option label"
+msgid "Width (px)"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:609
+msgctxt "option label"
+msgid "Color #"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:620
+msgctxt "option label"
+msgid "When you click on an image"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:641
+msgid "Album view settings"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:649
+msgctxt "Label for appearance album settings"
+msgid "Appearance"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:652
+msgctxt "option label"
+msgid "Show on hover"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:666
+msgctxt "Label for option album link default"
+msgid "When you click on an image"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:685
+msgid "LightBox Options"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:688
+msgctxt "option label"
+msgid "Hide Bars Delay (ms)<i>(0 shows caption and action bar )</i>"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:732
+msgid "Effects"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:744
+msgctxt "option label"
+msgid "Image Delay"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:750
+msgctxt "option label"
+msgid "Images margin"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:756
+msgctxt "option label"
+msgid "Speed Animation In:"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:775
+msgid "LightBox Default Settings"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:783
+msgid "Lightbox settings"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:786
+msgctxt "option label"
+msgid "Hide Bars Delay (ms)<i>(0 shows caption and action bar)</i>"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:810
+msgctxt "option label"
+msgid "Show Image Author"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:824
+msgid "Other Settings"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:831
+msgid "Auto-refresh"
+msgstr ""
+
+#: templates/admin/appearance-settings.php:843
+msgctxt "option label"
+msgid "Interval (ms)"
+msgstr ""
+
+#: templates/admin/moderation-panel.php:15
+msgid "Moderation"
+msgstr ""
+
+#: templates/admin/moderation-panel.php:18
+msgid "Approved"
+msgstr ""
+
+#: templates/admin/moderation-panel.php:22
+msgid "Rejected"
+msgstr ""
+
+#: templates/admin/moderation-panel.php:45
+#: templates/admin/moderation-panel.php:70
+msgid "REJECT"
+msgstr ""
+
+#: templates/admin/moderation-panel.php:46
+#: templates/admin/moderation-panel.php:91
+msgid "APPROVE"
+msgstr ""
+
+#: templates/admin/moderation-panel.php:47
+#: templates/admin/moderation-panel.php:71
+#: templates/admin/moderation-panel.php:92
+msgid "VIEW ON INSTAGRAM"
+msgstr ""
+
+#: templates/admin/moderation-settings.php:23
+msgctxt "Moderation setting tab title"
+msgid "Moderation"
+msgstr ""
+
+#: templates/admin/moderation-settings.php:36
+msgid "General Settings for Moderation Panel:"
+msgstr ""
+
+#: templates/admin/moderation-settings.php:44
+msgid ""
+"Set how many images you wanna captured and show from Instagram.<br /"
+"><b>(min 20 images)</b>"
+msgstr ""
+
+#: templates/admin/moderation-settings.php:51
+msgctxt "option label"
+msgid "AutoRefresh Moderation Panel"
+msgstr ""
+
+#: templates/admin/moderation-settings.php:60
+msgctxt "option label"
+msgid "Timeout AutoRefresh (ms)"
+msgstr ""
+
+#: templates/admin/moderation-settings.php:68
+msgid "Save Moderation Panel Settings"
+msgstr ""
+
+#: templates/admin/moderation-settings.php:74
+msgid "Apply moderation to a linked profile"
+msgstr ""
+
+#: templates/admin/moderation-settings.php:90
+#: templates/admin/moderation-settings.php:129
+msgid "Moderate It"
+msgstr ""
+
+#: templates/admin/moderation-settings.php:100
+msgid "choose user's images to apply moderation (link)."
+msgstr ""
+
+#: templates/admin/moderation-settings.php:106
+msgid "Apply moderation to a single Hashtag"
+msgstr ""
+
+#: templates/admin/moderation-settings.php:139
+msgid "New hashtag"
+msgstr ""
+
+#: templates/admin/moderation-settings.php:153
+msgid "Save Hashtag"
+msgstr ""
+
+#: templates/admin/plugin-settings.php:20
+msgid "I've just installed Enjoy Instagram for wordpress. Awesome!"
+msgstr ""
+
+#: templates/admin/plugin-settings.php:21
+msgid "Tweet"
+msgstr ""
+
+#: templates/admin/plugin-settings.php:45
+msgid "Buy me a coffee!"
+msgstr ""
+
+#: templates/admin/plugin-settings.php:46
+msgid ""
+"If you liked our work please consider to make a kind donation through "
+"Paypal."
+msgstr ""
+
+#: templates/admin/users-settings.php:16
+msgid ""
+"Thank you for you choise! <strong>Enjoy Instagram - Responsive gallery</"
+"strong> is a plugin lovingly developed for you by "
+msgstr ""
+
+#: templates/admin/users-settings.php:27
+msgid "Connect your first user"
+msgstr ""
+
+#: templates/admin/users-settings.php:35
+msgid "Linked Instagram Profiles"
+msgstr ""
+
+#: templates/admin/users-settings.php:43
+#: templates/admin/users-settings.php:89
+msgid "Add New User"
+msgstr ""
+
+#: templates/admin/users-settings.php:59
+msgid "Unlink User"
+msgstr ""
+
+#: templates/admin/users-settings.php:85
+msgid ""
+"To add a new user, click the button below ( If you are logged in "
+"Instagram, remember to log out first )."
+msgstr ""
+
+#: templates/shortcodes/album-widget.php:204
+#: templates/shortcodes/album.php:204 templates/shortcodes/grid-widget.php:14
+#: templates/shortcodes/grid.php:14
+msgid "Loading..."
+msgstr ""
+
+#: templates/shortcodes/badge-widget.php:199
+#: templates/shortcodes/badge.php:199
+msgid "posts"
+msgstr ""
+
+#: templates/shortcodes/badge-widget.php:207
+#: templates/shortcodes/badge.php:207
+msgid "followers"
+msgstr ""
+
+#: templates/shortcodes/badge-widget.php:215
+#: templates/shortcodes/badge.php:215
+msgid "following"
+msgstr ""

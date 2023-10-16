@@ -1,0 +1,24 @@
+.cenos-advance-banner {
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+.cenos-advance-banner .cenos-advance-banner-box-img > img {
+  display: none;
+}
+.cenos-advance-banner .cenos-advance-banner-box-img, .cenos-advance-banner .cenos-advance-banner-overlay, .cenos-advance-banner .cenos-advance-banner-background {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+.cenos-advance-banner .cenos-advance-banner-overlay {
+  transition: background-color 0.3s ease-in-out;
+}
+.cenos-advance-banner .cenos-advance-banner-content {
+  z-index: 1;
+  height: max-content;
+}
+
+/*# sourceMappingURL=adv_banner.css.map */

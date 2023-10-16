@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ruleset name="WP">
+	<description>Coding standards for the Enjoy instagram plugin suite</description>
+
+	<arg value="ps"/>
+	<arg name="extensions" value="php"/>
+	<arg name="basepath" value="./"/>
+
+	<file>./</file>
+	<exclude-pattern>*/vendor/*</exclude-pattern>
+
+	<rule ref="PHPCompatibilityWP">
+		<config name="testVersion" value="7.1-"/>
+	</rule>
+
+	<rule ref="WordPress-Core">
+		<exclude name="Generic.Arrays.DisallowShortArraySyntax"/>
+		<exclude name="WordPress.PHP.DisallowShortTernary.Found"/>
+		<exclude name="WordPress.DB.PreparedSQL.NotPrepared"/>
+	</rule>
+	<rule ref="WordPress-Docs">
+		<exclude name="Generic.Commenting.DocComment.MissingShort"/>
+		<exclude name="WordPress.Files.FileName"/>
+
+		<!-- Should be re-enabled -->
+		<exclude name="Squiz.Commenting"/>
+	</rule>
+	<rule ref="WordPress.WP.I18n"/>
+	<rule ref="Generic.Arrays.DisallowLongArraySyntax"/>
+	<config name="text_domain" value="enjoy-instagram,default"/>
+
+</ruleset>

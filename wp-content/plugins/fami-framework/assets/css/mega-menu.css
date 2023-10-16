@@ -1,0 +1,248 @@
+/* setting btn on edit nav item */
+.fmfw_mega_menu_settings {
+	margin-left: 10px;
+	font-size: 0.8em;
+	cursor: pointer;
+	color: white;
+	display: inline-block;
+	width: auto;
+	font-weight: normal;
+	height: auto;
+	background: #999;
+	border-color: #444;
+	border-width: 1px;
+	padding: 0 5px;
+	border-radius: 3px;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	-ms-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+	z-index: 1;
+	position: relative;
+}
+.fmfw_mega_menu_settings.hidden {
+	display: none;
+}
+.fmfw_mega_menu_settings:before {
+	font-family: dashicons;
+	content: "\f111";
+	font-size: 10px;
+	margin-right: 2px;
+	display: inline-block;
+	vertical-align: bottom;
+}
+.fmfw_mega_menu_settings:hover {
+	background-color: #0085ba;
+}
+/****************************/
+.fmm-settings {
+	position: relative;
+	display: none;
+}
+
+.fmm-modal-backdrop {
+	z-index: 159899;
+}
+
+.fmm-modal {
+	z-index: 159999;
+}
+
+.fmm-toolbar .spinner {
+	margin-top: 22px;
+}
+
+.fmm-menu a:focus,
+.fmm-menu a:active {
+	outline: none;
+}
+
+.fmm-menu a.active {
+	box-shadow: none;
+}
+
+.fmm-content {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+}
+
+.fmm-content > .fmm-panel {
+	padding: 20px;
+	display: none;
+}
+
+.fmm-content > .fmm-panel.active {
+	display: block;
+}
+
+.fmm-content > .spinner {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -10px 0 0 -10px;
+	opacity: 1;
+	visibility: visible;
+}
+
+/**
+ * Mega Menu Content Fields
+ */
+.mega-settings {
+	overflow: hidden;
+}
+
+.mega-settings .setting-field {
+	float: left;
+	padding-right: 30px;
+}
+
+.mega-settings .setting-field select {
+	width: 100%;
+}
+
+.fmm-mega-content {
+	position: relative;
+	padding: 10px;
+	overflow: hidden;
+	background-color: #fcfcfc;
+}
+
+.fmm-submenu-column {
+	box-sizing: border-box;
+	-webkit-transition: width 0.7s;
+	transition: width 0.7s;
+	float: left;
+	position: relative;
+	padding: 10px;
+}
+
+.fmm-submenu-column ul {
+	margin: 0;
+	padding: 10px;
+	border: 1px solid #eee;
+	background: #fff;
+}
+
+.fmm-submenu-column li.menu-item-depth-0 {
+	text-transform: uppercase;
+	position: relative;
+	padding: 0 60px 0 0;
+	margin-bottom: 0;
+	min-height: 18px;
+}
+
+.fmm-submenu-column .fmm-column-handle {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 20px;
+	cursor: pointer;
+}
+
+.fmm-submenu-column .fmm-resizable-e {
+	right: 40px;
+}
+
+.fmm-submenu-column .fmm-resizable-w {
+	text-align: right;
+}
+
+.fmm-submenu-column .fmm-column-width-label {
+	position: absolute;
+	top: 0;
+	right: 20px;
+	width: 20px;
+	text-align: center;
+}
+
+/**
+ * Background Fields
+ */
+.fmm-panel-background {
+	box-sizing: border-box;
+	position: relative;
+	height: 100%;
+}
+
+.fmm-panel-background .background-image {
+	width: 50%;
+	position: relative;
+	height: 100%;
+	float: left;
+	margin: 0;
+	padding-right: 20px;
+}
+
+.fmm-panel-background .background-image-preview {
+	display: block;
+	margin-bottom: 10px;
+}
+
+.fmm-panel-background .background-image-preview img {
+	max-width: 100%;
+}
+
+/**
+ * Icon fields
+ */
+.fmm-icon-selector {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+.fmm-icon-selector .fmm-icon-search {
+	height: 50px;
+	line-height: 50px;
+	margin: 0;
+	padding: 10px;
+}
+
+.fmm-icon-selector .icons i {
+	cursor: pointer;
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	margin-bottom: 4px;
+	font-size: 20px;
+	text-align: center;
+	line-height: 50px;
+	border: 1px solid #eee;
+}
+
+.fmm-icon-selector .icons .active {
+	background-color: #eee;
+}
+
+#fmm-selected-icon {
+	display: inline-block;
+	width: 48px;
+	height: 48px;
+	text-align: center;
+	border: 1px solid #ccc;
+	float: left;
+	margin-right: 10px;
+	cursor: pointer;
+}
+
+#fmm-selected-icon:hover {
+	border-color: #fe2f2f;
+}
+
+#fmm-selected-icon i {
+	font-size: 20px;
+	line-height: 48px;
+	cursor: pointer;
+}
+
+.icon-preview{
+	width: 32px;
+	display: inline-block;
+}
+.icon-preview img{
+	max-width: 100%;
+	height: auto;
+}

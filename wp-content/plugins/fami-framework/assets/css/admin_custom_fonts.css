@@ -1,0 +1,18 @@
+#addtag .form-field.term-slug-wrap, #addtag .form-field.term-description-wrap {
+  display: none;
+}
+
+.fmfw-custom-fonts-file-wrap.form-field {
+  position: relative;
+  margin: 1.5em 0;
+}
+.fmfw-custom-fonts-file-wrap .fmfw-custom-fonts-upload.button {
+  float: right;
+  margin-right: 5%;
+  margin-top: 2px;
+}
+.fmfw-custom-fonts-file-wrap .fmfw-custom-font-select-field {
+  width: 95%;
+}
+
+/*# sourceMappingURL=admin_custom_fonts.css.map */

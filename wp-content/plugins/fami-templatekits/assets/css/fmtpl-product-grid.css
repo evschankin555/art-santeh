@@ -1,0 +1,11 @@
+.elementor-widget-fmtpl-products-grid .fmtpl_ajax_notice {
+  display: none;
+}
+.elementor-widget-fmtpl-products-grid .fmtpl-products.grid.disabled_load .fmtpl_ajax_notice {
+  display: inline-block;
+}
+.elementor-widget-fmtpl-products-grid .fmtpl-products.grid.disabled_load .ajax_load_product_btn {
+  display: none;
+}
+
+/*# sourceMappingURL=fmtpl-product-grid.css.map */

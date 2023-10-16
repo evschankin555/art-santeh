@@ -1,0 +1,52 @@
+.elementor-widget-fmtpl-instagram .fmtpl-instagram .instagram-feed-content {
+  display: grid;
+}
+@media (min-width: 1200px) {
+  .elementor-widget-fmtpl-instagram.fmtpl-desktop-items-limit-1 .instagram-feed-content .fmins-item:nth-child(n+2) {
+    display: none;
+  }
+  .elementor-widget-fmtpl-instagram.fmtpl-desktop-items-limit-2 .instagram-feed-content .fmins-item:nth-child(n+3) {
+    display: none;
+  }
+  .elementor-widget-fmtpl-instagram.fmtpl-desktop-items-limit-3 .instagram-feed-content .fmins-item:nth-child(n+4) {
+    display: none;
+  }
+  .elementor-widget-fmtpl-instagram.fmtpl-desktop-items-limit-4 .instagram-feed-content .fmins-item:nth-child(n+5) {
+    display: none;
+  }
+  .elementor-widget-fmtpl-instagram.fmtpl-desktop-items-limit-5 .instagram-feed-content .fmins-item:nth-child(n+6) {
+    display: none;
+  }
+  .elementor-widget-fmtpl-instagram.fmtpl-desktop-items-limit-6 .instagram-feed-content .fmins-item:nth-child(n+7) {
+    display: none;
+  }
+  .elementor-widget-fmtpl-instagram.fmtpl-desktop-items-limit-7 .instagram-feed-content .fmins-item:nth-child(n+8) {
+    display: none;
+  }
+  .elementor-widget-fmtpl-instagram.fmtpl-desktop-items-limit-8 .instagram-feed-content .fmins-item:nth-child(n+9) {
+    display: none;
+  }
+  .elementor-widget-fmtpl-instagram.fmtpl-desktop-items-limit-9 .instagram-feed-content .fmins-item:nth-child(n+10) {
+    display: none;
+  }
+  .elementor-widget-fmtpl-instagram.fmtpl-desktop-items-limit-10 .instagram-feed-content .fmins-item:nth-child(n+11) {
+    display: none;
+  }
+  .elementor-widget-fmtpl-instagram.fmtpl-desktop-items-limit-11 .instagram-feed-content .fmins-item:nth-child(n+12) {
+    display: none;
+  }
+  .elementor-widget-fmtpl-instagram.fmtpl-desktop-items-limit-12 .instagram-feed-content .fmins-item:nth-child(n+13) {
+    display: none;
+  }
+  .elementor-widget-fmtpl-instagram.fmtpl-desktop-items-limit-13 .instagram-feed-content .fmins-item:nth-child(n+14) {
+    display: none;
+  }
+  .elementor-widget-fmtpl-instagram.fmtpl-desktop-items-limit-14 .instagram-feed-content .fmins-item:nth-child(n+15) {
+    display: none;
+  }
+  .elementor-widget-fmtpl-instagram.fmtpl-desktop-items-limit-15 .instagram-feed-content .fmins-item:nth-child(n+16) {
+    display: none;
+  }
+}
+
+/*# sourceMappingURL=fmtpl-instagram.css.map */

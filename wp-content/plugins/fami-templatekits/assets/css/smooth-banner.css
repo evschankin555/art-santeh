@@ -1,0 +1,29 @@
+.smooth-banner {
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+.smooth-banner .smooth-banner-box-img > img {
+  display: none;
+}
+.smooth-banner .smooth-banner-box-img, .smooth-banner .smooth-banner-overlay, .smooth-banner .smooth-banner-background {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+.smooth-banner .smooth-banner-overlay {
+  transition: background-color 0.5s ease-in-out;
+}
+.smooth-banner .smooth-banner-content {
+  z-index: 1;
+  height: max-content;
+  display: flex;
+  flex-direction: column;
+}
+.smooth-banner .fmtpl-smooth-divider {
+  display: inline-block;
+}
+
+/*# sourceMappingURL=smooth-banner.css.map */

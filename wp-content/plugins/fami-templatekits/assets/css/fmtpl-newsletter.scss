@@ -1,0 +1,16 @@
+.newsletter-form-content{
+  .mc4wp-form-fields{
+    button[type=submit]{
+      text-transform: initial;
+    }
+    .fmtpl_newsletter_btn{
+      display: inline-flex;
+      align-items: center;
+      &.right {
+        .fmtpl-btn-icon{
+          order: 1;
+        }
+      }
+    }
+  }
+}

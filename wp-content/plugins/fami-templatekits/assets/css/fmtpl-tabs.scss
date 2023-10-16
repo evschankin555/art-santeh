@@ -1,0 +1,33 @@
+.fmtpl-tabs{
+  .fmtpl-tabs-wrapper{
+    .nav-tabs{
+      border-color: transparent;
+      .nav-item.show .nav-link, .nav-link.active, .nav-link:hover{
+        border-style: none;
+        border-color: transparent;
+      }
+      .fmtpl-tab-link {
+        display: flex;
+        height: 100%;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+      }
+      &.right{
+        .fmtpl-tab-link {
+          flex-direction: row-reverse;
+        }
+      }
+      &.top{
+        .fmtpl-tab-link {
+          flex-direction: column;
+          .fmtpl-tab-icon {
+            height: 100%;
+            align-items: center;
+            display: inline-flex;
+          }
+        }
+      }
+    }
+  }
+}

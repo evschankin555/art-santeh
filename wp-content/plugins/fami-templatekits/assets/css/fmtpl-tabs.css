@@ -1,0 +1,27 @@
+.fmtpl-tabs .fmtpl-tabs-wrapper .nav-tabs {
+  border-color: transparent;
+}
+.fmtpl-tabs .fmtpl-tabs-wrapper .nav-tabs .nav-item.show .nav-link, .fmtpl-tabs .fmtpl-tabs-wrapper .nav-tabs .nav-link.active, .fmtpl-tabs .fmtpl-tabs-wrapper .nav-tabs .nav-link:hover {
+  border-style: none;
+  border-color: transparent;
+}
+.fmtpl-tabs .fmtpl-tabs-wrapper .nav-tabs .fmtpl-tab-link {
+  display: flex;
+  height: 100%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.fmtpl-tabs .fmtpl-tabs-wrapper .nav-tabs.right .fmtpl-tab-link {
+  flex-direction: row-reverse;
+}
+.fmtpl-tabs .fmtpl-tabs-wrapper .nav-tabs.top .fmtpl-tab-link {
+  flex-direction: column;
+}
+.fmtpl-tabs .fmtpl-tabs-wrapper .nav-tabs.top .fmtpl-tab-link .fmtpl-tab-icon {
+  height: 100%;
+  align-items: center;
+  display: inline-flex;
+}
+
+/*# sourceMappingURL=fmtpl-tabs.css.map */

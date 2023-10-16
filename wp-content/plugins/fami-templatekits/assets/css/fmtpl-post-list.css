@@ -1,0 +1,25 @@
+.fmtpl-post-list {
+  list-style: none;
+  padding-left: 0;
+}
+.fmtpl-post-list.fmtpl-post-list-inline {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: initial;
+}
+.fmtpl-post-list.fmtpl-post-list-inline .fmtpl-post-list-item {
+  margin-right: 35px;
+}
+.fmtpl-post-list:not(.fmtpl-post-list-inline) .fmtpl-post-list-item {
+  clear: both;
+  margin-bottom: 30px;
+}
+.fmtpl-post-list:not(.fmtpl-post-list-inline) .fmtpl-post-list-item .fmtpl-post-list-thumb {
+  float: left;
+}
+.fmtpl-post-list:not(.fmtpl-post-list-inline) .fmtpl-post-list-item .fmtpl-post-list-thumb img {
+  width: 90px;
+  margin-right: 20px;
+}
+
+/*# sourceMappingURL=fmtpl-post-list.css.map */

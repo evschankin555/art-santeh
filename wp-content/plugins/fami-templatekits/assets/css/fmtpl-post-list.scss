@@ -1,0 +1,25 @@
+.fmtpl-post-list{
+  list-style: none;
+  padding-left: 0;
+  &.fmtpl-post-list-inline{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: initial;
+    .fmtpl-post-list-item{
+      margin-right: 35px;
+    }
+  }
+  &:not(.fmtpl-post-list-inline){
+    .fmtpl-post-list-item{
+      clear: both;
+      margin-bottom: 30px;
+      .fmtpl-post-list-thumb{
+        float: left;
+        img{
+          width: 90px;
+          margin-right: 20px;
+        }
+      }
+    }
+  }
+}

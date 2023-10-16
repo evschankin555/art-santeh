@@ -1,0 +1,51 @@
+.fmtpl-widget-icon {
+  &:after {
+    content: 'FM';
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    color: #556068;
+    font-size: 9px;
+    border: 1px solid #dedede;
+    font-weight: 400;
+    padding: 1px 2px;
+    line-height: 10px;
+    display: inline-block;
+    border-radius: 2px;
+    font-family: "Open Sans", Roboto, Helvetica, Arial, sans-serif;
+  }
+  &:before{
+    content: "";
+    display: block;
+    width: 30px;
+    height: 28px;
+    margin: 0 auto;
+  }
+  &.fmtpl-carousel-image:before{
+    background: url("../img/carousel-image.jpg");
+  }
+  &.fmtpl-carousel-testimonial:before{
+    background: url("../img/carousel-testimonial.jpg");
+  }
+  &.fmtpl-carousel-product:before{
+    background: url("../img/carousel-product.jpg");
+  }
+  &.fmtpl-product-deal:before{
+    background: url("../img/deal_product.jpg");
+  }
+  &.fmtpl-product-carousel-banner:before{
+    background: url("../img/product-carousel-banner.jpg");
+  }
+  &.fmtpl-type-writing:before{
+    background: url("../img/type-writing.jpg");
+  }
+  &.fmtpl-currency:before{
+    background: url("../img/currency-switch.jpg");
+  }
+}
+.elementor-panel .elementor-element:hover .fmtpl-widget-icon:after {
+  color: #D30C5C;
+}
+.fmtpl_hidden{
+  display: none!important;
+}

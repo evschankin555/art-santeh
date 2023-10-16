@@ -1,0 +1,15 @@
+#gallery_360degree h4 {
+  font-weight: bold;
+}
+#gallery_360degree .options_group {
+  padding: 15px;
+}
+#gallery_360degree .product-gallery-images li.image {
+  display: inline-block;
+}
+#gallery_360degree .product-gallery-images li.image img {
+  width: 100px;
+  height: auto;
+}
+
+/*# sourceMappingURL=product-360-admin.css.map */

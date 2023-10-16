@@ -1,0 +1,23 @@
+.fmtpl-products{
+  &.carousel{
+    &.arrow-heading{
+      .fmtpl-carousel-navigation-wrapper{
+        display: flex;
+        .elementor-swiper-button{
+          position: static;
+        }
+      }
+      &.fmtpl-products-layout-fmtpl_style01{
+        .fmtpl-carousel-box-heading{
+          display: flex;
+          justify-content: space-between;
+        }
+      }
+      &.fmtpl-products-layout-fmtpl_style02{
+        .fmtpl-elementor-main-swiper{
+          display: flex;
+        }
+      }
+    }
+  }
+}

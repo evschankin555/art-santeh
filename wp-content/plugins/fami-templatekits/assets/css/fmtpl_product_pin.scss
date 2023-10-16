@@ -1,0 +1,119 @@
+.elementor-widget-fmtpl-product-pin {
+  .fmtpl_product_pin{
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    .fmtpl_product_pin-overlay,.fmtpl_product_pin-background {
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      right: 0;
+    }
+    .fmtpl_product_pin-overlay{
+      transition: background-color 0.3s ease-in-out;
+    }
+    .fmtpl_product_pin-background{
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: left top;
+      &.zoom{
+        transition: transform 0.4s ease-in-out;
+      }
+      &.gray_scale{
+        transition: filter 0.4s ease-in-out;
+      }
+    }
+    .fmtpl_product_pin-box-img{
+      opacity: 0;
+      &:not(.has-link) {
+        visibility: hidden;
+      }
+      &.has-link{
+        img{
+          width: 100%;
+          height: 100%;
+        }
+      }
+    }
+    .fmtpl_product_pin-content{
+      z-index: 1;
+      height: max-content;
+    }
+    .fmtpl-product-pin-item{
+      position: absolute;
+      z-index: 3;
+      .pin_content_wrap {
+        position: relative;
+        height: 40px;
+        width: 40px;
+        border-radius: 50%;
+        background: rgba(255,255,255,0.5);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        -webkit-transition: background 0.25s linear 0s;
+        -moz-transition: background 0.25s linear 0s;
+        -ms-transition: background 0.25s linear 0s;
+        -o-transition: background 0.25s linear 0s;
+        transition: background 0.25s linear 0s;
+        .pin-product-link {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 30px;
+          width: 30px;
+          border-radius: 50%;
+          background: #ff4545;
+          svg {
+            fill: #ffffff;
+          }
+        }
+        .pin-product-box {
+          position: absolute;
+          left: 100%;
+          top: 50%;
+          visibility: hidden;
+          opacity: 0;
+          transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out;
+          background: #FFF;
+          padding: 15px;
+          box-shadow: 0 0 3px rgba(0,0,0,.15);
+          width: 200px;
+          .e-preview--show-hidden-elements &{
+            visibility: visible;
+            opacity: 1;
+          }
+          .pin-product-thumb-wraper {
+            margin-bottom: 10px;
+          }
+          .product-title {
+            font-size: 15px;
+            font-weight: 600;
+            margin-bottom: 0;
+            line-height: 24px;
+          }
+          .product-price {
+            font-size: 15px;
+            line-height: 24px;
+          }
+        }
+      }
+    }
+  }
+}
+@media (min-width: 992px) {
+  .elementor-widget-fmtpl-product-pin {
+    .fmtpl-product-pin-item {
+      .pin_content_wrap {
+        &:hover {
+          background: #ffffff;
+          .pin-product-box{
+            opacity: 1;
+            visibility: visible;
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+.fmtpl-product-deal {
+  display: flex;
+  flex-wrap: wrap;
+}
+.fmtpl-product-deal > div {
+  flex: 1;
+}
+.fmtpl-product-deal .fmtpl-product-deal-time {
+  display: flex;
+  justify-content: flex-start;
+}
+.fmtpl-product-deal .fmtpl-product-deal-time.right {
+  justify-content: flex-end;
+}
+.fmtpl-product-deal .fmtpl-product-deal-time.center {
+  justify-content: center;
+}
+.fmtpl-product-deal .fmtpl-product-deal-time .box-count {
+  display: flex;
+  flex: 1 1 auto;
+  text-align: center;
+  align-items: center;
+}
+.fmtpl-product-deal .fmtpl-product-deal-time.hide_lable .box-count .text {
+  display: none !important;
+}
+.fmtpl-product-deal-label-block .fmtpl-product-deal .box-count {
+  flex-direction: column;
+}
+.fmtpl-product-deal .fmtpl-product-deal-wrapper {
+  display: inline-block;
+}
+.fmtpl-digits-position-before .fmtpl-product-deal .num {
+  order: 0;
+}
+.fmtpl-digits-position-after .fmtpl-product-deal .num {
+  order: 1;
+}
+
+/*# sourceMappingURL=fmtpl-product-deal.css.map */

@@ -1,0 +1,72 @@
+.fmtpl-heading-title {
+  display: flex;
+}
+.fmtpl-heading-title.vertical {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+}
+.fmtpl-heading-title .fmtpl-tittle-content-wrap {
+  display: flex;
+  flex-direction: column;
+}
+.fmtpl-content-align-left .fmtpl-heading-title .fmtpl-tittle-content-wrap {
+  align-items: flex-start;
+}
+.fmtpl-content-align-right .fmtpl-heading-title .fmtpl-tittle-content-wrap {
+  align-items: flex-end;
+}
+.fmtpl-content-align-center .fmtpl-heading-title .fmtpl-tittle-content-wrap {
+  align-items: center;
+}
+.fmtpl-content-position-left .fmtpl-heading-title {
+  justify-content: flex-start;
+}
+.fmtpl-content-position-right .fmtpl-heading-title {
+  justify-content: flex-end;
+}
+.fmtpl-content-position-center .fmtpl-heading-title {
+  justify-content: center;
+}
+.fmtpl-content-align-left .fmtpl-heading-title {
+  text-align: left;
+}
+.fmtpl-content-align-right .fmtpl-heading-title {
+  text-align: right;
+}
+.fmtpl-content-align-center .fmtpl-heading-title {
+  text-align: center;
+}
+.fmtpl-heading-title .fmtpl-title-wrap {
+  display: flex;
+  align-items: center;
+}
+.fmtpl-content-align-left .fmtpl-heading-title .fmtpl-title-wrap {
+  justify-content: flex-start;
+}
+.fmtpl-content-align-right .fmtpl-heading-title .fmtpl-title-wrap {
+  justify-content: flex-end;
+}
+.fmtpl-content-align-center .fmtpl-heading-title .fmtpl-title-wrap {
+  justify-content: center;
+}
+.fmtpl-heading-title .fmtpl-title-wrap.icon-pos-top, .fmtpl-heading-title .fmtpl-title-wrap.icon-pos-bottom {
+  flex-direction: column;
+  justify-content: center;
+}
+.fmtpl-content-align-left .fmtpl-heading-title .fmtpl-title-wrap.icon-pos-top, .fmtpl-content-align-left .fmtpl-heading-title .fmtpl-title-wrap.icon-pos-bottom {
+  align-items: flex-start;
+}
+.fmtpl-content-align-right .fmtpl-heading-title .fmtpl-title-wrap.icon-pos-top, .fmtpl-content-align-right .fmtpl-heading-title .fmtpl-title-wrap.icon-pos-bottom {
+  align-items: flex-end;
+}
+.fmtpl-content-align-center .fmtpl-heading-title .fmtpl-title-wrap.icon-pos-top, .fmtpl-content-align-center .fmtpl-heading-title .fmtpl-title-wrap.icon-pos-bottom {
+  align-items: center;
+}
+.fmtpl-heading-title .fmtpl-title-wrap .title-content.stroke, .fmtpl-heading-title .fmtpl-title-wrap .highlight.stroke {
+  -webkit-text-stroke-width: 1px;
+}
+.fmtpl-heading-title .fmtpl-divider {
+  display: inline-block;
+}
+
+/*# sourceMappingURL=fmtpl-heading-title.css.map */

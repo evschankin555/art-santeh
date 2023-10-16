@@ -1,0 +1,43 @@
+.group-heading-control {
+    color: #fff;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: default;
+    margin-top: 25px;
+    border-bottom: 1px solid #ccc;
+    background: #007cba;
+}
+.group-heading-control.top{
+    margin-top: 0;
+}
+#customize-control-logo_h_align label>i::before, #customize-control-logo_v_align label>i::before,#customize-control-search_clear_btn_icon label>i::before,
+#customize-control-page_pagination_align label>i::before{
+    margin: 0 10px;
+    font-size: 28px;
+    line-height: 28px;
+}
+
+#customize-control-btn_default_style > .image > label{
+    width: 145px; margin-right: 5px;
+}
+
+.customize-control-kirki-generic textarea {
+    width: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.customize-control-kirki-radio-image label {
+    margin-right: 4px;
+}
+.customize-control-kirki-toggle input:checked + .switch:after,.customize-control-kirki-radio-buttonset .buttonset .switch-input:checked + .switch-label,.customize-control-kirki-background .background-attachment .buttonset .switch-input:checked + .switch-label, .customize-control-kirki-background .background-size .buttonset .switch-input:checked + .switch-label{
+    background-color: #7c7ad5;
+}
+#customize-control-woocommerce_catalog_columns, #customize-control-woocommerce_catalog_rows{
+    display: none!important;
+}
+.customize-pane-parent li.accordion-section.control-section-kirki-default {
+    min-height: auto;
+}

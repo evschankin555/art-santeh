@@ -1,0 +1,15 @@
+.fmtpl-products.carousel.arrow-heading .fmtpl-carousel-navigation-wrapper {
+  display: flex;
+}
+.fmtpl-products.carousel.arrow-heading .fmtpl-carousel-navigation-wrapper .elementor-swiper-button {
+  position: static;
+}
+.fmtpl-products.carousel.arrow-heading.fmtpl-products-layout-fmtpl_style01 .fmtpl-carousel-box-heading {
+  display: flex;
+  justify-content: space-between;
+}
+.fmtpl-products.carousel.arrow-heading.fmtpl-products-layout-fmtpl_style02 .fmtpl-elementor-main-swiper {
+  display: flex;
+}
+
+/*# sourceMappingURL=fmtpl-product-carousel.css.map */

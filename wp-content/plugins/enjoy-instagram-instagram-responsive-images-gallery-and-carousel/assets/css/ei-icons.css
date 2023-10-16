@@ -1,0 +1,53 @@
+@font-face {
+	font-family: 'ei-icons';
+	src:  url('../fonts/ei-icons.eot?st3hq0');
+	src:  url('../fonts/ei-icons.eot?st3hq0#iefix') format('embedded-opentype'),
+	url('../fonts/ei-icons.ttf?st3hq0') format('truetype'),
+	url('../fonts/ei-icons.woff?st3hq0') format('woff'),
+	url('../fonts/ei-icons.svg?st3hq0#ei-icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+}
+
+[class^="ei-icons-"], [class*=" ei-icons-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'ei-icons' !important;
+	speak: never;
+	font-style: normal;
+	font-weight: 400;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	width: 16px;
+	height: 16px;
+	font-size: 16px;
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.ei-icons-database:before {
+	content: "\e900";
+}
+.ei-icons-hash:before {
+	content: "\e901";
+}
+.ei-icons-heart:before {
+	content: "\e902";
+}
+.ei-icons-instagram:before {
+	content: "\e903";
+}
+.ei-icons-thumbs-down:before {
+	content: "\e904";
+}
+.ei-icons-thumbs-up:before {
+	content: "\e905";
+}
+.ei-icons-users:before {
+	content: "\e906";
+}
