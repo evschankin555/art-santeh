@@ -45,7 +45,7 @@ function get_product_attributes($product_id) {
         $attributes = $product->get_attributes();
 
         foreach ($attributes as $attribute) {
-            $attribute_label = wc_attribute_label($attribute->get_name()); // Получаем более информативное название атрибута
+            $attribute_label = str_replace(':', '', wc_attribute_label($attribute->get_name())); // Получаем более информативное название атрибута
             $attribute_options = $attribute->get_terms(); // Значения атрибута
             $attribute_values = wp_list_pluck($attribute_options, 'name');
 
